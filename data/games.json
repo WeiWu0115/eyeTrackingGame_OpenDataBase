@@ -1,0 +1,527 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-10-15",
+  "license": "CC-BY-4.0 for original descriptions and database arrangement; third-party images and source materials excluded",
+  "games": [
+    {
+      "id": "tomb",
+      "title": "Shadow of the Tomb Raider",
+      "title_zh": "古墓丽影：暗影",
+      "category": "商业游戏",
+      "genre": "动作冒险",
+      "device": "Tobii 眼动仪",
+      "platform": "Windows PC",
+      "interaction": "眼动辅助",
+      "description": "扮演劳拉探索丛林与遗迹。眼动可辅助选择瞄准与投掷目标，并在生存本能模式下突出注视的对象。",
+      "features": [
+        "注视瞄准",
+        "注视投掷",
+        "眼动与头动视角"
+      ],
+      "sources": [
+        {
+          "title": "Tobii Gaming",
+          "url": "https://gaming.tobii.com/games/shadow-of-the-tomb-raider/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2018/08/Shadow-of-the-Tomb-Raider-with-Tobii-Eye-Tracking.png",
+      "image_source": "https://gaming.tobii.com/games/shadow-of-the-tomb-raider/",
+      "image_credit": "Tobii Gaming",
+      "image_kind": "官方游戏宣传图／截图",
+      "image_license": "第三方版权，未纳入开放数据许可",
+      "availability": "商业发行",
+      "notes": "眼动为辅助输入；仍需键鼠或手柄。功能与兼容性以所链接的 PC 版本说明为准。",
+      "year": null,
+      "verified_at": "2026-10-15"
+    },
+    {
+      "id": "valhalla",
+      "title": "Assassin’s Creed Valhalla",
+      "title_zh": "刺客信条：英灵殿",
+      "category": "商业游戏",
+      "genre": "开放世界",
+      "device": "Tobii 眼动仪",
+      "platform": "Windows PC",
+      "interaction": "眼动辅助",
+      "description": "在维京时代探索与战斗，注视位置可决定初始瞄准，也能用于选取拾取物；视角与光照随视线响应。",
+      "features": [
+        "注视瞄准",
+        "注视交互",
+        "动态光照"
+      ],
+      "sources": [
+        {
+          "title": "Tobii Gaming",
+          "url": "https://gaming.tobii.com/games/assassins-creed-valhalla/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2020/06/assassins-creed-valhalla-seo.jpg",
+      "image_source": "https://gaming.tobii.com/games/assassins-creed-valhalla/",
+      "image_credit": "Tobii Gaming",
+      "image_kind": "官方游戏宣传图／截图",
+      "image_license": "第三方版权，未纳入开放数据许可",
+      "availability": "商业发行",
+      "notes": "眼动为辅助输入；仍需键鼠或手柄。功能与兼容性以所链接的 PC 版本说明为准。",
+      "year": null,
+      "verified_at": "2026-10-15"
+    },
+    {
+      "id": "odyssey",
+      "title": "Assassin’s Creed Odyssey",
+      "title_zh": "刺客信条：奥德赛",
+      "category": "商业游戏",
+      "genre": "开放世界",
+      "device": "Tobii 眼动仪",
+      "platform": "Windows PC",
+      "interaction": "眼动辅助",
+      "description": "探索古希腊的开放世界。利用视线标记敌人、辅助瞄准与锁定目标，让观察和战斗操作更连贯。",
+      "features": [
+        "敌人标记",
+        "注视瞄准",
+        "目标锁定"
+      ],
+      "sources": [
+        {
+          "title": "Tobii Gaming",
+          "url": "https://gaming.tobii.com/games/assassins-creed-odyssey/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2018/09/Play-Assassins-Creed-Odyssey-with-Tobii-Eye-Tracking.png",
+      "image_source": "https://gaming.tobii.com/games/assassins-creed-odyssey/",
+      "image_credit": "Tobii Gaming",
+      "image_kind": "官方游戏宣传图／截图",
+      "image_license": "第三方版权，未纳入开放数据许可",
+      "availability": "商业发行",
+      "notes": "眼动为辅助输入；仍需键鼠或手柄。功能与兼容性以所链接的 PC 版本说明为准。",
+      "year": null,
+      "verified_at": "2026-10-15"
+    },
+    {
+      "id": "legion",
+      "title": "Watch Dogs: Legion",
+      "title_zh": "看门狗：军团",
+      "category": "商业游戏",
+      "genre": "开放世界",
+      "device": "Tobii 眼动仪",
+      "platform": "Windows PC",
+      "interaction": "眼动辅助",
+      "description": "在未来伦敦招募成员与执行任务。可以看向黑入目标或武器轮盘选项，界面也会按注视情况淡入淡出。",
+      "features": [
+        "注视黑入",
+        "轮盘选择",
+        "注视响应界面"
+      ],
+      "sources": [
+        {
+          "title": "Tobii Gaming",
+          "url": "https://gaming.tobii.com/games/watch-dogs-legion/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2019/10/watchdogs-legion-seo.jpg",
+      "image_source": "https://gaming.tobii.com/games/watch-dogs-legion/",
+      "image_credit": "Tobii Gaming",
+      "image_kind": "官方游戏宣传图／截图",
+      "image_license": "第三方版权，未纳入开放数据许可",
+      "availability": "商业发行",
+      "notes": "眼动为辅助输入；仍需键鼠或手柄。功能与兼容性以所链接的 PC 版本说明为准。",
+      "year": null,
+      "verified_at": "2026-10-15"
+    },
+    {
+      "id": "farcry",
+      "title": "Far Cry 6",
+      "title_zh": "孤岛惊魂 6",
+      "category": "商业游戏",
+      "genre": "射击",
+      "device": "Tobii 眼动仪",
+      "platform": "Windows PC",
+      "interaction": "眼动辅助",
+      "description": "在雅拉进行开放世界战斗。眼动支持敌人标记、指挥动物伙伴，配合头动调整视角，并提供独立的灵敏度设置。",
+      "features": [
+        "敌人标记",
+        "伙伴指令",
+        "视角扩展"
+      ],
+      "sources": [
+        {
+          "title": "Tobii Gaming",
+          "url": "https://gaming.tobii.com/games/far-cry-6/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2021/06/far-cry-6-seo.jpg",
+      "image_source": "https://gaming.tobii.com/games/far-cry-6/",
+      "image_credit": "Tobii Gaming",
+      "image_kind": "官方游戏宣传图／截图",
+      "image_license": "第三方版权，未纳入开放数据许可",
+      "availability": "商业发行",
+      "notes": "眼动为辅助输入；仍需键鼠或手柄。功能与兼容性以所链接的 PC 版本说明为准。",
+      "year": null,
+      "verified_at": "2026-10-15"
+    },
+    {
+      "id": "breakpoint",
+      "title": "Ghost Recon Breakpoint",
+      "title_zh": "幽灵行动：断点",
+      "category": "商业游戏",
+      "genre": "战术射击",
+      "device": "Tobii 眼动仪",
+      "platform": "Windows PC",
+      "interaction": "眼动辅助",
+      "description": "在极光岛开展战术行动。注视可辅助初始瞄准、标记敌人、选择指令与定位菜单光标。",
+      "features": [
+        "注视瞄准",
+        "注视标记",
+        "注视菜单选择"
+      ],
+      "sources": [
+        {
+          "title": "Tobii Gaming",
+          "url": "https://gaming.tobii.com/games/ghost-recon-breakpoint/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2019/08/GRB-StandardKeyartWIDE-041219-WITH-LOGO.jpg",
+      "image_source": "https://gaming.tobii.com/games/ghost-recon-breakpoint/",
+      "image_credit": "Tobii Gaming",
+      "image_kind": "官方游戏宣传图／截图",
+      "image_license": "第三方版权，未纳入开放数据许可",
+      "availability": "商业发行",
+      "notes": "眼动为辅助输入；仍需键鼠或手柄。功能与兼容性以所链接的 PC 版本说明为准。",
+      "year": null,
+      "verified_at": "2026-10-15"
+    },
+    {
+      "id": "before-your-eyes",
+      "title": "Before Your Eyes",
+      "title_zh": "历历在目",
+      "category": "商业游戏",
+      "genre": "叙事冒险",
+      "device": "普通摄像头",
+      "platform": "PC（摄像头版本）",
+      "interaction": "眨眼交互",
+      "description": "通过真实眨眼穿梭人生记忆的叙事冒险。眨眼会推动故事时间流动，让眼部动作成为叙事机制。",
+      "features": [
+        "眨眼推进剧情",
+        "摄像头检测"
+      ],
+      "sources": [
+        {
+          "title": "Steam / GoodbyeWorld Games / Skybound Games",
+          "url": "https://store.steampowered.com/app/1082430/Before_Your_Eyes/"
+        }
+      ],
+      "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1082430/header.jpg",
+      "image_source": "https://store.steampowered.com/app/1082430/Before_Your_Eyes/",
+      "image_credit": "Steam / GoodbyeWorld Games / Skybound Games",
+      "image_kind": "官方游戏宣传图／截图",
+      "image_license": "第三方版权，未纳入开放数据许可",
+      "availability": "商业发行",
+      "notes": "属于眨眼检测，并非连续注视点追踪；单独标注以便比较。",
+      "year": 2021,
+      "verified_at": "2026-10-15"
+    },
+    {
+      "id": "eyemine",
+      "title": "Minecraft + EyeMine 2",
+      "title_zh": "我的世界眼控适配",
+      "category": "无障碍眼控",
+      "genre": "沙盒建造",
+      "device": "兼容眼动仪",
+      "platform": "Windows PC",
+      "interaction": "眼控为主",
+      "description": "SpecialEffect 为 Minecraft Java 版提供的眼控工具，可通过注视按钮和停留选择来移动、开采与建造。",
+      "features": [
+        "停留选择",
+        "眼控建造",
+        "可定制键盘"
+      ],
+      "sources": [
+        {
+          "title": "SpecialEffect",
+          "url": "https://www.specialeffect.org.uk/how-we-can-help/eyemine"
+        },
+        {
+          "title": "EyeMine 代码与安装文档",
+          "url": "https://github.com/SpecialEffect/EyeMine"
+        }
+      ],
+      "image_url": "https://www.specialeffect.org.uk/wp-content/uploads/2021/08/header_eyemine1600.jpg",
+      "image_source": "https://www.specialeffect.org.uk/how-we-can-help/eyemine",
+      "image_credit": "SpecialEffect",
+      "image_kind": "官方游戏宣传图／截图",
+      "image_license": "第三方版权，未纳入开放数据许可",
+      "availability": "工具免费；Minecraft 需账号／许可",
+      "notes": "需安装 EyeMine 与配套游戏版本；不适用于手机或主机版 Minecraft。",
+      "year": null,
+      "verified_at": "2026-10-15"
+    },
+    {
+      "id": "open-drive",
+      "title": "Open Drive",
+      "title_zh": "眼控自由驾驶",
+      "category": "无障碍眼控",
+      "genre": "驾驶",
+      "device": "兼容眼动仪",
+      "platform": "浏览器",
+      "interaction": "眼控为主",
+      "description": "在开放场地驾驶车辆、挑战坡道与特技并收集奖杯，支持多种眼控设置。",
+      "features": [
+        "眼控操作",
+        "多种辅助输入"
+      ],
+      "sources": [
+        {
+          "title": "SpecialEffect",
+          "url": "https://www.specialeffect.org.uk/news/take-a-spin-with-open-drive-our-new-eye-gaze-game"
+        },
+        {
+          "title": "Eye Gaze Games 游戏入口",
+          "url": "https://www.eyegazegames.com/"
+        }
+      ],
+      "image_url": "https://www.specialeffect.org.uk/wp-content/uploads/2022/04/OD_TW.jpg",
+      "image_source": "https://www.specialeffect.org.uk/news/take-a-spin-with-open-drive-our-new-eye-gaze-game",
+      "image_credit": "SpecialEffect",
+      "image_kind": "官方游戏宣传图／截图",
+      "image_license": "第三方版权，未纳入开放数据许可",
+      "availability": "免费浏览器游戏",
+      "notes": "通过 Eye Gaze Games 进入；需要眼动仪与相应指针控制软件。",
+      "year": null,
+      "verified_at": "2026-10-15"
+    },
+    {
+      "id": "gazey-golf",
+      "title": "Gazey Golf",
+      "title_zh": "眼控迷你高尔夫",
+      "category": "无障碍眼控",
+      "genre": "体育",
+      "device": "兼容眼动仪",
+      "platform": "浏览器",
+      "interaction": "眼控为主",
+      "description": "为眼控优化的迷你高尔夫，提供四组九洞球场，可挑战个人成绩或与本地玩家对战。",
+      "features": [
+        "眼控操作",
+        "多种辅助输入"
+      ],
+      "sources": [
+        {
+          "title": "SpecialEffect",
+          "url": "https://www.specialeffect.org.uk/news/gazey-golf-the-latest-title-in-our-eye-gaze-games-series"
+        },
+        {
+          "title": "Eye Gaze Games 游戏入口",
+          "url": "https://www.eyegazegames.com/"
+        }
+      ],
+      "image_url": "https://www.specialeffect.org.uk/wp-content/uploads/2021/11/gazey_TW.jpg",
+      "image_source": "https://www.specialeffect.org.uk/news/gazey-golf-the-latest-title-in-our-eye-gaze-games-series",
+      "image_credit": "SpecialEffect",
+      "image_kind": "官方游戏宣传图／截图",
+      "image_license": "第三方版权，未纳入开放数据许可",
+      "availability": "免费浏览器游戏",
+      "notes": "通过 Eye Gaze Games 进入；需要眼动仪与相应指针控制软件。",
+      "year": null,
+      "verified_at": "2026-10-15"
+    },
+    {
+      "id": "mole-miners",
+      "title": "Mole Miners",
+      "title_zh": "鼹鼠矿工",
+      "category": "无障碍眼控",
+      "genre": "消除",
+      "device": "兼容眼动仪",
+      "platform": "浏览器",
+      "interaction": "眼控为主",
+      "description": "Eye Gaze Games 中的弹珠消除类游戏，面向使用视线控制的玩家设计。",
+      "features": [
+        "停留选择",
+        "可调眼控设置"
+      ],
+      "sources": [
+        {
+          "title": "SpecialEffect / GameAccess",
+          "url": "https://gameaccess.info/eye-gaze-games-eye-gaze-setup-and-options/"
+        },
+        {
+          "title": "Eye Gaze Games 游戏入口",
+          "url": "https://www.eyegazegames.com/"
+        }
+      ],
+      "image_url": "https://gameaccess.info/wp-content/uploads/2020/12/Mole-Miners.png",
+      "image_source": "https://gameaccess.info/eye-gaze-games-eye-gaze-setup-and-options/",
+      "image_credit": "SpecialEffect / GameAccess",
+      "image_kind": "官方游戏截图",
+      "image_license": "第三方版权，未纳入开放数据许可",
+      "availability": "免费浏览器游戏",
+      "notes": "以官方说明列出的游戏为收录依据；实际入口与版本以 Eye Gaze Games 为准。",
+      "year": null,
+      "verified_at": "2026-10-15"
+    },
+    {
+      "id": "chess",
+      "title": "Chess · Eye Gaze Games",
+      "title_zh": "眼控国际象棋",
+      "category": "无障碍眼控",
+      "genre": "棋类",
+      "device": "兼容眼动仪",
+      "platform": "浏览器",
+      "interaction": "眼控为主",
+      "description": "利用为眼控设计的选择界面下国际象棋，可配置经典或精确控制模式。",
+      "features": [
+        "停留选择",
+        "可调眼控设置"
+      ],
+      "sources": [
+        {
+          "title": "SpecialEffect / GameAccess",
+          "url": "https://gameaccess.info/eye-gaze-games-eye-gaze-setup-and-options/"
+        },
+        {
+          "title": "Eye Gaze Games 游戏入口",
+          "url": "https://www.eyegazegames.com/"
+        }
+      ],
+      "image_url": "https://gameaccess.info/wp-content/uploads/2020/12/Classic-Chess-EGG.png",
+      "image_source": "https://gameaccess.info/eye-gaze-games-eye-gaze-setup-and-options/",
+      "image_credit": "SpecialEffect / GameAccess",
+      "image_kind": "官方游戏截图",
+      "image_license": "第三方版权，未纳入开放数据许可",
+      "availability": "免费浏览器游戏",
+      "notes": "以官方说明列出的游戏为收录依据；实际入口与版本以 Eye Gaze Games 为准。",
+      "year": null,
+      "verified_at": "2026-10-15"
+    },
+    {
+      "id": "sudoku",
+      "title": "Sudoku · Eye Gaze Games",
+      "title_zh": "眼控数独",
+      "category": "无障碍眼控",
+      "genre": "益智",
+      "device": "兼容眼动仪",
+      "platform": "浏览器",
+      "interaction": "眼控为主",
+      "description": "Eye Gaze Games 中的数独游戏，提供适合眼控玩家的浏览器游戏入口。",
+      "features": [
+        "停留选择",
+        "可调眼控设置"
+      ],
+      "sources": [
+        {
+          "title": "SpecialEffect / GameAccess",
+          "url": "https://gameaccess.info/eye-gaze-games-eye-gaze-setup-and-options/"
+        },
+        {
+          "title": "Eye Gaze Games 游戏入口",
+          "url": "https://www.eyegazegames.com/"
+        }
+      ],
+      "image_url": "https://gameaccess.info/wp-content/uploads/2020/12/Homescreen.png",
+      "image_source": "https://gameaccess.info/eye-gaze-games-eye-gaze-setup-and-options/",
+      "image_credit": "SpecialEffect / GameAccess",
+      "image_kind": "游戏集合首页（包含数独）",
+      "image_license": "第三方版权，未纳入开放数据许可",
+      "availability": "免费浏览器游戏",
+      "notes": "以官方说明列出的游戏为收录依据；实际入口与版本以 Eye Gaze Games 为准。",
+      "year": null,
+      "verified_at": "2026-10-15"
+    },
+    {
+      "id": "regaze",
+      "title": "reGaze",
+      "title_zh": "VR 眼动超能力交互原型",
+      "category": "研究原型",
+      "genre": "VR 探索解谜",
+      "device": "Vive Pro Eye",
+      "platform": "PC VR / Unity",
+      "interaction": "眼动与其他输入",
+      "description": "研究眼动驱动的冲刺移动与物体选择、操纵，在探索解谜场景中与传统控制器方式进行比较。",
+      "features": [
+        "视线移动",
+        "物体选择与操纵"
+      ],
+      "sources": [
+        {
+          "title": "reGaze 项目团队 / Aalborg University",
+          "url": "https://c-tsalidis.github.io/web_reGaze/"
+        },
+        {
+          "title": "作者代码仓库",
+          "url": "https://github.com/ScottJamesNaylor/MED507_P5"
+        },
+        {
+          "title": "作者研究报告",
+          "url": "https://c-tsalidis.github.io/web_reGaze/Report/MED507_P5.pdf"
+        }
+      ],
+      "image_url": "https://c-tsalidis.github.io/web_reGaze/Images/Playthrough.gif",
+      "image_source": "https://c-tsalidis.github.io/web_reGaze/",
+      "image_credit": "reGaze 项目团队 / Aalborg University",
+      "image_kind": "作者项目演示动画",
+      "image_license": "第三方版权，未纳入开放数据许可",
+      "availability": "作者提供代码仓库",
+      "notes": "研究原型，非商业成品。项目页链接代码与报告；运行环境和许可证需查看原仓库。",
+      "year": null,
+      "verified_at": "2026-10-15"
+    },
+    {
+      "id": "geyeded",
+      "title": "gEYEded",
+      "title_zh": "探索游戏中的视线引导原型",
+      "category": "研究原型",
+      "genre": "探索",
+      "device": "Tobii EyeX",
+      "platform": "PC / Unity",
+      "interaction": "注视响应",
+      "description": "探索游戏原型，用于研究基于注视的玩家引导，关注引导的细微程度与挑战性。",
+      "features": [
+        "视线引导",
+        "注视响应"
+      ],
+      "sources": [
+        {
+          "title": "论文：gEYEded（2019）",
+          "url": "https://www.mdpi.com/2414-4088/3/3/61"
+        }
+      ],
+      "image_url": "assets/research-guide.svg",
+      "image_source": "https://www.mdpi.com/2414-4088/3/3/61",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "本数据库原创机制示意",
+      "image_license": "CC BY 4.0；不包含来源论文内容",
+      "availability": "论文可查；未核实可玩版本",
+      "notes": "图为本数据库绘制的机制示意，不是游戏截图。来源检索摘要可读，出版商全文页访问受限；设备与研究目的据摘要记录。",
+      "year": 2019,
+      "verified_at": "2026-10-15"
+    },
+    {
+      "id": "gaze-voice",
+      "title": "Gaze and voice driven hands free gaming",
+      "title_zh": "眼动与声音免手操作原型",
+      "category": "研究原型",
+      "genre": "平台跳跃",
+      "device": "眼动仪＋麦克风",
+      "platform": "研究实验环境",
+      "interaction": "眼动与其他输入",
+      "description": "在二维跳跃游戏中结合眼动与非语言声音（如哼声）进行免手操作，探索多模态输入的可行性。",
+      "features": [
+        "眼动定位",
+        "声音输入",
+        "免手交互"
+      ],
+      "sources": [
+        {
+          "title": "University of Stuttgart / Mike Lauer",
+          "url": "https://www.ki.uni-stuttgart.de/departments/ac/teaching/student-theses/gaze-voice-game/"
+        }
+      ],
+      "image_url": "assets/research-voice.svg",
+      "image_source": "https://www.ki.uni-stuttgart.de/departments/ac/teaching/student-theses/gaze-voice-game/",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "本数据库原创机制示意",
+      "image_license": "CC BY 4.0；不包含来源论文内容",
+      "availability": "学位论文可查；未核实可玩版本",
+      "notes": "图为本数据库绘制的机制示意，不是游戏截图。设备具体型号与复现条件需查阅论文。",
+      "year": 2021,
+      "verified_at": "2026-10-15"
+    }
+  ]
+}
