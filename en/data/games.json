@@ -1,0 +1,528 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-10-15",
+  "license": "CC-BY-4.0 for original descriptions and database arrangement; third-party images and source materials excluded",
+  "games": [
+    {
+      "id": "tomb",
+      "title": "Shadow of the Tomb Raider",
+      "category": "Commercial games",
+      "genre": "Action adventure",
+      "device": "Tobii eye tracker",
+      "platform": "Windows PC",
+      "interaction": "Gaze-assisted input",
+      "description": "Explore jungles and ruins as Lara Croft. Gaze helps select aiming and throwing targets, while Survival Instinct highlights objects you look at.",
+      "features": [
+        "Aim at gaze",
+        "Throw at gaze",
+        "Eye and head camera control"
+      ],
+      "sources": [
+        {
+          "title": "Tobii Gaming",
+          "url": "https://gaming.tobii.com/games/shadow-of-the-tomb-raider/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2018/08/Shadow-of-the-Tomb-Raider-with-Tobii-Eye-Tracking.png",
+      "image_source": "https://gaming.tobii.com/games/shadow-of-the-tomb-raider/",
+      "image_credit": "Tobii Gaming",
+      "image_kind": "Official promotional image / screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Commercial release",
+      "notes": "Gaze supplements conventional input; a keyboard and mouse or controller is still needed. Features and compatibility apply to the PC version described in the linked documentation.",
+      "year": null,
+      "verified_at": "2026-10-15",
+      "subtitle": "Jungle exploration with gaze-assisted targeting"
+    },
+    {
+      "id": "valhalla",
+      "title": "Assassin’s Creed Valhalla",
+      "category": "Commercial games",
+      "genre": "Open world",
+      "device": "Tobii eye tracker",
+      "platform": "Windows PC",
+      "interaction": "Gaze-assisted input",
+      "description": "Explore and fight in the Viking era. Your gaze sets the initial aim and selects loot, while the camera and lighting respond to where you look.",
+      "features": [
+        "Aim at gaze",
+        "Interaction at gaze",
+        "Dynamic lighting"
+      ],
+      "sources": [
+        {
+          "title": "Tobii Gaming",
+          "url": "https://gaming.tobii.com/games/assassins-creed-valhalla/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2020/06/assassins-creed-valhalla-seo.jpg",
+      "image_source": "https://gaming.tobii.com/games/assassins-creed-valhalla/",
+      "image_credit": "Tobii Gaming",
+      "image_kind": "Official promotional image / screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Commercial release",
+      "notes": "Gaze supplements conventional input; a keyboard and mouse or controller is still needed. Features and compatibility apply to the PC version described in the linked documentation.",
+      "year": null,
+      "verified_at": "2026-10-15",
+      "subtitle": "Gaze-assisted exploration in the Viking era"
+    },
+    {
+      "id": "odyssey",
+      "title": "Assassin’s Creed Odyssey",
+      "category": "Commercial games",
+      "genre": "Open world",
+      "device": "Tobii eye tracker",
+      "platform": "Windows PC",
+      "interaction": "Gaze-assisted input",
+      "description": "Explore an open-world Ancient Greece. Use your gaze to tag enemies, assist aiming, and lock targets for more fluid observation and combat.",
+      "features": [
+        "Enemy tagging",
+        "Aim at gaze",
+        "Target locking"
+      ],
+      "sources": [
+        {
+          "title": "Tobii Gaming",
+          "url": "https://gaming.tobii.com/games/assassins-creed-odyssey/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2018/09/Play-Assassins-Creed-Odyssey-with-Tobii-Eye-Tracking.png",
+      "image_source": "https://gaming.tobii.com/games/assassins-creed-odyssey/",
+      "image_credit": "Tobii Gaming",
+      "image_kind": "Official promotional image / screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Commercial release",
+      "notes": "Gaze supplements conventional input; a keyboard and mouse or controller is still needed. Features and compatibility apply to the PC version described in the linked documentation.",
+      "year": null,
+      "verified_at": "2026-10-15",
+      "subtitle": "Gaze-assisted adventure in Ancient Greece"
+    },
+    {
+      "id": "legion",
+      "title": "Watch Dogs: Legion",
+      "category": "Commercial games",
+      "genre": "Open world",
+      "device": "Tobii eye tracker",
+      "platform": "Windows PC",
+      "interaction": "Gaze-assisted input",
+      "description": "Recruit operatives and take on missions in a futuristic London. Look at hacking targets or selection-wheel options; interface elements fade according to your attention.",
+      "features": [
+        "Hack at gaze",
+        "Selection wheels",
+        "Gaze-responsive UI"
+      ],
+      "sources": [
+        {
+          "title": "Tobii Gaming",
+          "url": "https://gaming.tobii.com/games/watch-dogs-legion/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2019/10/watchdogs-legion-seo.jpg",
+      "image_source": "https://gaming.tobii.com/games/watch-dogs-legion/",
+      "image_credit": "Tobii Gaming",
+      "image_kind": "Official promotional image / screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Commercial release",
+      "notes": "Gaze supplements conventional input; a keyboard and mouse or controller is still needed. Features and compatibility apply to the PC version described in the linked documentation.",
+      "year": null,
+      "verified_at": "2026-10-15",
+      "subtitle": "Hacking and interface control through gaze"
+    },
+    {
+      "id": "farcry",
+      "title": "Far Cry 6",
+      "category": "Commercial games",
+      "genre": "Shooter",
+      "device": "Tobii eye tracker",
+      "platform": "Windows PC",
+      "interaction": "Gaze-assisted input",
+      "description": "Fight across the open world of Yara. Gaze supports enemy tagging and companion commands, with eye and head camera control and separate sensitivity settings.",
+      "features": [
+        "Enemy tagging",
+        "Companion commands",
+        "Extended view"
+      ],
+      "sources": [
+        {
+          "title": "Tobii Gaming",
+          "url": "https://gaming.tobii.com/games/far-cry-6/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2021/06/far-cry-6-seo.jpg",
+      "image_source": "https://gaming.tobii.com/games/far-cry-6/",
+      "image_credit": "Tobii Gaming",
+      "image_kind": "Official promotional image / screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Commercial release",
+      "notes": "Gaze supplements conventional input; a keyboard and mouse or controller is still needed. Features and compatibility apply to the PC version described in the linked documentation.",
+      "year": null,
+      "verified_at": "2026-10-15",
+      "subtitle": "Gaze-assisted combat in Yara"
+    },
+    {
+      "id": "breakpoint",
+      "title": "Ghost Recon Breakpoint",
+      "category": "Commercial games",
+      "genre": "Tactical shooter",
+      "device": "Tobii eye tracker",
+      "platform": "Windows PC",
+      "interaction": "Gaze-assisted input",
+      "description": "Conduct tactical operations on Auroa. Gaze assists initial aiming, enemy tagging, command selection, and menu cursor positioning.",
+      "features": [
+        "Aim at gaze",
+        "Mark at gaze",
+        "Gaze menu selection"
+      ],
+      "sources": [
+        {
+          "title": "Tobii Gaming",
+          "url": "https://gaming.tobii.com/games/ghost-recon-breakpoint/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2019/08/GRB-StandardKeyartWIDE-041219-WITH-LOGO.jpg",
+      "image_source": "https://gaming.tobii.com/games/ghost-recon-breakpoint/",
+      "image_credit": "Tobii Gaming",
+      "image_kind": "Official promotional image / screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Commercial release",
+      "notes": "Gaze supplements conventional input; a keyboard and mouse or controller is still needed. Features and compatibility apply to the PC version described in the linked documentation.",
+      "year": null,
+      "verified_at": "2026-10-15",
+      "subtitle": "Gaze-assisted tactical operations"
+    },
+    {
+      "id": "before-your-eyes",
+      "title": "Before Your Eyes",
+      "category": "Commercial games",
+      "genre": "Narrative adventure",
+      "device": "Standard webcam",
+      "platform": "PC (webcam edition)",
+      "interaction": "Blink interaction",
+      "description": "A narrative adventure through memories, navigated with real-life blinks. Blinking moves the story forward, turning eye actions into a storytelling mechanic.",
+      "features": [
+        "Blink-driven storytelling",
+        "Webcam detection"
+      ],
+      "sources": [
+        {
+          "title": "Steam / GoodbyeWorld Games / Skybound Games",
+          "url": "https://store.steampowered.com/app/1082430/Before_Your_Eyes/"
+        }
+      ],
+      "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1082430/header.jpg",
+      "image_source": "https://store.steampowered.com/app/1082430/Before_Your_Eyes/",
+      "image_credit": "Steam / GoodbyeWorld Games / Skybound Games",
+      "image_kind": "Official promotional image / screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Commercial release",
+      "notes": "Uses blink detection rather than continuous gaze-point tracking; listed separately for comparison.",
+      "year": 2021,
+      "verified_at": "2026-10-15",
+      "subtitle": "A story advanced by your real-life blinks"
+    },
+    {
+      "id": "eyemine",
+      "title": "Minecraft + EyeMine 2",
+      "category": "Accessible gaze games",
+      "genre": "Sandbox building",
+      "device": "Compatible eye tracker",
+      "platform": "Windows PC",
+      "interaction": "Primarily gaze-controlled",
+      "description": "SpecialEffect’s gaze-control tool for Minecraft Java Edition. Use on-screen buttons and dwell selection to move, mine, and build.",
+      "features": [
+        "Dwell selection",
+        "Gaze-controlled building",
+        "Customizable keyboards"
+      ],
+      "sources": [
+        {
+          "title": "SpecialEffect",
+          "url": "https://www.specialeffect.org.uk/how-we-can-help/eyemine"
+        },
+        {
+          "title": "EyeMine code and installation guide",
+          "url": "https://github.com/SpecialEffect/EyeMine"
+        }
+      ],
+      "image_url": "https://www.specialeffect.org.uk/wp-content/uploads/2021/08/header_eyemine1600.jpg",
+      "image_source": "https://www.specialeffect.org.uk/how-we-can-help/eyemine",
+      "image_credit": "SpecialEffect",
+      "image_kind": "Official promotional image / screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Free tool; Minecraft account / license required",
+      "notes": "Requires EyeMine and a compatible game version. Not compatible with mobile or console editions of Minecraft.",
+      "year": null,
+      "verified_at": "2026-10-15",
+      "subtitle": "Gaze access for Minecraft Java Edition"
+    },
+    {
+      "id": "open-drive",
+      "title": "Open Drive",
+      "category": "Accessible gaze games",
+      "genre": "Driving",
+      "device": "Compatible eye tracker",
+      "platform": "Web browser",
+      "interaction": "Primarily gaze-controlled",
+      "description": "Drive through an open arena, tackle ramps and stunts, and earn trophies. The game offers a range of gaze-control settings.",
+      "features": [
+        "Gaze control",
+        "Multiple accessible inputs"
+      ],
+      "sources": [
+        {
+          "title": "SpecialEffect",
+          "url": "https://www.specialeffect.org.uk/news/take-a-spin-with-open-drive-our-new-eye-gaze-game"
+        },
+        {
+          "title": "Play on Eye Gaze Games",
+          "url": "https://www.eyegazegames.com/"
+        }
+      ],
+      "image_url": "https://www.specialeffect.org.uk/wp-content/uploads/2022/04/OD_TW.jpg",
+      "image_source": "https://www.specialeffect.org.uk/news/take-a-spin-with-open-drive-our-new-eye-gaze-game",
+      "image_credit": "SpecialEffect",
+      "image_kind": "Official promotional image / screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Free browser game",
+      "notes": "Access through Eye Gaze Games. Gaze play requires an eye tracker and compatible pointer-control software.",
+      "year": null,
+      "verified_at": "2026-10-15",
+      "subtitle": "Accessible driving and stunt challenges"
+    },
+    {
+      "id": "gazey-golf",
+      "title": "Gazey Golf",
+      "category": "Accessible gaze games",
+      "genre": "Sports",
+      "device": "Compatible eye tracker",
+      "platform": "Web browser",
+      "interaction": "Primarily gaze-controlled",
+      "description": "Gaze-optimized miniature golf with four nine-hole courses. Improve your own scores or compete with another local player.",
+      "features": [
+        "Gaze control",
+        "Multiple accessible inputs"
+      ],
+      "sources": [
+        {
+          "title": "SpecialEffect",
+          "url": "https://www.specialeffect.org.uk/news/gazey-golf-the-latest-title-in-our-eye-gaze-games-series"
+        },
+        {
+          "title": "Play on Eye Gaze Games",
+          "url": "https://www.eyegazegames.com/"
+        }
+      ],
+      "image_url": "https://www.specialeffect.org.uk/wp-content/uploads/2021/11/gazey_TW.jpg",
+      "image_source": "https://www.specialeffect.org.uk/news/gazey-golf-the-latest-title-in-our-eye-gaze-games-series",
+      "image_credit": "SpecialEffect",
+      "image_kind": "Official promotional image / screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Free browser game",
+      "notes": "Access through Eye Gaze Games. Gaze play requires an eye tracker and compatible pointer-control software.",
+      "year": null,
+      "verified_at": "2026-10-15",
+      "subtitle": "Miniature golf designed for gaze access"
+    },
+    {
+      "id": "mole-miners",
+      "title": "Mole Miners",
+      "category": "Accessible gaze games",
+      "genre": "Marble popper",
+      "device": "Compatible eye tracker",
+      "platform": "Web browser",
+      "interaction": "Primarily gaze-controlled",
+      "description": "A marble-popper game in the Eye Gaze Games collection, designed for players using gaze control.",
+      "features": [
+        "Dwell selection",
+        "Adjustable gaze settings"
+      ],
+      "sources": [
+        {
+          "title": "SpecialEffect / GameAccess",
+          "url": "https://gameaccess.info/eye-gaze-games-eye-gaze-setup-and-options/"
+        },
+        {
+          "title": "Play on Eye Gaze Games",
+          "url": "https://www.eyegazegames.com/"
+        }
+      ],
+      "image_url": "https://gameaccess.info/wp-content/uploads/2020/12/Mole-Miners.png",
+      "image_source": "https://gameaccess.info/eye-gaze-games-eye-gaze-setup-and-options/",
+      "image_credit": "SpecialEffect / GameAccess",
+      "image_kind": "Official game screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Free browser game",
+      "notes": "Included based on the official game listing. Check Eye Gaze Games for the current entry point and version.",
+      "year": null,
+      "verified_at": "2026-10-15",
+      "subtitle": "A gaze-accessible marble-popper game"
+    },
+    {
+      "id": "chess",
+      "title": "Chess · Eye Gaze Games",
+      "category": "Accessible gaze games",
+      "genre": "Board game",
+      "device": "Compatible eye tracker",
+      "platform": "Web browser",
+      "interaction": "Primarily gaze-controlled",
+      "description": "Play chess with a selection interface designed for gaze access. Choose between classic and precise control modes.",
+      "features": [
+        "Dwell selection",
+        "Adjustable gaze settings"
+      ],
+      "sources": [
+        {
+          "title": "SpecialEffect / GameAccess",
+          "url": "https://gameaccess.info/eye-gaze-games-eye-gaze-setup-and-options/"
+        },
+        {
+          "title": "Play on Eye Gaze Games",
+          "url": "https://www.eyegazegames.com/"
+        }
+      ],
+      "image_url": "https://gameaccess.info/wp-content/uploads/2020/12/Classic-Chess-EGG.png",
+      "image_source": "https://gameaccess.info/eye-gaze-games-eye-gaze-setup-and-options/",
+      "image_credit": "SpecialEffect / GameAccess",
+      "image_kind": "Official game screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Free browser game",
+      "notes": "Included based on the official game listing. Check Eye Gaze Games for the current entry point and version.",
+      "year": null,
+      "verified_at": "2026-10-15",
+      "subtitle": "Chess with a gaze-friendly selection interface"
+    },
+    {
+      "id": "sudoku",
+      "title": "Sudoku · Eye Gaze Games",
+      "category": "Accessible gaze games",
+      "genre": "Puzzle",
+      "device": "Compatible eye tracker",
+      "platform": "Web browser",
+      "interaction": "Primarily gaze-controlled",
+      "description": "A Sudoku game in the Eye Gaze Games collection, providing a browser-based entry point for gaze players.",
+      "features": [
+        "Dwell selection",
+        "Adjustable gaze settings"
+      ],
+      "sources": [
+        {
+          "title": "SpecialEffect / GameAccess",
+          "url": "https://gameaccess.info/eye-gaze-games-eye-gaze-setup-and-options/"
+        },
+        {
+          "title": "Play on Eye Gaze Games",
+          "url": "https://www.eyegazegames.com/"
+        }
+      ],
+      "image_url": "https://gameaccess.info/wp-content/uploads/2020/12/Homescreen.png",
+      "image_source": "https://gameaccess.info/eye-gaze-games-eye-gaze-setup-and-options/",
+      "image_credit": "SpecialEffect / GameAccess",
+      "image_kind": "Collection home screen (includes Sudoku)",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Free browser game",
+      "notes": "Included based on the official game listing. Check Eye Gaze Games for the current entry point and version.",
+      "year": null,
+      "verified_at": "2026-10-15",
+      "subtitle": "Sudoku in an accessible browser collection"
+    },
+    {
+      "id": "regaze",
+      "title": "reGaze",
+      "category": "Research prototypes",
+      "genre": "VR exploration and puzzles",
+      "device": "Vive Pro Eye",
+      "platform": "PC VR / Unity",
+      "interaction": "Gaze with other inputs",
+      "description": "Studies gaze-driven dashing, object selection, and manipulation in a VR exploration and puzzle scenario, compared with conventional controller input.",
+      "features": [
+        "Gaze-directed travel",
+        "Object selection and manipulation"
+      ],
+      "sources": [
+        {
+          "title": "reGaze project team / Aalborg University",
+          "url": "https://c-tsalidis.github.io/web_reGaze/"
+        },
+        {
+          "title": "Authors' code repository",
+          "url": "https://github.com/ScottJamesNaylor/MED507_P5"
+        },
+        {
+          "title": "Authors' research report",
+          "url": "https://c-tsalidis.github.io/web_reGaze/Report/MED507_P5.pdf"
+        }
+      ],
+      "image_url": "https://c-tsalidis.github.io/web_reGaze/Images/Playthrough.gif",
+      "image_source": "https://c-tsalidis.github.io/web_reGaze/",
+      "image_credit": "reGaze project team / Aalborg University",
+      "image_kind": "Author's project demonstration",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Code repository provided by the authors",
+      "notes": "Research prototype, not a commercial release. The project page links to code and a report; consult the original repository for setup requirements and licensing.",
+      "year": null,
+      "verified_at": "2026-10-15",
+      "subtitle": "A VR prototype for gaze-based superhuman interaction"
+    },
+    {
+      "id": "geyeded",
+      "title": "gEYEded",
+      "category": "Research prototypes",
+      "genre": "Exploration",
+      "device": "Tobii EyeX",
+      "platform": "PC / Unity",
+      "interaction": "Gaze-responsive gameplay",
+      "description": "An exploration game prototype studying gaze-based player guidance, with a focus on subtlety and challenge.",
+      "features": [
+        "Gaze-based guidance",
+        "Gaze-responsive gameplay"
+      ],
+      "sources": [
+        {
+          "title": "Research paper: gEYEded (2019)",
+          "url": "https://www.mdpi.com/2414-4088/3/3/61"
+        }
+      ],
+      "image_url": "assets/research-guide.svg",
+      "image_source": "https://www.mdpi.com/2414-4088/3/3/61",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "Original interaction concept illustration",
+      "image_license": "CC BY 4.0; excludes content from the source paper",
+      "availability": "Paper available; playable release not verified",
+      "notes": "The image is an original concept illustration, not a game screenshot. The indexed abstract was accessible, but access to the publisher's full-text page was restricted. Hardware and research aims are recorded from the abstract.",
+      "year": 2019,
+      "verified_at": "2026-10-15",
+      "subtitle": "Gaze-based guidance in an exploration prototype"
+    },
+    {
+      "id": "gaze-voice",
+      "title": "Gaze and voice driven hands free gaming",
+      "category": "Research prototypes",
+      "genre": "Platformer",
+      "device": "Eye tracker + microphone",
+      "platform": "Experimental research setup",
+      "interaction": "Gaze with other inputs",
+      "description": "Combines gaze and non-verbal voice commands, such as humming, for hands-free control in a 2D platformer, investigating multimodal interaction.",
+      "features": [
+        "Gaze positioning",
+        "Voice input",
+        "Hands-free interaction"
+      ],
+      "sources": [
+        {
+          "title": "University of Stuttgart / Mike Lauer",
+          "url": "https://www.ki.uni-stuttgart.de/departments/ac/teaching/student-theses/gaze-voice-game/"
+        }
+      ],
+      "image_url": "assets/research-voice.svg",
+      "image_source": "https://www.ki.uni-stuttgart.de/departments/ac/teaching/student-theses/gaze-voice-game/",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "Original interaction concept illustration",
+      "image_license": "CC BY 4.0; excludes content from the source paper",
+      "availability": "Thesis available; playable release not verified",
+      "notes": "The image is an original concept illustration, not a game screenshot. Consult the thesis for the exact hardware model and reproduction requirements.",
+      "year": 2021,
+      "verified_at": "2026-10-15",
+      "subtitle": "Hands-free play using gaze and voice"
+    }
+  ],
+  "language": "en"
+}
