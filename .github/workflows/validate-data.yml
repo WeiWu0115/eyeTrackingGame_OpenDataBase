@@ -1,0 +1,30 @@
+name: Catalog validation
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Validate catalog and website
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
+      - name: Validate data, credits, and links
+        run: python3 scripts/validate_catalog.py
+      - name: Exercise validation rules
+        run: python3 -m unittest discover -s tests
+      - name: Check JavaScript syntax
+        run: |
+          node --check app.js
+          node --check related-training.js
+          node --check community.js

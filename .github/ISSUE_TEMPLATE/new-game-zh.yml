@@ -1,0 +1,97 @@
+{
+  "name": "提交游戏（中文）",
+  "description": "推荐眼动游戏、研究环境或认知训练项目。",
+  "title": "[Game] ",
+  "body": [
+    {
+      "type": "markdown",
+      "attributes": {
+        "value": "填写一手来源和交互机制，帮助维护者整理收录。可在文本框中附截图。"
+      }
+    },
+    {
+      "type": "input",
+      "id": "game-title",
+      "attributes": {
+        "label": "游戏或项目名称"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "dropdown",
+      "id": "collection",
+      "attributes": {
+        "label": "收录方向",
+        "options": [
+          "主目录：眼动游戏与研究环境",
+          "相关认知与知觉训练"
+        ]
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "description",
+      "attributes": {
+        "label": "简单介绍"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "interaction",
+      "attributes": {
+        "label": "交互方式与操作"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "hardware",
+      "attributes": {
+        "label": "设备与平台"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "source-url",
+      "attributes": {
+        "label": "官方项目或论文链接"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "image",
+      "attributes": {
+        "label": "图片、出处与署名"
+      },
+      "validations": {
+        "required": false
+      }
+    },
+    {
+      "type": "input",
+      "id": "credit",
+      "attributes": {
+        "label": "贡献者 GitHub 用户名（选填）"
+      },
+      "validations": {
+        "required": false
+      }
+    }
+  ]
+}

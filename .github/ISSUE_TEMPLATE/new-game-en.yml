@@ -1,0 +1,97 @@
+{
+  "name": "Submit a game (English)",
+  "description": "Suggest a gaze game, research environment, or cognitive training project.",
+  "title": "[Game] ",
+  "body": [
+    {
+      "type": "markdown",
+      "attributes": {
+        "value": "Include primary sources and interaction details to help maintainers prepare the entry. Screenshots can be attached in text fields."
+      }
+    },
+    {
+      "type": "input",
+      "id": "game-title",
+      "attributes": {
+        "label": "Game or project title"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "dropdown",
+      "id": "collection",
+      "attributes": {
+        "label": "Collection",
+        "options": [
+          "Main collection: gaze games and research environments",
+          "Related cognitive and perceptual training"
+        ]
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "description",
+      "attributes": {
+        "label": "Short description"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "interaction",
+      "attributes": {
+        "label": "Interaction and controls"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "hardware",
+      "attributes": {
+        "label": "Hardware and platform"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "source-url",
+      "attributes": {
+        "label": "Official project or paper URL"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "image",
+      "attributes": {
+        "label": "Image, source, and credit"
+      },
+      "validations": {
+        "required": false
+      }
+    },
+    {
+      "type": "input",
+      "id": "credit",
+      "attributes": {
+        "label": "Contributor GitHub username (optional)"
+      },
+      "validations": {
+        "required": false
+      }
+    }
+  ]
+}

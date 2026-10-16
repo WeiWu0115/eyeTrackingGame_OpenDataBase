@@ -30,3 +30,14 @@ Contribute through GitHub Issues or pull requests. Include primary sources, hard
 GitHub Pages publishes the main branch and root directory. Run `python3 -m http.server 8765` from the repository root and visit http://localhost:8765/en/ .
 
 The donut-eye artwork is supplied by the project maintainer for the homepage; its artwork rights remain with its contributor.
+
+## Community contributions
+
+Use **Contribute** in the website navigation to submit a game, open English or Chinese GitHub forms, read the guide, inspect automated checks, or view contributor credits.
+
+- [Contribution hub](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/en/contribute.html)
+- [Contributor credits](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/en/contributors.html)
+- [Contribution guide](https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/blob/main/CONTRIBUTING.md) · [Chinese guide](https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/blob/main/CONTRIBUTING.zh-CN.md)
+- [Catalog validation runs](https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/actions/workflows/validate-data.yml)
+
+For data changes, run `python3 scripts/sync_catalog.py`, `python3 scripts/validate_catalog.py`, and `python3 -m unittest discover -s tests` from the repository root. Accepted research, translation, code, and design contributions can be credited in `data/contributors.json` and each record’s optional `contributors` field.

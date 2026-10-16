@@ -1,0 +1,38 @@
+{
+  "name": "Correction / 资料修正",
+  "description": "Update a record, source, translation, or website behavior. / 修正条目、来源、翻译或网页。",
+  "title": "[Correction] ",
+  "body": [
+    {
+      "type": "input",
+      "id": "record",
+      "attributes": {
+        "label": "Record or page / 条目或页面"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "change",
+      "attributes": {
+        "label": "Suggested update / 建议修改",
+        "description": "Include the proposed text or steps to reproduce. / 附建议文本或复现步骤。"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "source",
+      "attributes": {
+        "label": "Supporting source / 支持来源"
+      },
+      "validations": {
+        "required": false
+      }
+    }
+  ]
+}
