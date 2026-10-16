@@ -1,0 +1,230 @@
+{
+  "schema_version": "1.0",
+  "language": "zh",
+  "updated_at": "2026-10-16",
+  "scope": "Brain Game Center 相关认知与知觉训练，7 款游戏与 1 项眼动研究框架。",
+  "counting": "此专题有独立数据集；主目录记录眼动游戏与研究环境。",
+  "license": "CC BY 4.0 for original descriptions and arrangement; source media retain original rights",
+  "entries": [
+    {
+      "id": "poly-rules",
+      "title": "Poly Rules!",
+      "collection": "Related cognitive and perceptual training",
+      "entry_type": "Game",
+      "domain": "认知灵活性",
+      "description": "根据不断变化的规则分类多边形，逐步适应更复杂的条件。",
+      "interaction": "规则切换",
+      "eye_tracking_status": "相关训练项目；交互方式见应用资料",
+      "eye_tracking_evidence": "应用目录与训练机制",
+      "sources": [
+        {
+          "title": "Brain Game Center 官方应用目录",
+          "url": "https://bgc.provost.northeastern.edu/cognitive-training-apps/"
+        },
+        {
+          "title": "应用与操作资料",
+          "url": "https://apps.apple.com/us/app/poly-rules/id1115877374"
+        }
+      ],
+      "image_url": "https://bgc.provost.northeastern.edu/wp-content/uploads/2023/11/PolyRules.png",
+      "image_source": "https://bgc.provost.northeastern.edu/cognitive-training-apps/",
+      "image_kind": "官方项目配图",
+      "image_credit": "Brain Game Center / original developers",
+      "image_license": "图片由原权利人持有。",
+      "verified_at": "2026-10-16"
+    },
+    {
+      "id": "recollect-bgc",
+      "title": "Recollect",
+      "collection": "Related cognitive and perceptual training",
+      "entry_type": "Game",
+      "domain": "工作记忆",
+      "description": "扮演宇航员 Lerner 探索星球，通过 n-back 与序列记忆挑战收集资源。",
+      "interaction": "N-back 与序列记忆",
+      "eye_tracking_status": "相关训练项目；交互方式见应用资料",
+      "eye_tracking_evidence": "应用目录与训练机制",
+      "sources": [
+        {
+          "title": "Brain Game Center 官方应用目录",
+          "url": "https://bgc.provost.northeastern.edu/cognitive-training-apps/"
+        },
+        {
+          "title": "应用与操作资料",
+          "url": "https://braingamecenter.ucr.edu/games/recollect-the-game/"
+        }
+      ],
+      "image_url": "https://bgc.provost.northeastern.edu/wp-content/uploads/2023/11/recollect3.png",
+      "image_source": "https://bgc.provost.northeastern.edu/cognitive-training-apps/",
+      "image_kind": "官方项目配图",
+      "image_credit": "Brain Game Center / original developers",
+      "image_license": "图片由原权利人持有。",
+      "verified_at": "2026-10-16"
+    },
+    {
+      "id": "recall-bgc",
+      "title": "Recall",
+      "collection": "Related cognitive and perceptual training",
+      "entry_type": "Game",
+      "domain": "工作记忆",
+      "description": "通过 n-back 序列匹配为飞船补充燃料；教程采用滑动转向与点击射击。",
+      "interaction": "触屏操作与 n-back",
+      "eye_tracking_status": "相关训练项目；交互方式见应用资料",
+      "eye_tracking_evidence": "应用目录与训练机制",
+      "sources": [
+        {
+          "title": "Brain Game Center 官方应用目录",
+          "url": "https://bgc.provost.northeastern.edu/cognitive-training-apps/"
+        },
+        {
+          "title": "应用与操作资料",
+          "url": "https://braingamecenter.ucr.edu/recall-tutorial/"
+        }
+      ],
+      "image_url": "https://bgc.provost.northeastern.edu/wp-content/uploads/2023/11/Recall3.jpg",
+      "image_source": "https://bgc.provost.northeastern.edu/cognitive-training-apps/",
+      "image_kind": "官方项目配图",
+      "image_credit": "Brain Game Center / original developers",
+      "image_license": "图片由原权利人持有。",
+      "verified_at": "2026-10-16"
+    },
+    {
+      "id": "remember-bee",
+      "title": "Remember Bee",
+      "collection": "Related cognitive and perceptual training",
+      "entry_type": "Game",
+      "domain": "工作记忆",
+      "description": "引导蜜蜂完成限时花朵序列挑战，授粉并穿行于蘑菇之间。",
+      "interaction": "花朵序列 n-back",
+      "eye_tracking_status": "相关训练项目；交互方式见应用资料",
+      "eye_tracking_evidence": "应用目录与训练机制",
+      "sources": [
+        {
+          "title": "Brain Game Center 官方应用目录",
+          "url": "https://bgc.provost.northeastern.edu/cognitive-training-apps/"
+        },
+        {
+          "title": "应用与操作资料",
+          "url": "https://apps.apple.com/us/app/remember-bee/id1081217226"
+        }
+      ],
+      "image_url": "https://bgc.provost.northeastern.edu/wp-content/uploads/2023/11/RememberBee1.png",
+      "image_source": "https://bgc.provost.northeastern.edu/cognitive-training-apps/",
+      "image_kind": "官方项目配图",
+      "image_credit": "Brain Game Center / original developers",
+      "image_license": "图片由原权利人持有。",
+      "verified_at": "2026-10-16"
+    },
+    {
+      "id": "saving-memo",
+      "title": "Saving Memo",
+      "collection": "Related cognitive and perceptual training",
+      "entry_type": "Game",
+      "domain": "工作记忆",
+      "description": "通过完成记忆购物清单、电话号码和包裹配送等工作，为猫咪 Memo 准备食物。",
+      "interaction": "日常情境记忆任务",
+      "eye_tracking_status": "相关训练项目；交互方式见应用资料",
+      "eye_tracking_evidence": "应用目录与训练机制",
+      "sources": [
+        {
+          "title": "Brain Game Center 官方应用目录",
+          "url": "https://bgc.provost.northeastern.edu/cognitive-training-apps/"
+        },
+        {
+          "title": "应用与操作资料",
+          "url": "https://braingamecenter.ucr.edu/cognitive-perceptual-assessments/"
+        }
+      ],
+      "image_url": "https://bgc.provost.northeastern.edu/wp-content/uploads/2024/03/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png",
+      "image_source": "https://bgc.provost.northeastern.edu/cognitive-training-apps/",
+      "image_kind": "官方应用图标",
+      "image_credit": "Brain Game Center / original developers",
+      "image_license": "图片由原权利人持有。",
+      "verified_at": "2026-10-16"
+    },
+    {
+      "id": "sightseeing-bgc",
+      "title": "Sightseeing",
+      "collection": "Related cognitive and perceptual training",
+      "entry_type": "Game",
+      "domain": "视觉感知",
+      "description": "在周围图案中寻找低对比度目标和轮廓，难度随表现调整。",
+      "interaction": "对比度与轮廓任务",
+      "eye_tracking_status": "相关训练项目；交互方式见应用资料",
+      "eye_tracking_evidence": "应用目录与训练机制",
+      "sources": [
+        {
+          "title": "Brain Game Center 官方应用目录",
+          "url": "https://bgc.provost.northeastern.edu/perceptual-training-apps/"
+        },
+        {
+          "title": "应用与操作资料",
+          "url": "https://apps.apple.com/us/app/sightseeing/id1384642437"
+        }
+      ],
+      "image_url": "https://bgc.provost.northeastern.edu/wp-content/uploads/2023/11/Untitled-design-70.png",
+      "image_source": "https://bgc.provost.northeastern.edu/perceptual-training-apps/",
+      "image_kind": "官方项目配图",
+      "image_credit": "Brain Game Center / original developers",
+      "image_license": "图片由原权利人持有。",
+      "verified_at": "2026-10-16"
+    },
+    {
+      "id": "listen-bgc",
+      "title": "Listen",
+      "collection": "Related cognitive and perceptual training",
+      "entry_type": "Game",
+      "domain": "听觉感知",
+      "description": "根据声音提示帮助精灵逃出洞穴，完成自适应的声音辨别挑战。",
+      "interaction": "自适应声音辨别",
+      "eye_tracking_status": "相关训练项目；交互方式见应用资料",
+      "eye_tracking_evidence": "应用目录与训练机制",
+      "sources": [
+        {
+          "title": "Brain Game Center 官方应用目录",
+          "url": "https://bgc.provost.northeastern.edu/perceptual-training-apps/"
+        },
+        {
+          "title": "应用与操作资料",
+          "url": "https://apps.apple.com/us/app/listen-auditory-training/id1031353626"
+        }
+      ],
+      "image_url": "https://bgc.provost.northeastern.edu/wp-content/uploads/2023/11/Listen3.png",
+      "image_source": "https://bgc.provost.northeastern.edu/perceptual-training-apps/",
+      "image_kind": "官方项目配图",
+      "image_credit": "Brain Game Center / original developers",
+      "image_license": "图片由原权利人持有。",
+      "verified_at": "2026-10-16"
+    },
+    {
+      "id": "bgc-gaze-framework",
+      "title": "凝视条件显示研究框架",
+      "collection": "Related cognitive and perceptual training",
+      "entry_type": "Research environment",
+      "domain": "眼动与视觉研究",
+      "description": "眼动位置实时更新模拟中央暗点，用于研究周边视觉、补偿性眼动与知觉学习。任务结合注视条件显示和按键响应。",
+      "interaction": "注视条件显示与按键响应",
+      "eye_tracking_status": "眼动实时驱动显示",
+      "eye_tracking_evidence": "2025 年 JoVE 方法论文；UCR、Northeastern 与 UAB 合作。",
+      "sources": [
+        {
+          "title": "JoVE 2025 · DOI 10.3791/67596",
+          "url": "https://doi.org/10.3791/67596"
+        },
+        {
+          "title": "PubMed · Original paper",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40293961/"
+        },
+        {
+          "title": "Brain Game Center · Perceptual training projects",
+          "url": "https://bgc.provost.northeastern.edu/research/perceptual-training-projects/"
+        }
+      ],
+      "image_url": "assets/catalog/bgc-gaze-framework.svg",
+      "image_source": "https://doi.org/10.3791/67596",
+      "image_kind": "原创机制示意",
+      "image_credit": "Gaze Atlas contributors",
+      "image_license": "CC BY 4.0",
+      "verified_at": "2026-10-16"
+    }
+  ]
+}

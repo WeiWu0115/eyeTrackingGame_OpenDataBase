@@ -1,40 +1,30 @@
 # Gaze Atlas · Eye-Tracking Game Open Database
 
-An English-language curated collection of commercial games, accessible gaze games, and research prototypes. The expanded edition contains 121 entries. Source verification date: October 16, 2026. This is not an exhaustive list; entries have not all been tested hands-on.
+121 records covering games, research prototypes, activity suites, and research environments, with images, descriptions, interaction details, and sources. Updated October 16, 2026.
 
-## Languages
+## Browse
 
-- [English website](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/en/)
-- [Chinese website](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/)
+- [English collection](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/en/)
+- [Chinese collection](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/)
+- [Research review](review.html)
+- [Cognitive and perceptual training](related-training.html): seven games and one gaze research framework.
 
-The Chinese edition is preserved at the repository root. This English edition has its own interface, dataset, and concept illustrations in `en/`. Source references and game IDs match across editions.
+## Data
 
-## Data and fields
+Main collection: [JSON](data/games.json), [CSV](data/games.csv). Related training: [JSON](data/related-training.json), [CSV](data/related-training.csv). CSV uses UTF-8 with BOM; arrays and objects are JSON-encoded strings.
 
-`data/games.json` is UTF-8 and contains schema information and a `games` array. The English website reads this file directly. `data/games.csv` is UTF-8 with a BOM for spreadsheet compatibility; array values are JSON-encoded strings.
+Fields include stable ID, title, category, genre, design purpose, gaze role, interaction, hardware, platform, population, evaluation, edition context, images, and sources. Matching IDs connect both languages. Institutional provenance accompanies citations, and shared categories organize browsing.
 
-Fields: `id` stable identifier; `title` original title; `subtitle` English explanatory subtitle; `category` project category; `genre`; `device` hardware; `platform`; `interaction`; `description`; `features`; `sources` evidence links; `image_url`; `image_source` source page; `image_credit`; `image_kind`; `image_license`; `availability`; `notes` limitations; `year` verified year where available, otherwise null; `verified_at` source verification date.
+## Documentation and images
 
-## Selection and verification
+Sources include official game pages, developers, hardware makers, research teams, papers, and award records. Evaluation fields describe study design and samples. Each record explains its year and edition context. Image types and credits identify official screenshots, project media, collection overviews, and original mechanism diagrams.
 
-Sources prioritize developers, hardware makers, SpecialEffect, author project pages, and academic publications. Entries use gaze for input or game responses. Blink detection is labeled separately. Measurement-only research environments are separately labeled and do not establish retail gaze control. A device's head-tracking compatibility is not automatically treated as evidence of gaze support.
+## Licensing and contributions
 
-Commercial games typically still require a keyboard and mouse or controller. Accessible gaze play requires compatible hardware and software. Research prototypes may not have a playable public release. Institutional affiliation does not imply institutional endorsement. Access to the gEYEded publisher full text was restricted; that entry records information from the accessible indexed abstract, as stated in its notes.
+Original descriptions, arrangement, and original diagrams use [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Attribute Gaze Atlas contributors and retain sources. Website code uses [MIT](../LICENSE). Third-party images, trademarks, papers, and games retain their original terms.
 
-Images are referenced from official or author sites, not distributed as an open image library. Entries without a verified source image use original catalog illustrations explicitly labeled as not game screenshots. The Sudoku entry uses the collection home screen. Remote images may become unavailable; source links remain available in each entry.
+Contribute through GitHub Issues or pull requests. Include primary sources, hardware, editions, image credits, and dates. Keep both language editions and JSON/CSV exports synchronized.
 
-## Licensing
+## Local preview
 
-Original descriptions, database arrangement, and concept illustrations use [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Attribute “Gaze Atlas contributors,” retain source references, and identify modifications. Facts are not exclusively owned by this project. Third-party images, trademarks, source text, papers, and games are excluded and retain their original rights. Free access or visible source code does not automatically mean open-source licensing; consult each original project.
-
-Website code uses MIT; see [LICENSE](../LICENSE). Dataset downloads require no account, API key, or payment.
-
-## Contributing and deployment
-
-Use GitHub Issues or pull requests to suggest games or corrections. Include official or author evidence, image attribution and rights, hardware, platform, interaction, availability, and a verification date. Do not present assumptions as confirmed compatibility. Keep JSON and CSV synchronized and update both languages when revising facts.
-
-GitHub Pages publishes the repository's `main` branch and root directory. No build step is required. For local preview, serve the repository root with `python3 -m http.server 8765`, then open http://localhost:8765/en/ . Opening the HTML directly may prevent the browser from loading JSON.
-
-## Expanded review (October 16, 2026)
-
-Read [review.html](review.html) and [data/review-method.json](data/review-method.json). Added fields include tags, design_intent, eye_role, genre_family, entry_type, awards, target_users, evaluation, customizability, and evidence. Primary categories are exclusive; tags overlap. Suites count as one record. 121 entries are not 121 independently playable games. See availability and notes for historical or delisted works.
+GitHub Pages publishes the main branch and root directory. Run `python3 -m http.server 8765` from the repository root and visit http://localhost:8765/en/ .
