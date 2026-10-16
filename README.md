@@ -1,6 +1,6 @@
 # Gaze Atlas · 眼动游戏开放数据库
 
-中文精选目录，涵盖商业游戏、无障碍眼控游戏与研究原型。扩展版共 95 条，资料核查日期：2026-10-16。不是穷尽性清单，未逐款实机测试。
+中文精选目录，涵盖商业游戏、无障碍眼控游戏与研究原型。扩展版共 121 条，资料核查日期：2026-10-16。不是穷尽性清单，未逐款实机测试。
 
 ## 浏览与部署
 
@@ -33,7 +33,6 @@
 
 通过 GitHub Issue 报告错误或提交 Pull Request。新增条目请提供官方／作者证据、图片出处与版权信息、设备、平台、眼动机制、可用性和核查日期。请勿将推测写成已确认的兼容性。修改 JSON 后同步 CSV。建议通过浏览器验证搜索、筛选、详情与手机布局。
 
-
 ## 扩展综述（2026-10-16）
 
-完整综述见 [review.html](review.html)，检索与分类记录见 [data/review-method.json](data/review-method.json)。新增字段包括 tags、design_intent、eye_role、genre_family、entry_type、awards、target_users、evaluation、customizability、evidence。主要类别互斥，标签可交叉；游戏套件按一条计数。95 条不等于 95 款独立可玩游戏。历史或停售状态见每条 availability 和 notes。
+完整综述见 [review.html](review.html)，检索与分类记录见 [data/review-method.json](data/review-method.json)。新增字段包括 tags、design_intent、eye_role、genre_family、entry_type、awards、target_users、evaluation、customizability、evidence。主要类别互斥，标签可交叉；游戏套件按一条计数。121 条不等于 121 款独立可玩游戏。历史或停售状态见每条 availability 和 notes。

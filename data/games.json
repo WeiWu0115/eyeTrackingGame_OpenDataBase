@@ -1,5 +1,5 @@
 {
-  "schema_version": "2.0",
+  "schema_version": "2.1",
   "language": "zh",
   "updated_at": "2026-10-16",
   "review_type": "Source-led scoping review; not exhaustive or preregistered",
@@ -63,7 +63,8 @@
       "genre_family": "Narrative & social",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "hyperdot",
@@ -132,7 +133,8 @@
       "genre_family": "Action & arcade",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "gazetrain",
@@ -183,7 +185,8 @@
       "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "eyemine",
@@ -232,7 +235,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "synapse",
@@ -284,7 +288,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "supervision",
@@ -331,7 +336,8 @@
       "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "论文报告 24 人设计评估；不是临床疗效结论",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "dont-look",
@@ -378,7 +384,8 @@
       "genre_family": "Horror",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "ets2",
@@ -429,7 +436,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "look-lab",
@@ -477,7 +485,8 @@
       "availability": "产品／演示资料可查；许可及当前下载以官方为准",
       "notes": "按套件计一次。支持眼控与其他指针输入；具体设备兼容性需查官方。",
       "genre_family": "Learning & training",
-      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。"
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "population_group": "See entry"
     },
     {
       "id": "rez-infinite",
@@ -538,7 +547,8 @@
       "genre_family": "Rhythm & music",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "regaze",
@@ -591,7 +601,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "项目报告记载 30 人组内比较；不等同于跨设备验证",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "limbitless-journey",
@@ -654,7 +665,8 @@
       "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "stonesight",
@@ -701,7 +713,8 @@
       "genre_family": "Puzzle & board",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "royal-corgi",
@@ -749,7 +762,8 @@
       "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "atari-head",
@@ -797,7 +811,8 @@
       "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "close-your",
@@ -868,7 +883,8 @@
       "genre_family": "Narrative & social",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "chess",
@@ -916,7 +932,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "eye-can-fly",
@@ -963,7 +980,8 @@
       "availability": "产品／演示资料可查；许可及当前下载以官方为准",
       "notes": "需眼动鼠标控制。官方说明 Options 和 Quit 按钮不支持停留选择，需要普通鼠标点击；并非所有操作都免手。",
       "genre_family": "Learning & training",
-      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。"
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "population_group": "See entry"
     },
     {
       "id": "eyes-first-double-up",
@@ -1009,7 +1027,8 @@
       "availability": "产品／演示资料可查；许可及当前下载以官方为准",
       "notes": "Microsoft Research 的 2019 年演示资料。历史商店发布不保证当前仍可安装，需核查商店地区、Windows 与眼动设备要求。",
       "genre_family": "Learning & training",
-      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。"
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "population_group": "See entry"
     },
     {
       "id": "eyes-first-match-two",
@@ -1055,7 +1074,8 @@
       "availability": "产品／演示资料可查；许可及当前下载以官方为准",
       "notes": "Microsoft Research 的 2019 年演示资料。历史商店发布不保证当前仍可安装，需核查商店地区、Windows 与眼动设备要求。",
       "genre_family": "Learning & training",
-      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。"
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "population_group": "See entry"
     },
     {
       "id": "eyes-first-maze",
@@ -1101,7 +1121,8 @@
       "availability": "产品／演示资料可查；许可及当前下载以官方为准",
       "notes": "Microsoft Research 的 2019 年演示资料。历史商店发布不保证当前仍可安装，需核查商店地区、Windows 与眼动设备要求。",
       "genre_family": "Learning & training",
-      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。"
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "population_group": "See entry"
     },
     {
       "id": "eyes-first-tile-slide",
@@ -1147,7 +1168,8 @@
       "availability": "产品／演示资料可查；许可及当前下载以官方为准",
       "notes": "Microsoft Research 的 2019 年演示资料。历史商店发布不保证当前仍可安装，需核查商店地区、Windows 与眼动设备要求。",
       "genre_family": "Learning & training",
-      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。"
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "population_group": "See entry"
     },
     {
       "id": "gazeplay",
@@ -1200,7 +1222,8 @@
       "availability": "免费开源软件；当前版本及设备设置以官方为准",
       "notes": "按游戏套件计一次。操作系统支持不等于所有眼动仪都跨平台兼容；需检查设备驱动与鼠标控制条件。",
       "genre_family": "Learning & training",
-      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。"
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "population_group": "See entry"
     },
     {
       "id": "gazey-golf",
@@ -1248,7 +1271,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "helpkidzlearn-games",
@@ -1295,7 +1319,8 @@
       "availability": "产品／演示资料可查；许可及当前下载以官方为准",
       "notes": "按产品集合计一个条目；不把网站列出的数百项活动当作独立核查游戏。各活动眼控配置需按官方设置。",
       "genre_family": "Learning & training",
-      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。"
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "population_group": "See entry"
     },
     {
       "id": "look-to-learn",
@@ -1342,7 +1367,8 @@
       "availability": "产品／演示资料可查；许可及当前下载以官方为准",
       "notes": "按活动集计为一个条目，不将 40 项活动重复计数。产品用途不等同于已证实的康复效果。",
       "genre_family": "Learning & training",
-      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。"
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "population_group": "See entry"
     },
     {
       "id": "mole-miners",
@@ -1390,7 +1416,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "open-drive",
@@ -1438,7 +1465,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "sensory-eye-fx-2",
@@ -1485,7 +1513,8 @@
       "availability": "产品／演示资料可查；许可及当前下载以官方为准",
       "notes": "按活动集计一次。官方支持指定 Tobii Dynavox 设备；Windows 与 TD Pilot 的许可和功能条件不同。",
       "genre_family": "Learning & training",
-      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。"
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "population_group": "See entry"
     },
     {
       "id": "sudoku",
@@ -1533,7 +1562,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "ats",
@@ -1584,7 +1614,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "odyssey",
@@ -1629,7 +1660,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "origins",
@@ -1683,7 +1715,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "valhalla",
@@ -1728,7 +1761,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "dcs",
@@ -1780,7 +1814,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "deus-ex",
@@ -1834,7 +1869,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "dyinglight",
@@ -1888,7 +1924,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "elite-dangerous",
@@ -1940,7 +1977,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "f12020",
@@ -1993,7 +2031,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "f122",
@@ -2046,7 +2085,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "f125",
@@ -2098,7 +2138,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "farcry5",
@@ -2151,7 +2192,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "farcry",
@@ -2196,7 +2238,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "farming22",
@@ -2247,7 +2290,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "breakpoint",
@@ -2292,7 +2336,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "hitman2016",
@@ -2347,7 +2392,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "master-orion",
@@ -2400,7 +2446,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "msfs2020",
@@ -2452,7 +2499,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "nevermind",
@@ -2510,7 +2558,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "project-cars2",
@@ -2562,7 +2611,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "tomb",
@@ -2607,7 +2657,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "star-citizen",
@@ -2658,7 +2709,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "switchback",
@@ -2706,7 +2758,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "eyeasteroids",
@@ -2757,7 +2810,8 @@
       "genre_family": "Action & arcade",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "wildlands",
@@ -2810,7 +2864,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "division2",
@@ -2864,7 +2919,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "overworld",
@@ -2917,7 +2973,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "watch-dogs2",
@@ -2971,7 +3028,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "legion",
@@ -3016,7 +3074,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "hunter",
@@ -3070,7 +3129,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "brewtiful-vision",
@@ -3117,7 +3177,8 @@
       "genre_family": "Learning & training",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "bushi-duel",
@@ -3164,7 +3225,8 @@
       "genre_family": "Rhythm & music",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "coups-doeil",
@@ -3211,7 +3273,8 @@
       "genre_family": "Puzzle & board",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "df-valkyrie",
@@ -3259,7 +3322,8 @@
       "genre_family": "Action & arcade",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "defeat-inner-monsters",
@@ -3307,7 +3371,8 @@
       "genre_family": "Action & arcade",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "desiree-eyes-on-you",
@@ -3355,7 +3420,8 @@
       "genre_family": "Narrative & social",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "eye-am-a-dragon",
@@ -3402,7 +3468,8 @@
       "genre_family": "Action & arcade",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "fast-sight",
@@ -3448,7 +3515,8 @@
       "genre_family": "Platformer & runner",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "gazed-house",
@@ -3494,7 +3562,8 @@
       "genre_family": "Horror",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "gestaltzerfall",
@@ -3541,7 +3610,8 @@
       "genre_family": "Puzzle & board",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "glimpse-of-fear",
@@ -3592,7 +3662,8 @@
       "genre_family": "Horror",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "patin-grappin",
@@ -3639,7 +3710,8 @@
       "genre_family": "Driving & racing",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "rune",
@@ -3687,7 +3759,8 @@
       "genre_family": "Action & arcade",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "scp-eye-tracking-edition",
@@ -3734,7 +3807,8 @@
       "genre_family": "Horror",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "sobgob",
@@ -3781,7 +3855,8 @@
       "genre_family": "Exploration & simulation",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "super-eye-tracking-battle",
@@ -3829,7 +3904,8 @@
       "genre_family": "Driving & racing",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "telekinesis-simulator",
@@ -3876,7 +3952,8 @@
       "genre_family": "Exploration & simulation",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "the-candle",
@@ -3922,7 +3999,8 @@
       "genre_family": "Horror",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "overcooked-gaze-research",
@@ -3970,7 +4048,8 @@
       "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "eyegrab",
@@ -4013,11 +4092,12 @@
       ],
       "eye_role": "Gaze control",
       "entry_type": "Research prototype",
-      "genre_family": "Exploration & simulation",
+      "genre_family": "Learning & training",
       "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "feyerball-mage",
@@ -4064,7 +4144,8 @@
       "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "gaze-voice",
@@ -4109,7 +4190,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "half-life2-gaze-mod",
@@ -4156,7 +4238,8 @@
       "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "kryptoneyed",
@@ -4203,7 +4286,8 @@
       "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "limus-beholders",
@@ -4250,7 +4334,8 @@
       "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "shed-some-fear",
@@ -4298,7 +4383,8 @@
       "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "stargazing-arcade",
@@ -4345,7 +4431,8 @@
       "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "twileyed",
@@ -4392,7 +4479,8 @@
       "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "virus-hunt-arcade",
@@ -4440,7 +4528,8 @@
       "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "geyeded",
@@ -4484,7 +4573,8 @@
       "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "资料核查；如有用户研究请查原文",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "catch-fruits-hvl",
@@ -4532,7 +4622,8 @@
       "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "5 人可用性研究；不代表已验证的视觉治疗",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
     },
     {
       "id": "mole-whack-ucsd",
@@ -4547,6 +4638,10 @@
         {
           "title": "UCSD — TDLC 2018 institutional report",
           "url": "https://tdlc.ucsd.edu/tdlc2/highlights/TDLC_Highlights_2018.pdf"
+        },
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
         }
       ],
       "image_url": "assets/catalog/mole-whack-ucsd.svg",
@@ -4573,7 +4668,7 @@
       "image_kind": "原创档案示意图，非游戏截图",
       "image_license": "CC BY 4.0",
       "availability": "研究材料；下载可用性未验证",
-      "notes": "来自同一项 ASD 家庭训练试点，8 人开始、6 人完成，缺少对照组；不能将单个小游戏视为已确证疗法。",
+      "notes": "来自同一项 ASD 家庭训练试点，8 人开始、6 人完成，缺少对照组；不能将单个小游戏视为已确证疗法。 UCSD 后续目录另列 Dr. Mole & Mr. Hide；未核实是否为完全相同版本。",
       "design_intent": [
         "Accessibility",
         "Education & Training"
@@ -4584,7 +4679,11 @@
       "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
       "target_users": "该论文中的自闭症青少年样本",
       "evaluation": "同一项试点研究：8 人招募、6 人完成、无对照组；三款游戏不是三项试验",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "related_entries": [
+        "dr-mole-mr-hide-ucsd"
+      ],
+      "population_group": "See entry"
     },
     {
       "id": "shroom-digger-ucsd",
@@ -4599,14 +4698,19 @@
         {
           "title": "UCSD — TDLC 2018 institutional report",
           "url": "https://tdlc.ucsd.edu/tdlc2/highlights/TDLC_Highlights_2018.pdf"
+        },
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
         }
       ],
-      "image_url": "assets/catalog/shroom-digger-ucsd.svg",
-      "image_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5897171/",
-      "image_credit": "Gaze Atlas contributors",
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/eye_tracking_bump-1024x385.jpg",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
       "tags": [
         "Research",
-        "Training"
+        "Training",
+        "UCSD PoNG"
       ],
       "research_role": "gaze-input",
       "inclusion_scope": "gaze-gameplay",
@@ -4622,8 +4726,8 @@
         "持续注视",
         "连续反馈"
       ],
-      "image_kind": "原创档案示意图，非游戏截图",
-      "image_license": "CC BY 4.0",
+      "image_kind": "官方多游戏合成图，并非单款游戏独立截图",
+      "image_license": "第三方版权；不属于开放数据许可范围",
       "availability": "研究材料；下载可用性未验证",
       "notes": "来自同一项 ASD 家庭训练试点，8 人开始、6 人完成，缺少对照组；不能将单个小游戏视为已确证疗法。",
       "design_intent": [
@@ -4636,7 +4740,8 @@
       "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
       "target_users": "该论文中的自闭症青少年样本",
       "evaluation": "同一项试点研究：8 人招募、6 人完成、无对照组；三款游戏不是三项试验",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "Adolescents & young adults"
     },
     {
       "id": "space-race-ucsd",
@@ -4651,14 +4756,19 @@
         {
           "title": "UCSD — TDLC 2018 institutional report",
           "url": "https://tdlc.ucsd.edu/tdlc2/highlights/TDLC_Highlights_2018.pdf"
+        },
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
         }
       ],
-      "image_url": "assets/catalog/space-race-ucsd.svg",
-      "image_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5897171/",
-      "image_credit": "Gaze Atlas contributors",
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/eye_tracking_bump-1024x385.jpg",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
       "tags": [
         "Research",
-        "Training"
+        "Training",
+        "UCSD PoNG"
       ],
       "research_role": "gaze-input",
       "inclusion_scope": "gaze-gameplay",
@@ -4674,8 +4784,8 @@
         "注视驾驶",
         "快速重定向"
       ],
-      "image_kind": "原创档案示意图，非游戏截图",
-      "image_license": "CC BY 4.0",
+      "image_kind": "官方多游戏合成图，并非单款游戏独立截图",
+      "image_license": "第三方版权；不属于开放数据许可范围",
       "availability": "研究材料；下载可用性未验证",
       "notes": "来自同一项 ASD 家庭训练试点，8 人开始、6 人完成，缺少对照组；不能将单个小游戏视为已确证疗法。",
       "design_intent": [
@@ -4688,7 +4798,8 @@
       "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
       "target_users": "该论文中的自闭症青少年样本",
       "evaluation": "同一项试点研究：8 人招募、6 人完成、无对照组；三款游戏不是三项试验",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "Adolescents & young adults"
     },
     {
       "id": "adhd-vr-space-prototype",
@@ -4738,7 +4849,1399 @@
       "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
       "target_users": "见原始来源；未统一推断人群",
       "evaluation": "论文将儿童评估列为未来工作，未证明 ADHD 干预效果",
-      "customizability": "见原项目；未核实开源许可"
+      "customizability": "见原项目；未核实开源许可",
+      "population_group": "See entry"
+    },
+    {
+      "id": "dr-mole-mr-hide-ucsd",
+      "title": "Dr. Mole & Mr. Hide (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        },
+        {
+          "title": "BrainLeap — Attention Arcade home overview (2021)",
+          "url": "https://brainleaptech.com/wp-content/uploads/2021/10/BrainLeap-Attention-Arcade-Overview-Home.pdf"
+        },
+        {
+          "title": "BrainLeap — Attention Arcade training schedule (2021)",
+          "url": "https://brainleaptech.com/wp-content/uploads/2021/03/Attention-Arcade-Training-Schedule.pdf"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/eye_tracking_bump-1024x385.jpg",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "训练与严肃游戏",
+      "genre": "注意力训练",
+      "device": "眼动仪；目录未注明型号",
+      "platform": "研究电脑游戏；兼容性未核实",
+      "interaction": "注视驱动交互",
+      "description": "注视目标地鼠，同时避开教授地鼠。",
+      "features": [
+        "UCSD 目录条目"
+      ],
+      "image_kind": "官方多游戏合成图，并非单款游戏独立截图",
+      "image_license": "第三方版权；不属于开放数据许可范围",
+      "availability": "有目录记录；当前下载与获取方式未核实",
+      "notes": "目录收录不代表已证实单款游戏有效；具体规则、版本、样本与结果仍需核实。 关联早期条目：Mole Whack（2018 试点）；来源未明确证明版本完全相同，因此作为目录版本单列，不算独立试验。",
+      "subtitle": "UCSD PoNG 游戏目录",
+      "design_intent": [
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "UCSD 原始目录具名列出。配图为多游戏合成图；菜单不作为独立游戏计数。",
+      "target_users": "自闭症青少年",
+      "evaluation": "未建立单款游戏与具体研究的对应关系；不将套件证据自动赋予每款游戏。",
+      "customizability": "未核实源代码与自定义选项",
+      "related_entries": [
+        "mole-whack-ucsd"
+      ],
+      "title_zh": "地鼠博士与躲藏先生：UCSD 目录",
+      "population_group": "Adolescents & young adults"
+    },
+    {
+      "id": "trapped-a-zoid-ucsd",
+      "title": "Trapped-a-Zoid (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        },
+        {
+          "title": "BrainLeap — Attention Arcade home overview (2021)",
+          "url": "https://brainleaptech.com/wp-content/uploads/2021/10/BrainLeap-Attention-Arcade-Overview-Home.pdf"
+        },
+        {
+          "title": "BrainLeap — Attention Arcade training schedule (2021)",
+          "url": "https://brainleaptech.com/wp-content/uploads/2021/03/Attention-Arcade-Training-Schedule.pdf"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/eye_tracking_bump-1024x385.jpg",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "训练与严肃游戏",
+      "genre": "注意力训练",
+      "device": "眼动仪；目录未注明型号",
+      "platform": "研究电脑游戏；兼容性未核实",
+      "interaction": "注视驱动交互",
+      "description": "用注视引导飞船经过空隙，避开其他飞船。",
+      "features": [
+        "UCSD 目录条目"
+      ],
+      "image_kind": "官方多游戏合成图，并非单款游戏独立截图",
+      "image_license": "第三方版权；不属于开放数据许可范围",
+      "availability": "有目录记录；当前下载与获取方式未核实",
+      "notes": "目录收录不代表已证实单款游戏有效；具体规则、版本、样本与结果仍需核实。",
+      "subtitle": "UCSD PoNG 游戏目录",
+      "design_intent": [
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "UCSD 原始目录具名列出。配图为多游戏合成图；菜单不作为独立游戏计数。",
+      "target_users": "自闭症青少年",
+      "evaluation": "未建立单款游戏与具体研究的对应关系；不将套件证据自动赋予每款游戏。",
+      "customizability": "未核实源代码与自定义选项",
+      "title_zh": "困阵飞船：UCSD 目录",
+      "population_group": "Adolescents & young adults"
+    },
+    {
+      "id": "butterfly-bob-ucsd",
+      "title": "Butterfly Bob (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        },
+        {
+          "title": "BrainLeap — Attention Arcade home overview (2021)",
+          "url": "https://brainleaptech.com/wp-content/uploads/2021/10/BrainLeap-Attention-Arcade-Overview-Home.pdf"
+        },
+        {
+          "title": "BrainLeap — Attention Arcade training schedule (2021)",
+          "url": "https://brainleaptech.com/wp-content/uploads/2021/03/Attention-Arcade-Training-Schedule.pdf"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/eye_tracking_bump-1024x385.jpg",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "训练与严肃游戏",
+      "genre": "注意力训练",
+      "device": "眼动仪；目录未注明型号",
+      "platform": "研究电脑游戏；兼容性未核实",
+      "interaction": "注视驱动交互",
+      "description": "用注视控制上下移动，收集花朵并避开虫子。",
+      "features": [
+        "UCSD 目录条目"
+      ],
+      "image_kind": "官方多游戏合成图，并非单款游戏独立截图",
+      "image_license": "第三方版权；不属于开放数据许可范围",
+      "availability": "有目录记录；当前下载与获取方式未核实",
+      "notes": "目录收录不代表已证实单款游戏有效；具体规则、版本、样本与结果仍需核实。",
+      "subtitle": "UCSD PoNG 游戏目录",
+      "design_intent": [
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "UCSD 原始目录具名列出。配图为多游戏合成图；菜单不作为独立游戏计数。",
+      "target_users": "自闭症青少年",
+      "evaluation": "未建立单款游戏与具体研究的对应关系；不将套件证据自动赋予每款游戏。",
+      "customizability": "未核实源代码与自定义选项",
+      "title_zh": "蝴蝶鲍勃：UCSD 目录",
+      "population_group": "Adolescents & young adults"
+    },
+    {
+      "id": "kung-fall-ucsd",
+      "title": "Kung Fall (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        },
+        {
+          "title": "BrainLeap — Attention Arcade home overview (2021)",
+          "url": "https://brainleaptech.com/wp-content/uploads/2021/10/BrainLeap-Attention-Arcade-Overview-Home.pdf"
+        },
+        {
+          "title": "BrainLeap — Attention Arcade training schedule (2021)",
+          "url": "https://brainleaptech.com/wp-content/uploads/2021/03/Attention-Arcade-Training-Schedule.pdf"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/eye_tracking_bump-1024x385.jpg",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "训练与严肃游戏",
+      "genre": "注意力训练",
+      "device": "眼动仪；目录未注明型号",
+      "platform": "研究电脑游戏；兼容性未核实",
+      "interaction": "注视驱动交互",
+      "description": "用注视引导忍者落在石柱上，并忽略干扰。",
+      "features": [
+        "UCSD 目录条目"
+      ],
+      "image_kind": "官方多游戏合成图，并非单款游戏独立截图",
+      "image_license": "第三方版权；不属于开放数据许可范围",
+      "availability": "有目录记录；当前下载与获取方式未核实",
+      "notes": "目录收录不代表已证实单款游戏有效；具体规则、版本、样本与结果仍需核实。",
+      "subtitle": "UCSD PoNG 游戏目录",
+      "design_intent": [
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "UCSD 原始目录具名列出。配图为多游戏合成图；菜单不作为独立游戏计数。",
+      "target_users": "自闭症青少年",
+      "evaluation": "未建立单款游戏与具体研究的对应关系；不将套件证据自动赋予每款游戏。",
+      "customizability": "未核实源代码与自定义选项",
+      "title_zh": "功夫坠落：UCSD 目录",
+      "population_group": "Adolescents & young adults"
+    },
+    {
+      "id": "see-explorer-ucsd",
+      "title": "See Explorer (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/kg_group-1024x383.png",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "训练与严肃游戏",
+      "genre": "注意力训练",
+      "device": "眼动仪；目录未注明型号",
+      "platform": "研究电脑游戏；兼容性未核实",
+      "interaction": "注视驱动交互",
+      "description": "学龄前眼控游戏；详细规则未公开说明。",
+      "features": [
+        "UCSD 目录条目"
+      ],
+      "image_kind": "官方多游戏合成图，并非单款游戏独立截图",
+      "image_license": "第三方版权；不属于开放数据许可范围",
+      "availability": "有目录记录；当前下载与获取方式未核实",
+      "notes": "目录收录不代表已证实单款游戏有效；具体规则、版本、样本与结果仍需核实。",
+      "subtitle": "UCSD PoNG 游戏目录",
+      "design_intent": [
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "UCSD 原始目录具名列出。配图为多游戏合成图；菜单不作为独立游戏计数。",
+      "target_users": "学龄前儿童",
+      "evaluation": "未建立单款游戏与具体研究的对应关系；不将套件证据自动赋予每款游戏。",
+      "customizability": "未核实源代码与自定义选项",
+      "title_zh": "注视探索者：UCSD 目录",
+      "population_group": "Preschool children"
+    },
+    {
+      "id": "ducky-dash-ucsd",
+      "title": "Ducky Dash (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/kg_group-1024x383.png",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "训练与严肃游戏",
+      "genre": "注意力训练",
+      "device": "眼动仪；目录未注明型号",
+      "platform": "研究电脑游戏；兼容性未核实",
+      "interaction": "注视驱动交互",
+      "description": "学龄前眼控游戏；详细规则未公开说明。",
+      "features": [
+        "UCSD 目录条目"
+      ],
+      "image_kind": "官方多游戏合成图，并非单款游戏独立截图",
+      "image_license": "第三方版权；不属于开放数据许可范围",
+      "availability": "有目录记录；当前下载与获取方式未核实",
+      "notes": "目录收录不代表已证实单款游戏有效；具体规则、版本、样本与结果仍需核实。",
+      "subtitle": "UCSD PoNG 游戏目录",
+      "design_intent": [
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "UCSD 原始目录具名列出。配图为多游戏合成图；菜单不作为独立游戏计数。",
+      "target_users": "学龄前儿童",
+      "evaluation": "未建立单款游戏与具体研究的对应关系；不将套件证据自动赋予每款游戏。",
+      "customizability": "未核实源代码与自定义选项",
+      "title_zh": "小鸭冲刺：UCSD 目录",
+      "population_group": "Preschool children"
+    },
+    {
+      "id": "coloring-look-ucsd",
+      "title": "Coloring Look (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/kg_group-1024x383.png",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "训练与严肃游戏",
+      "genre": "注意力训练",
+      "device": "眼动仪；目录未注明型号",
+      "platform": "研究电脑游戏；兼容性未核实",
+      "interaction": "注视驱动交互",
+      "description": "学龄前眼控游戏；详细规则未公开说明。",
+      "features": [
+        "UCSD 目录条目"
+      ],
+      "image_kind": "官方多游戏合成图，并非单款游戏独立截图",
+      "image_license": "第三方版权；不属于开放数据许可范围",
+      "availability": "有目录记录；当前下载与获取方式未核实",
+      "notes": "目录收录不代表已证实单款游戏有效；具体规则、版本、样本与结果仍需核实。",
+      "subtitle": "UCSD PoNG 游戏目录",
+      "design_intent": [
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "UCSD 原始目录具名列出。配图为多游戏合成图；菜单不作为独立游戏计数。",
+      "target_users": "学龄前儿童",
+      "evaluation": "未建立单款游戏与具体研究的对应关系；不将套件证据自动赋予每款游戏。",
+      "customizability": "未核实源代码与自定义选项",
+      "title_zh": "注视涂色：UCSD 目录",
+      "population_group": "Preschool children"
+    },
+    {
+      "id": "hungry-bunny-ucsd",
+      "title": "Hungry Bunny (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/kg_group-1024x383.png",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "训练与严肃游戏",
+      "genre": "注意力训练",
+      "device": "眼动仪；目录未注明型号",
+      "platform": "研究电脑游戏；兼容性未核实",
+      "interaction": "注视驱动交互",
+      "description": "学龄前眼控游戏；详细规则未公开说明。",
+      "features": [
+        "UCSD 目录条目"
+      ],
+      "image_kind": "官方多游戏合成图，并非单款游戏独立截图",
+      "image_license": "第三方版权；不属于开放数据许可范围",
+      "availability": "有目录记录；当前下载与获取方式未核实",
+      "notes": "目录收录不代表已证实单款游戏有效；具体规则、版本、样本与结果仍需核实。",
+      "subtitle": "UCSD PoNG 游戏目录",
+      "design_intent": [
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "UCSD 原始目录具名列出。配图为多游戏合成图；菜单不作为独立游戏计数。",
+      "target_users": "学龄前儿童",
+      "evaluation": "未建立单款游戏与具体研究的对应关系；不将套件证据自动赋予每款游戏。",
+      "customizability": "未核实源代码与自定义选项",
+      "title_zh": "饥饿兔子：UCSD 目录",
+      "population_group": "Preschool children"
+    },
+    {
+      "id": "balloon-pop-ucsd",
+      "title": "Balloon Pop (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/kg_group-1024x383.png",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "训练与严肃游戏",
+      "genre": "注意力训练",
+      "device": "眼动仪；目录未注明型号",
+      "platform": "研究电脑游戏；兼容性未核实",
+      "interaction": "注视驱动交互",
+      "description": "学龄前眼控游戏；详细规则未公开说明。",
+      "features": [
+        "UCSD 目录条目"
+      ],
+      "image_kind": "官方多游戏合成图，并非单款游戏独立截图",
+      "image_license": "第三方版权；不属于开放数据许可范围",
+      "availability": "有目录记录；当前下载与获取方式未核实",
+      "notes": "目录收录不代表已证实单款游戏有效；具体规则、版本、样本与结果仍需核实。",
+      "subtitle": "UCSD PoNG 游戏目录",
+      "design_intent": [
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "UCSD 原始目录具名列出。配图为多游戏合成图；菜单不作为独立游戏计数。",
+      "target_users": "学龄前儿童",
+      "evaluation": "未建立单款游戏与具体研究的对应关系；不将套件证据自动赋予每款游戏。",
+      "customizability": "未核实源代码与自定义选项",
+      "title_zh": "气球爆破：UCSD 目录",
+      "population_group": "Preschool children"
+    },
+    {
+      "id": "dirty-dodger-ucsd",
+      "title": "Dirty Dodger (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        },
+        {
+          "title": "ClinicalTrials.gov — related suite-level trial, NCT03900702",
+          "url": "https://clinicaltrials.gov/study/NCT03900702"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/U01-group-1024x301.png",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "训练与严肃游戏",
+      "genre": "注意力训练",
+      "device": "眼动仪；目录未注明型号",
+      "platform": "研究电脑游戏；兼容性未核实",
+      "interaction": "注视驱动交互",
+      "description": "老年人眼控游戏；详细规则未公开说明。",
+      "features": [
+        "UCSD 目录条目"
+      ],
+      "image_kind": "官方多游戏合成图，并非单款游戏独立截图",
+      "image_license": "第三方版权；不属于开放数据许可范围",
+      "availability": "有目录记录；当前下载与获取方式未核实",
+      "notes": "目录收录不代表已证实单款游戏有效；具体规则、版本、样本与结果仍需核实。 训练／评估是套件层面的描述；此单款游戏的具体角色未核实。",
+      "subtitle": "UCSD PoNG 游戏目录",
+      "design_intent": [
+        "Education & Training",
+        "Assessment"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "UCSD 原始目录具名列出。配图为多游戏合成图；菜单不作为独立游戏计数。",
+      "target_users": "老年人",
+      "evaluation": "未建立单款游戏与具体研究的对应关系；不将套件证据自动赋予每款游戏。",
+      "customizability": "未核实源代码与自定义选项",
+      "title_zh": "污物闪避：UCSD 目录",
+      "population_group": "Older adults"
+    },
+    {
+      "id": "vintage-vroomers-ucsd",
+      "title": "Vintage Vroomers (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        },
+        {
+          "title": "ClinicalTrials.gov — related suite-level trial, NCT03900702",
+          "url": "https://clinicaltrials.gov/study/NCT03900702"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/U01-group-1024x301.png",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "训练与严肃游戏",
+      "genre": "注意力训练",
+      "device": "眼动仪；目录未注明型号",
+      "platform": "研究电脑游戏；兼容性未核实",
+      "interaction": "注视驱动交互",
+      "description": "老年人眼控游戏；详细规则未公开说明。",
+      "features": [
+        "UCSD 目录条目"
+      ],
+      "image_kind": "官方多游戏合成图，并非单款游戏独立截图",
+      "image_license": "第三方版权；不属于开放数据许可范围",
+      "availability": "有目录记录；当前下载与获取方式未核实",
+      "notes": "目录收录不代表已证实单款游戏有效；具体规则、版本、样本与结果仍需核实。 训练／评估是套件层面的描述；此单款游戏的具体角色未核实。",
+      "subtitle": "UCSD PoNG 游戏目录",
+      "design_intent": [
+        "Education & Training",
+        "Assessment"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "UCSD 原始目录具名列出。配图为多游戏合成图；菜单不作为独立游戏计数。",
+      "target_users": "老年人",
+      "evaluation": "未建立单款游戏与具体研究的对应关系；不将套件证据自动赋予每款游戏。",
+      "customizability": "未核实源代码与自定义选项",
+      "title_zh": "复古飞驰：UCSD 目录",
+      "population_group": "Older adults"
+    },
+    {
+      "id": "flower-power-ucsd",
+      "title": "Flower Power (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        },
+        {
+          "title": "ClinicalTrials.gov — related suite-level trial, NCT03900702",
+          "url": "https://clinicaltrials.gov/study/NCT03900702"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/U01-group-1024x301.png",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "训练与严肃游戏",
+      "genre": "注意力训练",
+      "device": "眼动仪；目录未注明型号",
+      "platform": "研究电脑游戏；兼容性未核实",
+      "interaction": "注视驱动交互",
+      "description": "老年人眼控游戏；详细规则未公开说明。",
+      "features": [
+        "UCSD 目录条目"
+      ],
+      "image_kind": "官方多游戏合成图，并非单款游戏独立截图",
+      "image_license": "第三方版权；不属于开放数据许可范围",
+      "availability": "有目录记录；当前下载与获取方式未核实",
+      "notes": "目录收录不代表已证实单款游戏有效；具体规则、版本、样本与结果仍需核实。 训练／评估是套件层面的描述；此单款游戏的具体角色未核实。",
+      "subtitle": "UCSD PoNG 游戏目录",
+      "design_intent": [
+        "Education & Training",
+        "Assessment"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "UCSD 原始目录具名列出。配图为多游戏合成图；菜单不作为独立游戏计数。",
+      "target_users": "老年人",
+      "evaluation": "未建立单款游戏与具体研究的对应关系；不将套件证据自动赋予每款游戏。",
+      "customizability": "未核实源代码与自定义选项",
+      "title_zh": "花朵能量：UCSD 目录",
+      "population_group": "Older adults"
+    },
+    {
+      "id": "seven-times-three-ucsd",
+      "title": "Seven Times Three (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        },
+        {
+          "title": "ClinicalTrials.gov — related suite-level trial, NCT03900702",
+          "url": "https://clinicaltrials.gov/study/NCT03900702"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/U01-group-1024x301.png",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "训练与严肃游戏",
+      "genre": "注意力训练",
+      "device": "眼动仪；目录未注明型号",
+      "platform": "研究电脑游戏；兼容性未核实",
+      "interaction": "注视驱动交互",
+      "description": "老年人眼控游戏；详细规则未公开说明。",
+      "features": [
+        "UCSD 目录条目"
+      ],
+      "image_kind": "官方多游戏合成图，并非单款游戏独立截图",
+      "image_license": "第三方版权；不属于开放数据许可范围",
+      "availability": "有目录记录；当前下载与获取方式未核实",
+      "notes": "目录收录不代表已证实单款游戏有效；具体规则、版本、样本与结果仍需核实。 训练／评估是套件层面的描述；此单款游戏的具体角色未核实。",
+      "subtitle": "UCSD PoNG 游戏目录",
+      "design_intent": [
+        "Education & Training",
+        "Assessment"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "UCSD 原始目录具名列出。配图为多游戏合成图；菜单不作为独立游戏计数。",
+      "target_users": "老年人",
+      "evaluation": "未建立单款游戏与具体研究的对应关系；不将套件证据自动赋予每款游戏。",
+      "customizability": "未核实源代码与自定义选项",
+      "title_zh": "七乘三：UCSD 目录",
+      "population_group": "Older adults"
+    },
+    {
+      "id": "erosion-ucsd",
+      "title": "Erosion (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        },
+        {
+          "title": "ClinicalTrials.gov — related suite-level trial, NCT03900702",
+          "url": "https://clinicaltrials.gov/study/NCT03900702"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/U01-group-1024x301.png",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "训练与严肃游戏",
+      "genre": "注意力训练",
+      "device": "眼动仪；目录未注明型号",
+      "platform": "研究电脑游戏；兼容性未核实",
+      "interaction": "注视驱动交互",
+      "description": "老年人眼控游戏；详细规则未公开说明。",
+      "features": [
+        "UCSD 目录条目"
+      ],
+      "image_kind": "官方多游戏合成图，并非单款游戏独立截图",
+      "image_license": "第三方版权；不属于开放数据许可范围",
+      "availability": "有目录记录；当前下载与获取方式未核实",
+      "notes": "目录收录不代表已证实单款游戏有效；具体规则、版本、样本与结果仍需核实。 训练／评估是套件层面的描述；此单款游戏的具体角色未核实。",
+      "subtitle": "UCSD PoNG 游戏目录",
+      "design_intent": [
+        "Education & Training",
+        "Assessment"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "UCSD 原始目录具名列出。配图为多游戏合成图；菜单不作为独立游戏计数。",
+      "target_users": "老年人",
+      "evaluation": "未建立单款游戏与具体研究的对应关系；不将套件证据自动赋予每款游戏。",
+      "customizability": "未核实源代码与自定义选项",
+      "title_zh": "侵蚀：UCSD 目录",
+      "population_group": "Older adults"
+    },
+    {
+      "id": "peaceful-pond-ucsd",
+      "title": "Peaceful Pond (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        },
+        {
+          "title": "ClinicalTrials.gov — related suite-level trial, NCT03900702",
+          "url": "https://clinicaltrials.gov/study/NCT03900702"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/U01-group-1024x301.png",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "训练与严肃游戏",
+      "genre": "注意力训练",
+      "device": "眼动仪；目录未注明型号",
+      "platform": "研究电脑游戏；兼容性未核实",
+      "interaction": "注视驱动交互",
+      "description": "老年人眼控游戏；详细规则未公开说明。",
+      "features": [
+        "UCSD 目录条目"
+      ],
+      "image_kind": "官方多游戏合成图，并非单款游戏独立截图",
+      "image_license": "第三方版权；不属于开放数据许可范围",
+      "availability": "有目录记录；当前下载与获取方式未核实",
+      "notes": "目录收录不代表已证实单款游戏有效；具体规则、版本、样本与结果仍需核实。 训练／评估是套件层面的描述；此单款游戏的具体角色未核实。",
+      "subtitle": "UCSD PoNG 游戏目录",
+      "design_intent": [
+        "Education & Training",
+        "Assessment"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "UCSD 原始目录具名列出。配图为多游戏合成图；菜单不作为独立游戏计数。",
+      "target_users": "老年人",
+      "evaluation": "未建立单款游戏与具体研究的对应关系；不将套件证据自动赋予每款游戏。",
+      "customizability": "未核实源代码与自定义选项",
+      "title_zh": "宁静池塘：UCSD 目录",
+      "population_group": "Older adults"
+    },
+    {
+      "id": "rolling-rampage-ucsd",
+      "title": "Rolling Rampage (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        },
+        {
+          "title": "BrainLeap — Attention Arcade home overview (2021)",
+          "url": "https://brainleaptech.com/wp-content/uploads/2021/10/BrainLeap-Attention-Arcade-Overview-Home.pdf"
+        },
+        {
+          "title": "ClinicalTrials.gov — related suite-level trial, NCT03900702",
+          "url": "https://clinicaltrials.gov/study/NCT03900702"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/U01-group-1024x301.png",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "训练与严肃游戏",
+      "genre": "注意力训练",
+      "device": "眼动仪；目录未注明型号",
+      "platform": "研究电脑游戏；兼容性未核实",
+      "interaction": "注视驱动交互",
+      "description": "引导小球到达终点，收集星星并避开紫色障碍。",
+      "features": [
+        "UCSD 目录条目"
+      ],
+      "image_kind": "官方多游戏合成图，并非单款游戏独立截图",
+      "image_license": "第三方版权；不属于开放数据许可范围",
+      "availability": "有目录记录；当前下载与获取方式未核实",
+      "notes": "目录收录不代表已证实单款游戏有效；具体规则、版本、样本与结果仍需核实。 训练／评估是套件层面的描述；此单款游戏的具体角色未核实。",
+      "subtitle": "UCSD PoNG 游戏目录",
+      "design_intent": [
+        "Education & Training",
+        "Assessment"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "UCSD 原始目录具名列出。配图为多游戏合成图；菜单不作为独立游戏计数。",
+      "target_users": "老年人",
+      "evaluation": "未建立单款游戏与具体研究的对应关系；不将套件证据自动赋予每款游戏。",
+      "customizability": "未核实源代码与自定义选项",
+      "title_zh": "滚动冲刺：UCSD 目录",
+      "population_group": "Older adults"
+    },
+    {
+      "id": "eyechess-research",
+      "title": "EyeChess — endgame tutor",
+      "year": 2005,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Špakov & Miniotas — author-hosted ECEM 2005 presentation",
+          "url": "https://homepages.tuni.fi/oleg.spakov/publications/Spakov_ECEM_05.pdf"
+        }
+      ],
+      "image_url": "assets/catalog/eyechess-research.svg",
+      "image_source": "https://homepages.tuni.fi/oleg.spakov/publications/Spakov_ECEM_05.pdf",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "原创研究档案示意，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "tags": [
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "研究原型",
+      "genre": "Chess tutorial",
+      "device": "SMI iView X RED III / Tobii 1750",
+      "platform": "Research prototype",
+      "interaction": "Dwell, blink or eye gesture selection",
+      "description": "通过注视选择棋子及目标格，解三步将杀残局；视觉提示辅助下一步。",
+      "features": [
+        "注视选棋与移动",
+        "视觉教学提示"
+      ],
+      "availability": "研究资料；公开游戏下载尚未核实",
+      "notes": "2005为报告及项目年份；并非SpecialEffect的Eye Gaze Games Chess。",
+      "subtitle": "学术研究原型",
+      "design_intent": [
+        "Accessibility",
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "附原始研究或作者机构记录；未实测游戏。",
+      "target_users": "研究参与者；详见原文",
+      "evaluation": "小规模选择方式试验及4人教学评估；停留选择较受偏好。",
+      "customizability": "论文描述了参数；公开源码或下载尚未核实",
+      "title_zh": "眼控国际象棋残局教学",
+      "population_group": "See entry"
+    },
+    {
+      "id": "invisible-eni",
+      "title": "Invisible Eni",
+      "year": 2008,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Ekman et al. — Aalto author publication record",
+          "url": "https://research.aalto.fi/en/publications/invisible-eni-using-gaze-and-pupil-size-to-control-a-game/"
+        },
+        {
+          "title": "Original CHI 2008 extended abstract — DOI",
+          "url": "https://doi.org/10.1145/1358628.1358820"
+        }
+      ],
+      "image_url": "assets/catalog/invisible-eni.svg",
+      "image_source": "https://research.aalto.fi/en/publications/invisible-eni-using-gaze-and-pupil-size-to-control-a-game/",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "原创研究档案示意，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "tags": [
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "研究原型",
+      "genre": "Experimental adventure",
+      "device": "Eye tracker with pupil-size and blink recording",
+      "platform": "Research prototype",
+      "interaction": "Gaze, blinks and pupil variation",
+      "description": "实验性纯眼控游戏，将视线、闭眼及瞳孔大小变化映射为动作和游戏状态。",
+      "features": [
+        "纯眼输入",
+        "瞳孔生物反馈"
+      ],
+      "availability": "研究资料；公开游戏下载尚未核实",
+      "notes": "2008为发表年份；瞳孔是间接生理输入，不能可靠读取人的意图。",
+      "subtitle": "学术研究原型",
+      "design_intent": [
+        "Interaction Research"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Puzzle & strategy",
+      "evidence": "附原始研究或作者机构记录；未实测游戏。",
+      "target_users": "研究参与者；详见原文",
+      "evaluation": "设计论述与演示论文；此处不作有效性结论。",
+      "customizability": "论文描述了参数；公开源码或下载尚未核实",
+      "title_zh": "隐形的Eni",
+      "population_group": "See entry"
+    },
+    {
+      "id": "shynosaurs",
+      "title": "Shynosaurs",
+      "year": 2014,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Vidal — original CHI PLAY 2014 paper DOI",
+          "url": "https://doi.org/10.1145/2658537.2662979"
+        },
+        {
+          "title": "Wanner et al. CHI 2024 — contextualization of the original mechanic",
+          "url": "https://research-portal.uu.nl/ws/portalfiles/portal/229945584/3613904.3641909.pdf"
+        }
+      ],
+      "image_url": "assets/catalog/shynosaurs.svg",
+      "image_source": "https://doi.org/10.1145/2658537.2662979",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "原创研究档案示意，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "tags": [
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "研究原型",
+      "genre": "Attention-dilemma arcade",
+      "device": "Desktop eye tracker and mouse",
+      "platform": "Research prototype",
+      "interaction": "Gaze intimidation plus mouse rescue",
+      "description": "用鼠标拯救小生物，同时盯住敌人减慢或驱赶它们；观察与眼控争用注意力。",
+      "features": [
+        "注视驱敌",
+        "眼手注意力冲突"
+      ],
+      "availability": "研究资料；公开游戏下载尚未核实",
+      "notes": "2014为论文年份；未核实商业发行或公开下载。",
+      "subtitle": "学术研究原型",
+      "design_intent": [
+        "Interaction Research"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Research prototype",
+      "genre_family": "Puzzle & strategy",
+      "evidence": "附原始研究或作者机构记录；未实测游戏。",
+      "target_users": "研究参与者；详见原文",
+      "evaluation": "会议游戏设计原型；本轮未核实其新增用户试验样本。",
+      "customizability": "论文描述了参数；公开源码或下载尚未核实",
+      "title_zh": "害羞恐龙",
+      "population_group": "See entry"
+    },
+    {
+      "id": "trackmaze",
+      "title": "TrackMaze",
+      "year": 2018,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Abbaszadegan, Yaghoubi & MacKenzie — author-hosted paper",
+          "url": "https://www.yorku.ca/mack/hcii2018b.pdf"
+        },
+        {
+          "title": "Original HCI International 2018 chapter DOI",
+          "url": "https://doi.org/10.1007/978-3-319-91250-9_31"
+        }
+      ],
+      "image_url": "assets/catalog/trackmaze.svg",
+      "image_source": "https://www.yorku.ca/mack/hcii2018b.pdf",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "原创研究档案示意，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "tags": [
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "研究原型",
+      "genre": "Mobile ball maze",
+      "device": "iPhone X TrueDepth camera / ARKit",
+      "platform": "Research prototype",
+      "interaction": "Eye movement, head tracking or tilt",
+      "description": "移动虚拟球穿过迷宫并避免碰墙，研究比较眼动、头部运动和手机倾斜输入。",
+      "features": [
+        "迷宫导航",
+        "三种输入比较"
+      ],
+      "availability": "研究资料；公开游戏下载尚未核实",
+      "notes": "2018为研究年份，并非已核实的App Store发行年份；眼动与头动是独立试验条件。",
+      "subtitle": "学术研究原型",
+      "design_intent": [
+        "Interaction Research"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Puzzle & strategy",
+      "evidence": "附原始研究或作者机构记录；未实测游戏。",
+      "target_users": "研究参与者；详见原文",
+      "evaluation": "12人研究；该设备及任务中，倾斜最快最准，眼动较慢且较疲劳。",
+      "customizability": "每种输入方式均测试了两种增益。",
+      "title_zh": "眼控滚球迷宫",
+      "population_group": "See entry"
+    },
+    {
+      "id": "gaze-hero",
+      "title": "Gaze Hero",
+      "year": 2020,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Thomassen — Aalborg University master’s project record",
+          "url": "https://projekter.aau.dk/effects-of-perceived-speed-on-performance-between-eye-gaze-and-mouse-input-in-a-rhythm-game-e75220a4.html"
+        },
+        {
+          "title": "Author thesis PDF",
+          "url": "https://projekter.aau.dk/projekter/files/334550950/MTA201041_Effects_of_Perceived_Speed_on_Performance_Between.pdf"
+        }
+      ],
+      "image_url": "assets/catalog/gaze-hero.svg",
+      "image_source": "https://projekter.aau.dk/effects-of-perceived-speed-on-performance-between-eye-gaze-and-mouse-input-in-a-rhythm-game-e75220a4.html",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "原创研究档案示意，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "tags": [
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "研究原型",
+      "genre": "Rhythm game",
+      "device": "Desktop gaze tracker and mouse comparison",
+      "platform": "Research prototype",
+      "interaction": "Gaze selection of timed notes",
+      "description": "随着节奏击中单行排列的音符；硕士研究比较不同感知速度下眼动与鼠标表现。",
+      "features": [
+        "节奏注视目标",
+        "不同速度条件"
+      ],
+      "availability": "研究资料；公开游戏下载尚未核实",
+      "notes": "2020为学位论文提交年份；属于硕士论文，不标为同行评审证据。",
+      "subtitle": "学术研究原型",
+      "design_intent": [
+        "Interaction Research"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Puzzle & strategy",
+      "evidence": "附原始研究或作者机构记录；未实测游戏。",
+      "target_users": "研究参与者；详见原文",
+      "evaluation": "16人、3个速度等级；没有发现眼动总体优势，快速条件下鼠标表现更佳。",
+      "customizability": "研究使用三个感知速度等级。",
+      "title_zh": "注视节奏英雄",
+      "population_group": "See entry"
+    },
+    {
+      "id": "eyelines",
+      "title": "EyeLines",
+      "year": 2016,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Shishkin et al. — original 2016 study DOI",
+          "url": "https://doi.org/10.3389/fnins.2016.00528"
+        },
+        {
+          "title": "Shevtsova et al. — 2025 online classification study DOI",
+          "url": "https://doi.org/10.1109/ACCESS.2025.3568650"
+        },
+        {
+          "title": "Author-hosted 2025 full paper",
+          "url": "https://megmoscow.ru/wp-content/uploads/pubs/10.1109_access.2025.3568650.pdf"
+        }
+      ],
+      "image_url": "assets/catalog/eyelines.svg",
+      "image_source": "https://doi.org/10.3389/fnins.2016.00528",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "原创研究档案示意，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "tags": [
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "研究原型",
+      "genre": "Color-lines board puzzle",
+      "device": "Desktop eye tracker; EEG/MEG in related experiments",
+      "platform": "Research prototype",
+      "interaction": "Gaze dwell with intent classification",
+      "description": "在格子棋盘移动彩球连成同色直线；该持续使用的研究环境用于区分有意选择与无意注视。",
+      "features": [
+        "纯眼控益智",
+        "误触与意图研究"
+      ],
+      "availability": "研究资料；公开游戏下载尚未核实",
+      "notes": "同一游戏环境跨多篇论文使用；2016为早期所引发表年份，不能算作2025年新发行游戏。",
+      "subtitle": "学术研究原型",
+      "design_intent": [
+        "Interaction Research"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Puzzle & strategy",
+      "evidence": "附原始研究或作者机构记录；未实测游戏。",
+      "target_users": "研究参与者；详见原文",
+      "evaluation": "2016年EEG研究8人；2025年在线研究分析15人，在该环境中机器学习减少了误选择。",
+      "customizability": "不同研究版本采用不同停留阈值及分类模式。",
+      "title_zh": "眼控彩球连线",
+      "population_group": "See entry"
+    },
+    {
+      "id": "invirs",
+      "title": "InViRS — Tangram & Bubble Popping",
+      "year": 2021,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Amat et al. — original TNSRE 2021 DOI",
+          "url": "https://doi.org/10.1109/TNSRE.2021.3108351"
+        },
+        {
+          "title": "Original paper full text",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8482411/"
+        }
+      ],
+      "image_url": "assets/catalog/invirs.svg",
+      "image_source": "https://doi.org/10.1109/TNSRE.2021.3108351",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "原创研究档案示意，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "tags": [
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "研究原型",
+      "genre": "Joint-attention puzzle and bubble game",
+      "device": "Tobii EyeX and monitor; virtual avatar",
+      "platform": "Research prototype",
+      "interaction": "Gaze sharing and gaze-following targets",
+      "description": "跟随虚拟角色视线完成七巧板练习及泡泡目标评估；系统按注视和任务表现调整提示。",
+      "features": [
+        "自适应角色提示",
+        "两个关联小游戏"
+      ],
+      "availability": "研究资料；公开游戏下载尚未核实",
+      "notes": "2021为论文年份；虽使用VR术语，研究为显示器虚拟环境；可行性不代表长期临床疗效。",
+      "subtitle": "学术研究原型",
+      "design_intent": [
+        "Accessibility",
+        "Education & Training",
+        "Social Interaction"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "附原始研究或作者机构记录；未实测游戏。",
+      "target_users": "研究参与者；详见原文",
+      "evaluation": "可行性试验：9名自闭症儿童及9名典型发展儿童，7至13岁，三次访问。",
+      "customizability": "角色视线提示及辅助依据个人表现调整。",
+      "title_zh": "InViRS共同注意游戏系统",
+      "population_group": "See entry"
+    },
+    {
+      "id": "lego-puzzle-joint-attention",
+      "title": "LEGO Puzzle — joint-attention study",
+      "year": 2024,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Original Behavioral Sciences 2024 article",
+          "url": "https://www.mdpi.com/2076-328X/14/10/871"
+        },
+        {
+          "title": "Original full text at PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11505074/"
+        },
+        {
+          "title": "DOI",
+          "url": "https://doi.org/10.3390/bs14100871"
+        }
+      ],
+      "image_url": "assets/catalog/lego-puzzle-joint-attention.svg",
+      "image_source": "https://www.mdpi.com/2076-328X/14/10/871",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "原创研究档案示意，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "tags": [
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "研究原型",
+      "genre": "Social-cue target selection",
+      "device": "Tobii Eye Tracker 5 and PC",
+      "platform": "Research prototype",
+      "interaction": "Two-second fixation selects a brick",
+      "description": "根据虚拟角色提示注视积木目标；比较单纯视线、视线加转头、视线加指向三种社会线索。",
+      "features": [
+        "注视选目标",
+        "多模态社会线索"
+      ],
+      "availability": "研究资料；公开游戏下载尚未核实",
+      "notes": "2024为论文年份；原文命名为LEGO Puzzle，并非已核实的乐高官方商业产品。",
+      "subtitle": "学术研究原型",
+      "design_intent": [
+        "Education & Training",
+        "Social Interaction"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "附原始研究或作者机构记录；未实测游戏。",
+      "target_users": "研究参与者；详见原文",
+      "evaluation": "40名自闭症儿童及31名典型发展儿童；比较线索反应，属于任务研究而非长期治疗试验。",
+      "customizability": "论文描述了参数；公开源码或下载尚未核实",
+      "title_zh": "积木共同注意实验游戏",
+      "population_group": "See entry"
+    },
+    {
+      "id": "vr-robot-search-severitt",
+      "title": "Flying-robot visual search — Severitt et al.",
+      "year": 2025,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Severitt et al. — Frontiers in Virtual Reality 2025 article",
+          "url": "https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2025.1576962/full"
+        },
+        {
+          "title": "DOI",
+          "url": "https://doi.org/10.3389/frvir.2025.1576962"
+        }
+      ],
+      "image_url": "https://www.frontiersin.org/files/Articles/1576962/xml-images/frvir-06-1576962-g002.webp",
+      "image_source": "https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2025.1576962/full",
+      "image_credit": "Severitt et al., Frontiers in Virtual Reality (2025), Figure 2",
+      "image_kind": "Research-paper figure",
+      "image_license": "CC BY 4.0; see original article",
+      "tags": [
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "研究原型",
+      "genre": "VR visual-search score game",
+      "device": "HTC Vive Pro Eye; controller for settings",
+      "platform": "Research prototype",
+      "interaction": "Gaze dwell, gaze–head alignment, nod or pursuit",
+      "description": "在飞行机器人携带的O干扰项中寻找C目标，以四种眼控选择方式之一击中目标得分。",
+      "features": [
+        "四种眼控方式",
+        "可调输入阈值"
+      ],
+      "availability": "研究资料；公开游戏下载尚未核实",
+      "notes": "目录采用描述性名称；论文未赋予独立商业游戏名。2025为发表年份。",
+      "subtitle": "学术研究原型",
+      "design_intent": [
+        "Interaction Research"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Puzzle & strategy",
+      "evidence": "附原始研究或作者机构记录；未实测游戏。",
+      "target_users": "研究参与者；详见原文",
+      "evaluation": "52人；比较任务负荷、目标寻找时间、得分及方式偏好。",
+      "customizability": "可调停留时长、头部及点头容差、追随精度与运动轨迹。",
+      "title_zh": "飞行机器人视觉搜索实验",
+      "population_group": "See entry"
+    },
+    {
+      "id": "restroop",
+      "title": "ReStroop — recycling inhibition game",
+      "year": 2025,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Rehman et al. — original arXiv preprint",
+          "url": "https://arxiv.org/abs/2509.08357"
+        },
+        {
+          "title": "Author full text",
+          "url": "https://arxiv.org/html/2509.08357v1"
+        },
+        {
+          "title": "Preprint DOI",
+          "url": "https://doi.org/10.48550/arXiv.2509.08357"
+        }
+      ],
+      "image_url": "https://arxiv.org/html/2509.08357v1/inhib_game_GUI1.png",
+      "image_source": "https://arxiv.org/abs/2509.08357",
+      "image_credit": "Rehman et al. (2025), Figure 2a",
+      "image_kind": "Research-paper figure",
+      "image_license": "See arXiv publication license; attribution required",
+      "tags": [
+        "Measurement",
+        "Research"
+      ],
+      "research_role": "measurement-only",
+      "inclusion_scope": "research-measurement",
+      "awards": [],
+      "category": "研究原型",
+      "genre": "Recycling / inhibitory-control serious game",
+      "device": "Eye tracker; model not specified in inspected text",
+      "platform": "Research prototype",
+      "interaction": "Gameplay with gaze measurement",
+      "description": "判断回收物与可用垃圾桶是否匹配；研究分析游玩过程中的视线、兴趣区及注意模式。",
+      "features": [
+        "回收主题Stroop任务",
+        "注视分析框架"
+      ],
+      "availability": "研究资料；公开游戏下载尚未核实",
+      "notes": "仅测量条目：所核实论文未证明眼动直接控制游戏。2025为预印本日期。",
+      "subtitle": "学术研究原型",
+      "design_intent": [
+        "Education & Training"
+      ],
+      "eye_role": "Measurement only",
+      "entry_type": "Research environment",
+      "genre_family": "Puzzle & strategy",
+      "evidence": "附原始研究或作者机构记录；未实测游戏。",
+      "target_users": "研究参与者；详见原文",
+      "evaluation": "2025预印本提出三个难度下的分析框架；不视为已验证诊断或治疗。",
+      "customizability": "描述三个难度等级及可设置的分析阈值。",
+      "title_zh": "ReStroop回收抑制控制游戏",
+      "population_group": "See entry"
     }
   ]
 }

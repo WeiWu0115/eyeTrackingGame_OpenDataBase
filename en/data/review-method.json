@@ -2,14 +2,19 @@
   "updated_at": "2026-10-16",
   "review_type": "Source-led scoping review / design-space mapping",
   "baseline_entries": 16,
-  "added_entries": 79,
-  "total_entries": 95,
+  "previous_release_entries": 95,
+  "latest_additions": 26,
+  "ucsd_named_games": 18,
+  "ucsd_new_records": 16,
+  "other_new_research_records": 10,
+  "added_entries": 105,
+  "total_entries": 121,
   "primary_category_counts": {
     "Commercial games": 34,
     "Indie & small games": 22,
-    "Research prototypes": 15,
+    "Research prototypes": 25,
     "Accessible gaze games": 16,
-    "Training & serious games": 6,
+    "Training & serious games": 22,
     "Research observation & datasets": 2
   },
   "overlapping_tag_counts": {
@@ -20,17 +25,17 @@
     "Steam": 24,
     "Accessibility": 21,
     "Award nominee": 1,
-    "Research": 24,
+    "Research": 50,
     "VR": 7,
     "Perception": 2,
     "Horror": 4,
     "Student": 9,
-    "Training": 16,
+    "Training": 32,
     "Hands-free": 4,
     "Puzzle": 3,
     "Social gaze": 1,
     "Dataset": 1,
-    "Measurement": 2,
+    "Measurement": 3,
     "Historical": 10,
     "Open source": 1,
     "Arcade": 1,
@@ -55,23 +60,25 @@
     "Human-AI collaboration": 1,
     "Data collection": 1,
     "Mod": 1,
-    "Experimental": 2
+    "Experimental": 2,
+    "UCSD PoNG": 18
   },
   "entry_type_counts": {
     "Game": 66,
-    "Research prototype": 19,
+    "Research prototype": 44,
     "Activity suite": 8,
-    "Research environment": 2
+    "Research environment": 3
   },
   "gaze_role_counts": {
     "Blink detection": 2,
-    "Gaze control": 32,
-    "Multimodal": 27,
+    "Gaze control": 56,
+    "Multimodal": 28,
     "Gaze-responsive": 3,
     "Gaze assistance": 29,
-    "Measurement only": 2
+    "Measurement only": 3
   },
   "channels": [
+    "UCSD PoNG official age-group game catalog",
     "Tobii per-game pages",
     "Steam official listings",
     "Developer itch.io pages",
@@ -106,8 +113,6 @@
     "Historical access and regional availability vary"
   ],
   "unresolved_leads": [
-    "Shynosaurs",
-    "Invisible Eni",
     "Eye-Riders"
   ],
   "schema_notes": {

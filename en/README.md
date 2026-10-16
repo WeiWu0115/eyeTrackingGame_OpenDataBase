@@ -1,6 +1,6 @@
 # Gaze Atlas · Eye-Tracking Game Open Database
 
-An English-language curated collection of commercial games, accessible gaze games, and research prototypes. The expanded edition contains 95 entries. Source verification date: October 16, 2026. This is not an exhaustive list; entries have not all been tested hands-on.
+An English-language curated collection of commercial games, accessible gaze games, and research prototypes. The expanded edition contains 121 entries. Source verification date: October 16, 2026. This is not an exhaustive list; entries have not all been tested hands-on.
 
 ## Languages
 
@@ -35,7 +35,6 @@ Use GitHub Issues or pull requests to suggest games or corrections. Include offi
 
 GitHub Pages publishes the repository's `main` branch and root directory. No build step is required. For local preview, serve the repository root with `python3 -m http.server 8765`, then open http://localhost:8765/en/ . Opening the HTML directly may prevent the browser from loading JSON.
 
-
 ## Expanded review (October 16, 2026)
 
-Read [review.html](review.html) and [data/review-method.json](data/review-method.json). Added fields include tags, design_intent, eye_role, genre_family, entry_type, awards, target_users, evaluation, customizability, and evidence. Primary categories are exclusive; tags overlap. Suites count as one record. Ninety-five entries are not ninety-five independently playable games. See availability and notes for historical or delisted works.
+Read [review.html](review.html) and [data/review-method.json](data/review-method.json). Added fields include tags, design_intent, eye_role, genre_family, entry_type, awards, target_users, evaluation, customizability, and evidence. Primary categories are exclusive; tags overlap. Suites count as one record. 121 entries are not 121 independently playable games. See availability and notes for historical or delisted works.

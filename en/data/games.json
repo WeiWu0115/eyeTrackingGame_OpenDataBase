@@ -1,5 +1,5 @@
 {
-  "schema_version": "2.0",
+  "schema_version": "2.1",
   "language": "en",
   "updated_at": "2026-10-16",
   "review_type": "Source-led scoping review; not exhaustive or preregistered",
@@ -63,7 +63,8 @@
       "genre_family": "Narrative & social",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "hyperdot",
@@ -132,7 +133,8 @@
       "subtitle": "Arcade / dodge-em-up · Indie & small games",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "gazetrain",
@@ -183,7 +185,8 @@
       "evidence": "Supported by the linked original research paper or author project page; not play-tested.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "eyemine",
@@ -232,7 +235,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "synapse",
@@ -284,7 +288,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "supervision",
@@ -331,7 +336,8 @@
       "evidence": "Supported by the linked original research paper or author project page; not play-tested.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Paper reports a 24-participant design evaluation, not clinical efficacy",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "dont-look",
@@ -378,7 +384,8 @@
       "subtitle": "Horror / side-view exploration · Indie & small games",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "ets2",
@@ -429,7 +436,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "look-lab",
@@ -477,7 +485,8 @@
       "availability": "Product / demonstration documented; check official licensing and downloads",
       "notes": "Counted once as a suite. Supports gaze and other pointer input; check official hardware compatibility.",
       "genre_family": "Learning & training",
-      "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed."
+      "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
+      "population_group": "See entry"
     },
     {
       "id": "rez-infinite",
@@ -538,7 +547,8 @@
       "genre_family": "Rhythm & music",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "regaze",
@@ -591,7 +601,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Project reports a 30-participant within-subject comparison; not cross-device validation",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "limbitless-journey",
@@ -654,7 +665,8 @@
       "evidence": "Supported by the linked original research paper or author project page; not play-tested.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "stonesight",
@@ -701,7 +713,8 @@
       "subtitle": "Puzzle / physics stacking · Indie & small games",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "royal-corgi",
@@ -749,7 +762,8 @@
       "evidence": "Supported by the linked original research paper or author project page; not play-tested.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "atari-head",
@@ -797,7 +811,8 @@
       "evidence": "Supported by the linked original research paper or author project page; not play-tested.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "close-your",
@@ -868,7 +883,8 @@
       "subtitle": "Experimental narrative · Indie & small games",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "chess",
@@ -916,7 +932,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "eye-can-fly",
@@ -963,7 +980,8 @@
       "availability": "Product / demonstration documented; check official licensing and downloads",
       "notes": "Requires gaze mouse control. Official documentation states that Options and Quit require a standard mouse click rather than dwelling; not every operation is hands-free.",
       "genre_family": "Learning & training",
-      "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed."
+      "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
+      "population_group": "See entry"
     },
     {
       "id": "eyes-first-double-up",
@@ -1009,7 +1027,8 @@
       "availability": "Product / demonstration documented; check official licensing and downloads",
       "notes": "Documented in a 2019 Microsoft Research demonstration. A historical Store release does not guarantee current installability; check region, Windows version, and tracker requirements.",
       "genre_family": "Learning & training",
-      "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed."
+      "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
+      "population_group": "See entry"
     },
     {
       "id": "eyes-first-match-two",
@@ -1055,7 +1074,8 @@
       "availability": "Product / demonstration documented; check official licensing and downloads",
       "notes": "Documented in a 2019 Microsoft Research demonstration. A historical Store release does not guarantee current installability; check region, Windows version, and tracker requirements.",
       "genre_family": "Learning & training",
-      "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed."
+      "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
+      "population_group": "See entry"
     },
     {
       "id": "eyes-first-maze",
@@ -1101,7 +1121,8 @@
       "availability": "Product / demonstration documented; check official licensing and downloads",
       "notes": "Documented in a 2019 Microsoft Research demonstration. A historical Store release does not guarantee current installability; check region, Windows version, and tracker requirements.",
       "genre_family": "Learning & training",
-      "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed."
+      "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
+      "population_group": "See entry"
     },
     {
       "id": "eyes-first-tile-slide",
@@ -1147,7 +1168,8 @@
       "availability": "Product / demonstration documented; check official licensing and downloads",
       "notes": "Documented in a 2019 Microsoft Research demonstration. A historical Store release does not guarantee current installability; check region, Windows version, and tracker requirements.",
       "genre_family": "Learning & training",
-      "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed."
+      "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
+      "population_group": "See entry"
     },
     {
       "id": "gazeplay",
@@ -1200,7 +1222,8 @@
       "availability": "Free open-source software; check current release and tracker setup",
       "notes": "Counted once as a suite. Operating-system support does not mean every tracker works across platforms; check drivers and mouse-control requirements.",
       "genre_family": "Learning & training",
-      "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed."
+      "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
+      "population_group": "See entry"
     },
     {
       "id": "gazey-golf",
@@ -1248,7 +1271,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "helpkidzlearn-games",
@@ -1295,7 +1319,8 @@
       "availability": "Product / demonstration documented; check official licensing and downloads",
       "notes": "Counted once as a product collection, not hundreds of individually verified games. Configure gaze access per the official activity settings.",
       "genre_family": "Learning & training",
-      "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed."
+      "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
+      "population_group": "See entry"
     },
     {
       "id": "look-to-learn",
@@ -1342,7 +1367,8 @@
       "availability": "Product / demonstration documented; check official licensing and downloads",
       "notes": "Counted once as a suite, not as 40 separate games. Product purpose is not proof of rehabilitation effectiveness.",
       "genre_family": "Learning & training",
-      "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed."
+      "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
+      "population_group": "See entry"
     },
     {
       "id": "mole-miners",
@@ -1390,7 +1416,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "open-drive",
@@ -1438,7 +1465,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "sensory-eye-fx-2",
@@ -1485,7 +1513,8 @@
       "availability": "Product / demonstration documented; check official licensing and downloads",
       "notes": "Counted once as a suite. Official support covers specified Tobii Dynavox devices; Windows and TD Pilot licensing and features differ.",
       "genre_family": "Learning & training",
-      "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed."
+      "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
+      "population_group": "See entry"
     },
     {
       "id": "sudoku",
@@ -1533,7 +1562,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "ats",
@@ -1584,7 +1614,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "odyssey",
@@ -1629,7 +1660,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "origins",
@@ -1683,7 +1715,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "valhalla",
@@ -1728,7 +1761,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "dcs",
@@ -1780,7 +1814,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "deus-ex",
@@ -1834,7 +1869,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "dyinglight",
@@ -1888,7 +1924,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "elite-dangerous",
@@ -1940,7 +1977,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "f12020",
@@ -1993,7 +2031,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "f122",
@@ -2046,7 +2085,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "f125",
@@ -2098,7 +2138,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "farcry5",
@@ -2151,7 +2192,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "farcry",
@@ -2196,7 +2238,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "farming22",
@@ -2247,7 +2290,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "breakpoint",
@@ -2292,7 +2336,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "hitman2016",
@@ -2347,7 +2392,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "master-orion",
@@ -2400,7 +2446,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "msfs2020",
@@ -2452,7 +2499,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "nevermind",
@@ -2510,7 +2558,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "project-cars2",
@@ -2562,7 +2611,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "tomb",
@@ -2607,7 +2657,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "star-citizen",
@@ -2658,7 +2709,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "switchback",
@@ -2706,7 +2758,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "eyeasteroids",
@@ -2757,7 +2810,8 @@
       "subtitle": "Arcade / asteroid shooter · Commercial games",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "wildlands",
@@ -2810,7 +2864,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "division2",
@@ -2864,7 +2919,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "overworld",
@@ -2917,7 +2973,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "watch-dogs2",
@@ -2971,7 +3028,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "legion",
@@ -3016,7 +3074,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "hunter",
@@ -3070,7 +3129,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "brewtiful-vision",
@@ -3117,7 +3177,8 @@
       "subtitle": "Simulation / potion brewing · Indie & small games",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "bushi-duel",
@@ -3164,7 +3225,8 @@
       "subtitle": "VR / rhythm combat · Indie & small games",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "coups-doeil",
@@ -3211,7 +3273,8 @@
       "subtitle": "Puzzle / interactive scenes · Indie & small games",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "df-valkyrie",
@@ -3259,7 +3322,8 @@
       "subtitle": "Space shooter · Indie & small games",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "defeat-inner-monsters",
@@ -3307,7 +3371,8 @@
       "subtitle": "Arcade / educational programming · Indie & small games",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "desiree-eyes-on-you",
@@ -3355,7 +3420,8 @@
       "subtitle": "Visual novel / dating sim · Indie & small games",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "eye-am-a-dragon",
@@ -3402,7 +3468,8 @@
       "subtitle": "Arcade / action · Indie & small games",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "fast-sight",
@@ -3448,7 +3515,8 @@
       "subtitle": "Runner / asymmetric multiplayer · Indie & small games",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "gazed-house",
@@ -3494,7 +3562,8 @@
       "subtitle": "Horror / first-person shooter · Indie & small games",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "gestaltzerfall",
@@ -3541,7 +3610,8 @@
       "subtitle": "Puzzle / platformer · Indie & small games",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "glimpse-of-fear",
@@ -3592,7 +3662,8 @@
       "subtitle": "Horror / adventure · Indie & small games",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "patin-grappin",
@@ -3639,7 +3710,8 @@
       "subtitle": "Racing / ice skating · Indie & small games",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "rune",
@@ -3687,7 +3759,8 @@
       "subtitle": "VR / on-rails magic shooter · Indie & small games",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "scp-eye-tracking-edition",
@@ -3734,7 +3807,8 @@
       "subtitle": "Horror / remake demo · Indie & small games",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "sobgob",
@@ -3781,7 +3855,8 @@
       "subtitle": "Two-player / tactical duel · Indie & small games",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "super-eye-tracking-battle",
@@ -3829,7 +3904,8 @@
       "subtitle": "Collection / driving / fighting · Indie & small games",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "telekinesis-simulator",
@@ -3876,7 +3952,8 @@
       "subtitle": "Simulation / physics sandbox · Indie & small games",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "the-candle",
@@ -3922,7 +3999,8 @@
       "subtitle": "Horror / first-person exploration · Indie & small games",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "overcooked-gaze-research",
@@ -3970,7 +4048,8 @@
       "evidence": "Supported by the linked original research paper or author project page; not play-tested.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "eyegrab",
@@ -4013,11 +4092,12 @@
       ],
       "eye_role": "Gaze control",
       "entry_type": "Research prototype",
-      "genre_family": "Exploration & simulation",
+      "genre_family": "Learning & training",
       "evidence": "Supported by the linked original research paper or author project page; not play-tested.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "feyerball-mage",
@@ -4064,7 +4144,8 @@
       "evidence": "Supported by the linked original research paper or author project page; not play-tested.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "gaze-voice",
@@ -4109,7 +4190,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "half-life2-gaze-mod",
@@ -4156,7 +4238,8 @@
       "evidence": "Supported by the linked original research paper or author project page; not play-tested.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "kryptoneyed",
@@ -4203,7 +4286,8 @@
       "evidence": "Supported by the linked original research paper or author project page; not play-tested.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "limus-beholders",
@@ -4250,7 +4334,8 @@
       "evidence": "Supported by the linked original research paper or author project page; not play-tested.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "shed-some-fear",
@@ -4298,7 +4383,8 @@
       "evidence": "Supported by the linked original research paper or author project page; not play-tested.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "stargazing-arcade",
@@ -4345,7 +4431,8 @@
       "evidence": "Supported by the linked original research paper or author project page; not play-tested.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "twileyed",
@@ -4392,7 +4479,8 @@
       "evidence": "Supported by the linked original research paper or author project page; not play-tested.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "virus-hunt-arcade",
@@ -4440,7 +4528,8 @@
       "evidence": "Supported by the linked original research paper or author project page; not play-tested.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "geyeded",
@@ -4484,7 +4573,8 @@
       "evidence": "The linked primary documentation records this eye-tracking use; no hands-on verification was performed.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Documentary review; see original paper for any user study",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "catch-fruits-hvl",
@@ -4532,7 +4622,8 @@
       "evidence": "Supported by the linked original research paper or author project page; not play-tested.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Five-person usability study, not a validated vision treatment",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
     },
     {
       "id": "mole-whack-ucsd",
@@ -4547,6 +4638,10 @@
         {
           "title": "UCSD — TDLC 2018 institutional report",
           "url": "https://tdlc.ucsd.edu/tdlc2/highlights/TDLC_Highlights_2018.pdf"
+        },
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
         }
       ],
       "image_url": "assets/catalog/mole-whack-ucsd.svg",
@@ -4572,7 +4667,7 @@
       "image_kind": "Original catalog illustration, not a game screenshot",
       "image_license": "CC BY 4.0",
       "availability": "Research material; download availability not verified",
-      "notes": "From one ASD home-training pilot: eight enrolled, six completed, with no control group; an individual mini-game is not an established therapy.",
+      "notes": "From one ASD home-training pilot: eight enrolled, six completed, with no control group; an individual mini-game is not an established therapy. UCSD also lists Dr. Mole & Mr. Hide in its later catalog; exact version identity is not established.",
       "subtitle": "Attention-training arcade research",
       "design_intent": [
         "Accessibility",
@@ -4584,7 +4679,11 @@
       "evidence": "Supported by the linked original research paper or author project page; not play-tested.",
       "target_users": "Autistic adolescents in the cited study",
       "evaluation": "One shared pilot: 8 enrolled, 6 completed, no control group; three games do not mean three trials",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "related_entries": [
+        "dr-mole-mr-hide-ucsd"
+      ],
+      "population_group": "See entry"
     },
     {
       "id": "shroom-digger-ucsd",
@@ -4599,14 +4698,19 @@
         {
           "title": "UCSD — TDLC 2018 institutional report",
           "url": "https://tdlc.ucsd.edu/tdlc2/highlights/TDLC_Highlights_2018.pdf"
+        },
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
         }
       ],
-      "image_url": "assets/catalog/shroom-digger-ucsd.svg",
-      "image_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5897171/",
-      "image_credit": "Gaze Atlas contributors",
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/eye_tracking_bump-1024x385.jpg",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
       "tags": [
         "Research",
-        "Training"
+        "Training",
+        "UCSD PoNG"
       ],
       "research_role": "gaze-input",
       "inclusion_scope": "gaze-gameplay",
@@ -4621,8 +4725,8 @@
         "Sustained fixation",
         "Continuous feedback"
       ],
-      "image_kind": "Original catalog illustration, not a game screenshot",
-      "image_license": "CC BY 4.0",
+      "image_kind": "Official multi-game composite; not an individual-game screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
       "availability": "Research material; download availability not verified",
       "notes": "From one ASD home-training pilot: eight enrolled, six completed, with no control group; an individual mini-game is not an established therapy.",
       "subtitle": "Sustained-attention game research",
@@ -4636,7 +4740,8 @@
       "evidence": "Supported by the linked original research paper or author project page; not play-tested.",
       "target_users": "Autistic adolescents in the cited study",
       "evaluation": "One shared pilot: 8 enrolled, 6 completed, no control group; three games do not mean three trials",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "Adolescents & young adults"
     },
     {
       "id": "space-race-ucsd",
@@ -4651,14 +4756,19 @@
         {
           "title": "UCSD — TDLC 2018 institutional report",
           "url": "https://tdlc.ucsd.edu/tdlc2/highlights/TDLC_Highlights_2018.pdf"
+        },
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
         }
       ],
-      "image_url": "assets/catalog/space-race-ucsd.svg",
-      "image_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5897171/",
-      "image_credit": "Gaze Atlas contributors",
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/eye_tracking_bump-1024x385.jpg",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
       "tags": [
         "Research",
-        "Training"
+        "Training",
+        "UCSD PoNG"
       ],
       "research_role": "gaze-input",
       "inclusion_scope": "gaze-gameplay",
@@ -4673,8 +4783,8 @@
         "Gaze steering",
         "Rapid reorientation"
       ],
-      "image_kind": "Original catalog illustration, not a game screenshot",
-      "image_license": "CC BY 4.0",
+      "image_kind": "Official multi-game composite; not an individual-game screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
       "availability": "Research material; download availability not verified",
       "notes": "From one ASD home-training pilot: eight enrolled, six completed, with no control group; an individual mini-game is not an established therapy.",
       "subtitle": "Attention-training arcade research",
@@ -4688,7 +4798,8 @@
       "evidence": "Supported by the linked original research paper or author project page; not play-tested.",
       "target_users": "Autistic adolescents in the cited study",
       "evaluation": "One shared pilot: 8 enrolled, 6 completed, no control group; three games do not mean three trials",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "Adolescents & young adults"
     },
     {
       "id": "adhd-vr-space-prototype",
@@ -4738,7 +4849,1373 @@
       "evidence": "Supported by the linked original research paper or author project page; not play-tested.",
       "target_users": "See original source; population not inferred",
       "evaluation": "Child evaluation was future work in the paper; ADHD intervention efficacy was not established",
-      "customizability": "See original project; open-source licensing not verified"
+      "customizability": "See original project; open-source licensing not verified",
+      "population_group": "See entry"
+    },
+    {
+      "id": "dr-mole-mr-hide-ucsd",
+      "title": "Dr. Mole & Mr. Hide (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        },
+        {
+          "title": "BrainLeap — Attention Arcade home overview (2021)",
+          "url": "https://brainleaptech.com/wp-content/uploads/2021/10/BrainLeap-Attention-Arcade-Overview-Home.pdf"
+        },
+        {
+          "title": "BrainLeap — Attention Arcade training schedule (2021)",
+          "url": "https://brainleaptech.com/wp-content/uploads/2021/03/Attention-Arcade-Training-Schedule.pdf"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/eye_tracking_bump-1024x385.jpg",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "Training & serious games",
+      "genre": "Attention training",
+      "device": "Eye tracker; model not specified in catalog",
+      "platform": "Research computer game; compatibility unverified",
+      "interaction": "Gaze-driven interaction",
+      "description": "Gaze at target moles while avoiding professor moles.",
+      "features": [
+        "UCSD catalog record"
+      ],
+      "image_kind": "Official multi-game composite; not an individual-game screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Catalog documented; current download and access unverified",
+      "notes": "Catalog inclusion does not establish individual-game efficacy. Rules, version, sample and outcomes require separate verification. Related earlier record: Mole Whack (2018 pilot). The sources do not explicitly establish exact version identity; kept separately as a catalog version, not counted as an independent trial.",
+      "subtitle": "UCSD PoNG catalog",
+      "design_intent": [
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "Named in the linked UCSD catalog. Source image shows multiple games; the menu is not counted as a game.",
+      "target_users": "Autistic adolescents",
+      "evaluation": "Individual-game study mapping not established; suite-level evidence must not be assigned to every title.",
+      "customizability": "Source code and customization options not verified",
+      "related_entries": [
+        "mole-whack-ucsd"
+      ],
+      "population_group": "Adolescents & young adults"
+    },
+    {
+      "id": "trapped-a-zoid-ucsd",
+      "title": "Trapped-a-Zoid (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        },
+        {
+          "title": "BrainLeap — Attention Arcade home overview (2021)",
+          "url": "https://brainleaptech.com/wp-content/uploads/2021/10/BrainLeap-Attention-Arcade-Overview-Home.pdf"
+        },
+        {
+          "title": "BrainLeap — Attention Arcade training schedule (2021)",
+          "url": "https://brainleaptech.com/wp-content/uploads/2021/03/Attention-Arcade-Training-Schedule.pdf"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/eye_tracking_bump-1024x385.jpg",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "Training & serious games",
+      "genre": "Attention training",
+      "device": "Eye tracker; model not specified in catalog",
+      "platform": "Research computer game; compatibility unverified",
+      "interaction": "Gaze-driven interaction",
+      "description": "Steer through empty space with gaze, avoiding other ships.",
+      "features": [
+        "UCSD catalog record"
+      ],
+      "image_kind": "Official multi-game composite; not an individual-game screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Catalog documented; current download and access unverified",
+      "notes": "Catalog inclusion does not establish individual-game efficacy. Rules, version, sample and outcomes require separate verification.",
+      "subtitle": "UCSD PoNG catalog",
+      "design_intent": [
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "Named in the linked UCSD catalog. Source image shows multiple games; the menu is not counted as a game.",
+      "target_users": "Autistic adolescents",
+      "evaluation": "Individual-game study mapping not established; suite-level evidence must not be assigned to every title.",
+      "customizability": "Source code and customization options not verified",
+      "population_group": "Adolescents & young adults"
+    },
+    {
+      "id": "butterfly-bob-ucsd",
+      "title": "Butterfly Bob (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        },
+        {
+          "title": "BrainLeap — Attention Arcade home overview (2021)",
+          "url": "https://brainleaptech.com/wp-content/uploads/2021/10/BrainLeap-Attention-Arcade-Overview-Home.pdf"
+        },
+        {
+          "title": "BrainLeap — Attention Arcade training schedule (2021)",
+          "url": "https://brainleaptech.com/wp-content/uploads/2021/03/Attention-Arcade-Training-Schedule.pdf"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/eye_tracking_bump-1024x385.jpg",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "Training & serious games",
+      "genre": "Attention training",
+      "device": "Eye tracker; model not specified in catalog",
+      "platform": "Research computer game; compatibility unverified",
+      "interaction": "Gaze-driven interaction",
+      "description": "Move vertically with gaze to collect flowers and avoid bugs.",
+      "features": [
+        "UCSD catalog record"
+      ],
+      "image_kind": "Official multi-game composite; not an individual-game screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Catalog documented; current download and access unverified",
+      "notes": "Catalog inclusion does not establish individual-game efficacy. Rules, version, sample and outcomes require separate verification.",
+      "subtitle": "UCSD PoNG catalog",
+      "design_intent": [
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "Named in the linked UCSD catalog. Source image shows multiple games; the menu is not counted as a game.",
+      "target_users": "Autistic adolescents",
+      "evaluation": "Individual-game study mapping not established; suite-level evidence must not be assigned to every title.",
+      "customizability": "Source code and customization options not verified",
+      "population_group": "Adolescents & young adults"
+    },
+    {
+      "id": "kung-fall-ucsd",
+      "title": "Kung Fall (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        },
+        {
+          "title": "BrainLeap — Attention Arcade home overview (2021)",
+          "url": "https://brainleaptech.com/wp-content/uploads/2021/10/BrainLeap-Attention-Arcade-Overview-Home.pdf"
+        },
+        {
+          "title": "BrainLeap — Attention Arcade training schedule (2021)",
+          "url": "https://brainleaptech.com/wp-content/uploads/2021/03/Attention-Arcade-Training-Schedule.pdf"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/eye_tracking_bump-1024x385.jpg",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "Training & serious games",
+      "genre": "Attention training",
+      "device": "Eye tracker; model not specified in catalog",
+      "platform": "Research computer game; compatibility unverified",
+      "interaction": "Gaze-driven interaction",
+      "description": "Guide a ninja onto pillars with gaze while ignoring distractions.",
+      "features": [
+        "UCSD catalog record"
+      ],
+      "image_kind": "Official multi-game composite; not an individual-game screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Catalog documented; current download and access unverified",
+      "notes": "Catalog inclusion does not establish individual-game efficacy. Rules, version, sample and outcomes require separate verification.",
+      "subtitle": "UCSD PoNG catalog",
+      "design_intent": [
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "Named in the linked UCSD catalog. Source image shows multiple games; the menu is not counted as a game.",
+      "target_users": "Autistic adolescents",
+      "evaluation": "Individual-game study mapping not established; suite-level evidence must not be assigned to every title.",
+      "customizability": "Source code and customization options not verified",
+      "population_group": "Adolescents & young adults"
+    },
+    {
+      "id": "see-explorer-ucsd",
+      "title": "See Explorer (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/kg_group-1024x383.png",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "Training & serious games",
+      "genre": "Attention training",
+      "device": "Eye tracker; model not specified in catalog",
+      "platform": "Research computer game; compatibility unverified",
+      "interaction": "Gaze-driven interaction",
+      "description": "Preschool gaze game; detailed rules undocumented.",
+      "features": [
+        "UCSD catalog record"
+      ],
+      "image_kind": "Official multi-game composite; not an individual-game screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Catalog documented; current download and access unverified",
+      "notes": "Catalog inclusion does not establish individual-game efficacy. Rules, version, sample and outcomes require separate verification.",
+      "subtitle": "UCSD PoNG catalog",
+      "design_intent": [
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "Named in the linked UCSD catalog. Source image shows multiple games; the menu is not counted as a game.",
+      "target_users": "Preschool children",
+      "evaluation": "Individual-game study mapping not established; suite-level evidence must not be assigned to every title.",
+      "customizability": "Source code and customization options not verified",
+      "population_group": "Preschool children"
+    },
+    {
+      "id": "ducky-dash-ucsd",
+      "title": "Ducky Dash (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/kg_group-1024x383.png",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "Training & serious games",
+      "genre": "Attention training",
+      "device": "Eye tracker; model not specified in catalog",
+      "platform": "Research computer game; compatibility unverified",
+      "interaction": "Gaze-driven interaction",
+      "description": "Preschool gaze game; detailed rules undocumented.",
+      "features": [
+        "UCSD catalog record"
+      ],
+      "image_kind": "Official multi-game composite; not an individual-game screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Catalog documented; current download and access unverified",
+      "notes": "Catalog inclusion does not establish individual-game efficacy. Rules, version, sample and outcomes require separate verification.",
+      "subtitle": "UCSD PoNG catalog",
+      "design_intent": [
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "Named in the linked UCSD catalog. Source image shows multiple games; the menu is not counted as a game.",
+      "target_users": "Preschool children",
+      "evaluation": "Individual-game study mapping not established; suite-level evidence must not be assigned to every title.",
+      "customizability": "Source code and customization options not verified",
+      "population_group": "Preschool children"
+    },
+    {
+      "id": "coloring-look-ucsd",
+      "title": "Coloring Look (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/kg_group-1024x383.png",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "Training & serious games",
+      "genre": "Attention training",
+      "device": "Eye tracker; model not specified in catalog",
+      "platform": "Research computer game; compatibility unverified",
+      "interaction": "Gaze-driven interaction",
+      "description": "Preschool gaze game; detailed rules undocumented.",
+      "features": [
+        "UCSD catalog record"
+      ],
+      "image_kind": "Official multi-game composite; not an individual-game screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Catalog documented; current download and access unverified",
+      "notes": "Catalog inclusion does not establish individual-game efficacy. Rules, version, sample and outcomes require separate verification.",
+      "subtitle": "UCSD PoNG catalog",
+      "design_intent": [
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "Named in the linked UCSD catalog. Source image shows multiple games; the menu is not counted as a game.",
+      "target_users": "Preschool children",
+      "evaluation": "Individual-game study mapping not established; suite-level evidence must not be assigned to every title.",
+      "customizability": "Source code and customization options not verified",
+      "population_group": "Preschool children"
+    },
+    {
+      "id": "hungry-bunny-ucsd",
+      "title": "Hungry Bunny (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/kg_group-1024x383.png",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "Training & serious games",
+      "genre": "Attention training",
+      "device": "Eye tracker; model not specified in catalog",
+      "platform": "Research computer game; compatibility unverified",
+      "interaction": "Gaze-driven interaction",
+      "description": "Preschool gaze game; detailed rules undocumented.",
+      "features": [
+        "UCSD catalog record"
+      ],
+      "image_kind": "Official multi-game composite; not an individual-game screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Catalog documented; current download and access unverified",
+      "notes": "Catalog inclusion does not establish individual-game efficacy. Rules, version, sample and outcomes require separate verification.",
+      "subtitle": "UCSD PoNG catalog",
+      "design_intent": [
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "Named in the linked UCSD catalog. Source image shows multiple games; the menu is not counted as a game.",
+      "target_users": "Preschool children",
+      "evaluation": "Individual-game study mapping not established; suite-level evidence must not be assigned to every title.",
+      "customizability": "Source code and customization options not verified",
+      "population_group": "Preschool children"
+    },
+    {
+      "id": "balloon-pop-ucsd",
+      "title": "Balloon Pop (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/kg_group-1024x383.png",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "Training & serious games",
+      "genre": "Attention training",
+      "device": "Eye tracker; model not specified in catalog",
+      "platform": "Research computer game; compatibility unverified",
+      "interaction": "Gaze-driven interaction",
+      "description": "Preschool gaze game; detailed rules undocumented.",
+      "features": [
+        "UCSD catalog record"
+      ],
+      "image_kind": "Official multi-game composite; not an individual-game screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Catalog documented; current download and access unverified",
+      "notes": "Catalog inclusion does not establish individual-game efficacy. Rules, version, sample and outcomes require separate verification.",
+      "subtitle": "UCSD PoNG catalog",
+      "design_intent": [
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "Named in the linked UCSD catalog. Source image shows multiple games; the menu is not counted as a game.",
+      "target_users": "Preschool children",
+      "evaluation": "Individual-game study mapping not established; suite-level evidence must not be assigned to every title.",
+      "customizability": "Source code and customization options not verified",
+      "population_group": "Preschool children"
+    },
+    {
+      "id": "dirty-dodger-ucsd",
+      "title": "Dirty Dodger (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        },
+        {
+          "title": "ClinicalTrials.gov — related suite-level trial, NCT03900702",
+          "url": "https://clinicaltrials.gov/study/NCT03900702"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/U01-group-1024x301.png",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "Training & serious games",
+      "genre": "Attention training",
+      "device": "Eye tracker; model not specified in catalog",
+      "platform": "Research computer game; compatibility unverified",
+      "interaction": "Gaze-driven interaction",
+      "description": "Older-adult gaze game; detailed rules undocumented.",
+      "features": [
+        "UCSD catalog record"
+      ],
+      "image_kind": "Official multi-game composite; not an individual-game screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Catalog documented; current download and access unverified",
+      "notes": "Catalog inclusion does not establish individual-game efficacy. Rules, version, sample and outcomes require separate verification. Training/assessment is a suite-level label; the role of this individual game is unverified.",
+      "subtitle": "UCSD PoNG catalog",
+      "design_intent": [
+        "Education & Training",
+        "Assessment"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "Named in the linked UCSD catalog. Source image shows multiple games; the menu is not counted as a game.",
+      "target_users": "Older adults",
+      "evaluation": "Individual-game study mapping not established; suite-level evidence must not be assigned to every title.",
+      "customizability": "Source code and customization options not verified",
+      "population_group": "Older adults"
+    },
+    {
+      "id": "vintage-vroomers-ucsd",
+      "title": "Vintage Vroomers (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        },
+        {
+          "title": "ClinicalTrials.gov — related suite-level trial, NCT03900702",
+          "url": "https://clinicaltrials.gov/study/NCT03900702"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/U01-group-1024x301.png",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "Training & serious games",
+      "genre": "Attention training",
+      "device": "Eye tracker; model not specified in catalog",
+      "platform": "Research computer game; compatibility unverified",
+      "interaction": "Gaze-driven interaction",
+      "description": "Older-adult gaze game; detailed rules undocumented.",
+      "features": [
+        "UCSD catalog record"
+      ],
+      "image_kind": "Official multi-game composite; not an individual-game screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Catalog documented; current download and access unverified",
+      "notes": "Catalog inclusion does not establish individual-game efficacy. Rules, version, sample and outcomes require separate verification. Training/assessment is a suite-level label; the role of this individual game is unverified.",
+      "subtitle": "UCSD PoNG catalog",
+      "design_intent": [
+        "Education & Training",
+        "Assessment"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "Named in the linked UCSD catalog. Source image shows multiple games; the menu is not counted as a game.",
+      "target_users": "Older adults",
+      "evaluation": "Individual-game study mapping not established; suite-level evidence must not be assigned to every title.",
+      "customizability": "Source code and customization options not verified",
+      "population_group": "Older adults"
+    },
+    {
+      "id": "flower-power-ucsd",
+      "title": "Flower Power (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        },
+        {
+          "title": "ClinicalTrials.gov — related suite-level trial, NCT03900702",
+          "url": "https://clinicaltrials.gov/study/NCT03900702"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/U01-group-1024x301.png",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "Training & serious games",
+      "genre": "Attention training",
+      "device": "Eye tracker; model not specified in catalog",
+      "platform": "Research computer game; compatibility unverified",
+      "interaction": "Gaze-driven interaction",
+      "description": "Older-adult gaze game; detailed rules undocumented.",
+      "features": [
+        "UCSD catalog record"
+      ],
+      "image_kind": "Official multi-game composite; not an individual-game screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Catalog documented; current download and access unverified",
+      "notes": "Catalog inclusion does not establish individual-game efficacy. Rules, version, sample and outcomes require separate verification. Training/assessment is a suite-level label; the role of this individual game is unverified.",
+      "subtitle": "UCSD PoNG catalog",
+      "design_intent": [
+        "Education & Training",
+        "Assessment"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "Named in the linked UCSD catalog. Source image shows multiple games; the menu is not counted as a game.",
+      "target_users": "Older adults",
+      "evaluation": "Individual-game study mapping not established; suite-level evidence must not be assigned to every title.",
+      "customizability": "Source code and customization options not verified",
+      "population_group": "Older adults"
+    },
+    {
+      "id": "seven-times-three-ucsd",
+      "title": "Seven Times Three (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        },
+        {
+          "title": "ClinicalTrials.gov — related suite-level trial, NCT03900702",
+          "url": "https://clinicaltrials.gov/study/NCT03900702"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/U01-group-1024x301.png",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "Training & serious games",
+      "genre": "Attention training",
+      "device": "Eye tracker; model not specified in catalog",
+      "platform": "Research computer game; compatibility unverified",
+      "interaction": "Gaze-driven interaction",
+      "description": "Older-adult gaze game; detailed rules undocumented.",
+      "features": [
+        "UCSD catalog record"
+      ],
+      "image_kind": "Official multi-game composite; not an individual-game screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Catalog documented; current download and access unverified",
+      "notes": "Catalog inclusion does not establish individual-game efficacy. Rules, version, sample and outcomes require separate verification. Training/assessment is a suite-level label; the role of this individual game is unverified.",
+      "subtitle": "UCSD PoNG catalog",
+      "design_intent": [
+        "Education & Training",
+        "Assessment"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "Named in the linked UCSD catalog. Source image shows multiple games; the menu is not counted as a game.",
+      "target_users": "Older adults",
+      "evaluation": "Individual-game study mapping not established; suite-level evidence must not be assigned to every title.",
+      "customizability": "Source code and customization options not verified",
+      "population_group": "Older adults"
+    },
+    {
+      "id": "erosion-ucsd",
+      "title": "Erosion (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        },
+        {
+          "title": "ClinicalTrials.gov — related suite-level trial, NCT03900702",
+          "url": "https://clinicaltrials.gov/study/NCT03900702"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/U01-group-1024x301.png",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "Training & serious games",
+      "genre": "Attention training",
+      "device": "Eye tracker; model not specified in catalog",
+      "platform": "Research computer game; compatibility unverified",
+      "interaction": "Gaze-driven interaction",
+      "description": "Older-adult gaze game; detailed rules undocumented.",
+      "features": [
+        "UCSD catalog record"
+      ],
+      "image_kind": "Official multi-game composite; not an individual-game screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Catalog documented; current download and access unverified",
+      "notes": "Catalog inclusion does not establish individual-game efficacy. Rules, version, sample and outcomes require separate verification. Training/assessment is a suite-level label; the role of this individual game is unverified.",
+      "subtitle": "UCSD PoNG catalog",
+      "design_intent": [
+        "Education & Training",
+        "Assessment"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "Named in the linked UCSD catalog. Source image shows multiple games; the menu is not counted as a game.",
+      "target_users": "Older adults",
+      "evaluation": "Individual-game study mapping not established; suite-level evidence must not be assigned to every title.",
+      "customizability": "Source code and customization options not verified",
+      "population_group": "Older adults"
+    },
+    {
+      "id": "peaceful-pond-ucsd",
+      "title": "Peaceful Pond (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        },
+        {
+          "title": "ClinicalTrials.gov — related suite-level trial, NCT03900702",
+          "url": "https://clinicaltrials.gov/study/NCT03900702"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/U01-group-1024x301.png",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "Training & serious games",
+      "genre": "Attention training",
+      "device": "Eye tracker; model not specified in catalog",
+      "platform": "Research computer game; compatibility unverified",
+      "interaction": "Gaze-driven interaction",
+      "description": "Older-adult gaze game; detailed rules undocumented.",
+      "features": [
+        "UCSD catalog record"
+      ],
+      "image_kind": "Official multi-game composite; not an individual-game screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Catalog documented; current download and access unverified",
+      "notes": "Catalog inclusion does not establish individual-game efficacy. Rules, version, sample and outcomes require separate verification. Training/assessment is a suite-level label; the role of this individual game is unverified.",
+      "subtitle": "UCSD PoNG catalog",
+      "design_intent": [
+        "Education & Training",
+        "Assessment"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "Named in the linked UCSD catalog. Source image shows multiple games; the menu is not counted as a game.",
+      "target_users": "Older adults",
+      "evaluation": "Individual-game study mapping not established; suite-level evidence must not be assigned to every title.",
+      "customizability": "Source code and customization options not verified",
+      "population_group": "Older adults"
+    },
+    {
+      "id": "rolling-rampage-ucsd",
+      "title": "Rolling Rampage (UCSD catalog)",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "UC San Diego PoNG Center — Eye Tracking Games",
+          "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
+        },
+        {
+          "title": "BrainLeap — Attention Arcade home overview (2021)",
+          "url": "https://brainleaptech.com/wp-content/uploads/2021/10/BrainLeap-Attention-Arcade-Overview-Home.pdf"
+        },
+        {
+          "title": "ClinicalTrials.gov — related suite-level trial, NCT03900702",
+          "url": "https://clinicaltrials.gov/study/NCT03900702"
+        }
+      ],
+      "image_url": "https://pong-center.ucsd.edu/wp-content/uploads/2020/10/U01-group-1024x301.png",
+      "image_source": "https://pong-center.ucsd.edu/eye-tracking-games/",
+      "image_credit": "UC San Diego PoNG Center; original developers",
+      "tags": [
+        "Research",
+        "Training",
+        "UCSD PoNG"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "Training & serious games",
+      "genre": "Attention training",
+      "device": "Eye tracker; model not specified in catalog",
+      "platform": "Research computer game; compatibility unverified",
+      "interaction": "Gaze-driven interaction",
+      "description": "Guide a ball to the finish, collecting stars and avoiding purple obstacles.",
+      "features": [
+        "UCSD catalog record"
+      ],
+      "image_kind": "Official multi-game composite; not an individual-game screenshot",
+      "image_license": "Third-party copyright; excluded from the open data license",
+      "availability": "Catalog documented; current download and access unverified",
+      "notes": "Catalog inclusion does not establish individual-game efficacy. Rules, version, sample and outcomes require separate verification. Training/assessment is a suite-level label; the role of this individual game is unverified.",
+      "subtitle": "UCSD PoNG catalog",
+      "design_intent": [
+        "Education & Training",
+        "Assessment"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "Named in the linked UCSD catalog. Source image shows multiple games; the menu is not counted as a game.",
+      "target_users": "Older adults",
+      "evaluation": "Individual-game study mapping not established; suite-level evidence must not be assigned to every title.",
+      "customizability": "Source code and customization options not verified",
+      "population_group": "Older adults"
+    },
+    {
+      "id": "eyechess-research",
+      "title": "EyeChess — endgame tutor",
+      "year": 2005,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Špakov & Miniotas — author-hosted ECEM 2005 presentation",
+          "url": "https://homepages.tuni.fi/oleg.spakov/publications/Spakov_ECEM_05.pdf"
+        }
+      ],
+      "image_url": "assets/catalog/eyechess-research.svg",
+      "image_source": "https://homepages.tuni.fi/oleg.spakov/publications/Spakov_ECEM_05.pdf",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "Original research catalog illustration, not a screenshot",
+      "image_license": "CC BY 4.0",
+      "tags": [
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "Research prototypes",
+      "genre": "Chess tutorial",
+      "device": "SMI iView X RED III / Tobii 1750",
+      "platform": "Research prototype",
+      "interaction": "Dwell, blink or eye gesture selection",
+      "description": "Solve short chess endgames by selecting a piece and its destination with gaze; visual hints guide the next move.",
+      "features": [
+        "Gaze-selected moves",
+        "Adaptive visual hints"
+      ],
+      "availability": "Research material; public game download not verified",
+      "notes": "2005 is the presentation/project year. Distinct from SpecialEffect Eye Gaze Games Chess.",
+      "subtitle": "Academic research prototype",
+      "design_intent": [
+        "Accessibility",
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "Original study or institutional author record linked; not play-tested.",
+      "target_users": "Research participants; see original study",
+      "evaluation": "Small pilot comparisons and a four-player tutoring evaluation; dwell was preferred.",
+      "customizability": "Parameters described in the paper; public source code or download not verified",
+      "population_group": "See entry"
+    },
+    {
+      "id": "invisible-eni",
+      "title": "Invisible Eni",
+      "year": 2008,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Ekman et al. — Aalto author publication record",
+          "url": "https://research.aalto.fi/en/publications/invisible-eni-using-gaze-and-pupil-size-to-control-a-game/"
+        },
+        {
+          "title": "Original CHI 2008 extended abstract — DOI",
+          "url": "https://doi.org/10.1145/1358628.1358820"
+        }
+      ],
+      "image_url": "assets/catalog/invisible-eni.svg",
+      "image_source": "https://research.aalto.fi/en/publications/invisible-eni-using-gaze-and-pupil-size-to-control-a-game/",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "Original research catalog illustration, not a screenshot",
+      "image_license": "CC BY 4.0",
+      "tags": [
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "Research prototypes",
+      "genre": "Experimental adventure",
+      "device": "Eye tracker with pupil-size and blink recording",
+      "platform": "Research prototype",
+      "interaction": "Gaze, blinks and pupil variation",
+      "description": "An experimental eyes-only game maps gaze, eyelid closure and changes in pupil size to actions and the game state.",
+      "features": [
+        "Eyes-only input",
+        "Pupil-based biofeedback"
+      ],
+      "availability": "Research material; public game download not verified",
+      "notes": "2008 is publication year. Pupil size is indirect physiological input, not a reliable readout of intention.",
+      "subtitle": "Academic research prototype",
+      "design_intent": [
+        "Interaction Research"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Puzzle & strategy",
+      "evidence": "Original study or institutional author record linked; not play-tested.",
+      "target_users": "Research participants; see original study",
+      "evaluation": "Design rationale / demonstration paper; controlled efficacy evidence not established here.",
+      "customizability": "Parameters described in the paper; public source code or download not verified",
+      "population_group": "See entry"
+    },
+    {
+      "id": "shynosaurs",
+      "title": "Shynosaurs",
+      "year": 2014,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Vidal — original CHI PLAY 2014 paper DOI",
+          "url": "https://doi.org/10.1145/2658537.2662979"
+        },
+        {
+          "title": "Wanner et al. CHI 2024 — contextualization of the original mechanic",
+          "url": "https://research-portal.uu.nl/ws/portalfiles/portal/229945584/3613904.3641909.pdf"
+        }
+      ],
+      "image_url": "assets/catalog/shynosaurs.svg",
+      "image_source": "https://doi.org/10.1145/2658537.2662979",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "Original research catalog illustration, not a screenshot",
+      "image_license": "CC BY 4.0",
+      "tags": [
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "Research prototypes",
+      "genre": "Attention-dilemma arcade",
+      "device": "Desktop eye tracker and mouse",
+      "platform": "Research prototype",
+      "interaction": "Gaze intimidation plus mouse rescue",
+      "description": "Rescue small creatures with the mouse while staring at enemies to slow or repel them; looking and acting compete for attention.",
+      "features": [
+        "Stare to repel",
+        "Gaze–hand attention dilemma"
+      ],
+      "availability": "Research material; public game download not verified",
+      "notes": "2014 is the paper year; commercial release and public download not verified.",
+      "subtitle": "Academic research prototype",
+      "design_intent": [
+        "Interaction Research"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Research prototype",
+      "genre_family": "Puzzle & strategy",
+      "evidence": "Original study or institutional author record linked; not play-tested.",
+      "target_users": "Research participants; see original study",
+      "evaluation": "Conference game-design prototype; no new user-study sample verified in this update.",
+      "customizability": "Parameters described in the paper; public source code or download not verified",
+      "population_group": "See entry"
+    },
+    {
+      "id": "trackmaze",
+      "title": "TrackMaze",
+      "year": 2018,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Abbaszadegan, Yaghoubi & MacKenzie — author-hosted paper",
+          "url": "https://www.yorku.ca/mack/hcii2018b.pdf"
+        },
+        {
+          "title": "Original HCI International 2018 chapter DOI",
+          "url": "https://doi.org/10.1007/978-3-319-91250-9_31"
+        }
+      ],
+      "image_url": "assets/catalog/trackmaze.svg",
+      "image_source": "https://www.yorku.ca/mack/hcii2018b.pdf",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "Original research catalog illustration, not a screenshot",
+      "image_license": "CC BY 4.0",
+      "tags": [
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "Research prototypes",
+      "genre": "Mobile ball maze",
+      "device": "iPhone X TrueDepth camera / ARKit",
+      "platform": "Research prototype",
+      "interaction": "Eye movement, head tracking or tilt",
+      "description": "Move a virtual ball through a maze while avoiding walls; the research compares eye tracking with head movement and phone tilt.",
+      "features": [
+        "Maze navigation",
+        "Three input modes"
+      ],
+      "availability": "Research material; public game download not verified",
+      "notes": "2018 is the study year, not a verified App Store release. Eye and head input were separate experimental conditions.",
+      "subtitle": "Academic research prototype",
+      "design_intent": [
+        "Interaction Research"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Puzzle & strategy",
+      "evidence": "Original study or institutional author record linked; not play-tested.",
+      "target_users": "Research participants; see original study",
+      "evaluation": "12 participants; tilt was fastest and most accurate; eye input was slower and more fatiguing in this setup.",
+      "customizability": "Two gain levels were tested for each input method.",
+      "population_group": "See entry"
+    },
+    {
+      "id": "gaze-hero",
+      "title": "Gaze Hero",
+      "year": 2020,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Thomassen — Aalborg University master’s project record",
+          "url": "https://projekter.aau.dk/effects-of-perceived-speed-on-performance-between-eye-gaze-and-mouse-input-in-a-rhythm-game-e75220a4.html"
+        },
+        {
+          "title": "Author thesis PDF",
+          "url": "https://projekter.aau.dk/projekter/files/334550950/MTA201041_Effects_of_Perceived_Speed_on_Performance_Between.pdf"
+        }
+      ],
+      "image_url": "assets/catalog/gaze-hero.svg",
+      "image_source": "https://projekter.aau.dk/effects-of-perceived-speed-on-performance-between-eye-gaze-and-mouse-input-in-a-rhythm-game-e75220a4.html",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "Original research catalog illustration, not a screenshot",
+      "image_license": "CC BY 4.0",
+      "tags": [
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "Research prototypes",
+      "genre": "Rhythm game",
+      "device": "Desktop gaze tracker and mouse comparison",
+      "platform": "Research prototype",
+      "interaction": "Gaze selection of timed notes",
+      "description": "Hit notes along a single line in time with the music; a master’s project compares gaze and mouse at different perceived speeds.",
+      "features": [
+        "Timed gaze targets",
+        "Speed conditions"
+      ],
+      "availability": "Research material; public game download not verified",
+      "notes": "2020 is thesis submission year; a master’s thesis, not presented as peer-reviewed evidence.",
+      "subtitle": "Academic research prototype",
+      "design_intent": [
+        "Interaction Research"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Puzzle & strategy",
+      "evidence": "Original study or institutional author record linked; not play-tested.",
+      "target_users": "Research participants; see original study",
+      "evaluation": "16 participants, three speed levels; no general gaze advantage; mouse performed better under fast conditions.",
+      "customizability": "Three perceived-speed levels in the study.",
+      "population_group": "See entry"
+    },
+    {
+      "id": "eyelines",
+      "title": "EyeLines",
+      "year": 2016,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Shishkin et al. — original 2016 study DOI",
+          "url": "https://doi.org/10.3389/fnins.2016.00528"
+        },
+        {
+          "title": "Shevtsova et al. — 2025 online classification study DOI",
+          "url": "https://doi.org/10.1109/ACCESS.2025.3568650"
+        },
+        {
+          "title": "Author-hosted 2025 full paper",
+          "url": "https://megmoscow.ru/wp-content/uploads/pubs/10.1109_access.2025.3568650.pdf"
+        }
+      ],
+      "image_url": "assets/catalog/eyelines.svg",
+      "image_source": "https://doi.org/10.3389/fnins.2016.00528",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "Original research catalog illustration, not a screenshot",
+      "image_license": "CC BY 4.0",
+      "tags": [
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "Research prototypes",
+      "genre": "Color-lines board puzzle",
+      "device": "Desktop eye tracker; EEG/MEG in related experiments",
+      "platform": "Research prototype",
+      "interaction": "Gaze dwell with intent classification",
+      "description": "Move colored balls on a grid to form matching lines; this recurring research testbed studies intentional versus accidental gaze selections.",
+      "features": [
+        "Gaze-only puzzle",
+        "Midas-touch research"
+      ],
+      "availability": "Research material; public game download not verified",
+      "notes": "One game/testbed spanning multiple papers; 2016 is an early linked publication, not a new 2025 game release.",
+      "subtitle": "Academic research prototype",
+      "design_intent": [
+        "Interaction Research"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Puzzle & strategy",
+      "evidence": "Original study or institutional author record linked; not play-tested.",
+      "target_users": "Research participants; see original study",
+      "evaluation": "2016 EEG study: 8 participants. 2025 online study: 15 analyzed; machine learning reduced unintended selections in the reported setup.",
+      "customizability": "Dwell thresholds and classifier modes differ across study versions.",
+      "population_group": "See entry"
+    },
+    {
+      "id": "invirs",
+      "title": "InViRS — Tangram & Bubble Popping",
+      "year": 2021,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Amat et al. — original TNSRE 2021 DOI",
+          "url": "https://doi.org/10.1109/TNSRE.2021.3108351"
+        },
+        {
+          "title": "Original paper full text",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8482411/"
+        }
+      ],
+      "image_url": "assets/catalog/invirs.svg",
+      "image_source": "https://doi.org/10.1109/TNSRE.2021.3108351",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "Original research catalog illustration, not a screenshot",
+      "image_license": "CC BY 4.0",
+      "tags": [
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "Research prototypes",
+      "genre": "Joint-attention puzzle and bubble game",
+      "device": "Tobii EyeX and monitor; virtual avatar",
+      "platform": "Research prototype",
+      "interaction": "Gaze sharing and gaze-following targets",
+      "description": "Follow an avatar’s gaze cues in a tangram practice game and a bubble-popping assessment; prompts adapt to gaze and task performance.",
+      "features": [
+        "Adaptive avatar cues",
+        "Two linked mini-games"
+      ],
+      "availability": "Research material; public game download not verified",
+      "notes": "2021 is article year. Desktop virtual environment despite VR terminology; feasibility is not proof of durable clinical benefit.",
+      "subtitle": "Academic research prototype",
+      "design_intent": [
+        "Accessibility",
+        "Education & Training",
+        "Social Interaction"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "Original study or institutional author record linked; not play-tested.",
+      "target_users": "Research participants; see original study",
+      "evaluation": "Feasibility pilot: 9 autistic and 9 typically developing children, ages 7–13, over three visits.",
+      "customizability": "Avatar gaze prompts and assistance adapt to individual performance.",
+      "population_group": "See entry"
+    },
+    {
+      "id": "lego-puzzle-joint-attention",
+      "title": "LEGO Puzzle — joint-attention study",
+      "year": 2024,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Original Behavioral Sciences 2024 article",
+          "url": "https://www.mdpi.com/2076-328X/14/10/871"
+        },
+        {
+          "title": "Original full text at PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11505074/"
+        },
+        {
+          "title": "DOI",
+          "url": "https://doi.org/10.3390/bs14100871"
+        }
+      ],
+      "image_url": "assets/catalog/lego-puzzle-joint-attention.svg",
+      "image_source": "https://www.mdpi.com/2076-328X/14/10/871",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "Original research catalog illustration, not a screenshot",
+      "image_license": "CC BY 4.0",
+      "tags": [
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "Research prototypes",
+      "genre": "Social-cue target selection",
+      "device": "Tobii Eye Tracker 5 and PC",
+      "platform": "Research prototype",
+      "interaction": "Two-second fixation selects a brick",
+      "description": "Select a LEGO-like brick by looking at it after an avatar’s cue; the study varies gaze alone, gaze plus head turn, and gaze plus pointing.",
+      "features": [
+        "Gaze target selection",
+        "Multimodal social cues"
+      ],
+      "availability": "Research material; public game download not verified",
+      "notes": "2024 is article year. Named in the paper as LEGO Puzzle; not an official LEGO commercial product.",
+      "subtitle": "Academic research prototype",
+      "design_intent": [
+        "Education & Training",
+        "Social Interaction"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "Original study or institutional author record linked; not play-tested.",
+      "target_users": "Research participants; see original study",
+      "evaluation": "40 autistic and 31 typically developing children; a comparison of cue responses, not a long-term treatment trial.",
+      "customizability": "Parameters described in the paper; public source code or download not verified",
+      "population_group": "See entry"
+    },
+    {
+      "id": "vr-robot-search-severitt",
+      "title": "Flying-robot visual search — Severitt et al.",
+      "year": 2025,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Severitt et al. — Frontiers in Virtual Reality 2025 article",
+          "url": "https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2025.1576962/full"
+        },
+        {
+          "title": "DOI",
+          "url": "https://doi.org/10.3389/frvir.2025.1576962"
+        }
+      ],
+      "image_url": "https://www.frontiersin.org/files/Articles/1576962/xml-images/frvir-06-1576962-g002.webp",
+      "image_source": "https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2025.1576962/full",
+      "image_credit": "Severitt et al., Frontiers in Virtual Reality (2025), Figure 2",
+      "image_kind": "Research-paper figure",
+      "image_license": "CC BY 4.0; see original article",
+      "tags": [
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "category": "Research prototypes",
+      "genre": "VR visual-search score game",
+      "device": "HTC Vive Pro Eye; controller for settings",
+      "platform": "Research prototype",
+      "interaction": "Gaze dwell, gaze–head alignment, nod or pursuit",
+      "description": "Find the C target among O distractors carried by flying robots, then select it with one of four gaze-based methods to score points.",
+      "features": [
+        "Four gaze methods",
+        "Adjustable input thresholds"
+      ],
+      "availability": "Research material; public game download not verified",
+      "notes": "Descriptive catalog title; the paper does not give the game a standalone commercial title. 2025 is publication year.",
+      "subtitle": "Academic research prototype",
+      "design_intent": [
+        "Interaction Research"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Puzzle & strategy",
+      "evidence": "Original study or institutional author record linked; not play-tested.",
+      "target_users": "Research participants; see original study",
+      "evaluation": "52 participants; task load, target-search time, score and method preferences compared.",
+      "customizability": "Dwell duration, head/nod tolerance, pursuit precision and trajectory are adjustable.",
+      "population_group": "See entry"
+    },
+    {
+      "id": "restroop",
+      "title": "ReStroop — recycling inhibition game",
+      "year": 2025,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Rehman et al. — original arXiv preprint",
+          "url": "https://arxiv.org/abs/2509.08357"
+        },
+        {
+          "title": "Author full text",
+          "url": "https://arxiv.org/html/2509.08357v1"
+        },
+        {
+          "title": "Preprint DOI",
+          "url": "https://doi.org/10.48550/arXiv.2509.08357"
+        }
+      ],
+      "image_url": "https://arxiv.org/html/2509.08357v1/inhib_game_GUI1.png",
+      "image_source": "https://arxiv.org/abs/2509.08357",
+      "image_credit": "Rehman et al. (2025), Figure 2a",
+      "image_kind": "Research-paper figure",
+      "image_license": "See arXiv publication license; attribution required",
+      "tags": [
+        "Measurement",
+        "Research"
+      ],
+      "research_role": "measurement-only",
+      "inclusion_scope": "research-measurement",
+      "awards": [],
+      "category": "Research prototypes",
+      "genre": "Recycling / inhibitory-control serious game",
+      "device": "Eye tracker; model not specified in inspected text",
+      "platform": "Research prototype",
+      "interaction": "Gameplay with gaze measurement",
+      "description": "Judge whether recycling items match available bins; the study analyzes gaze, areas of interest and attention patterns during play.",
+      "features": [
+        "Recycling-themed Stroop task",
+        "Gaze analysis framework"
+      ],
+      "availability": "Research material; public game download not verified",
+      "notes": "Measurement-only entry: the inspected paper does not establish gaze as the game controller. 2025 is preprint date.",
+      "subtitle": "Academic research prototype",
+      "design_intent": [
+        "Education & Training"
+      ],
+      "eye_role": "Measurement only",
+      "entry_type": "Research environment",
+      "genre_family": "Puzzle & strategy",
+      "evidence": "Original study or institutional author record linked; not play-tested.",
+      "target_users": "Research participants; see original study",
+      "evaluation": "2025 preprint presents an analysis framework across three difficulty levels; not treated as validated diagnosis or therapy.",
+      "customizability": "Three difficulty levels and configurable analysis thresholds described.",
+      "population_group": "See entry"
     }
   ]
 }
