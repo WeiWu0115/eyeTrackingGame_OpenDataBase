@@ -1,30 +1,75 @@
-# Gaze Atlas · 眼动游戏开放数据库
+# Gaze Atlas · Eye-Tracking Game Open Database
 
-收录 121 条游戏、研究原型、活动套件与研究环境记录，提供图片、简介、交互方式和来源。资料更新：2026-10-16。
+An open, bilingual database of eye-tracking games and interactive research projects. Browse commercial titles, indie games, accessible gaze experiences, training activities, and academic prototypes, with images, descriptions, hardware details, and primary sources.
 
-## 浏览
+**Updated October 16, 2026:** 121 records in the main collection, plus a related collection of seven Brain Game Center training games and one gaze research framework.
 
-- [中文目录](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/)
-- [英文目录](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/en/)
-- [研究综述](review.html)
-- [认知与知觉训练专题](related-training.html)：7 款游戏与 1 项眼动研究框架。
+## Explore
 
-## 数据
+- [English website](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/en/)
+- [Chinese website](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/)
+- [Research review and classification](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/en/review.html)
+- [Cognitive and perceptual training collection](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/en/related-training.html)
 
-主目录：[JSON](data/games.json)、[CSV](data/games.csv)。相关训练专题：[JSON](data/related-training.json)、[CSV](data/related-training.csv)。CSV 使用 UTF-8 BOM，数组与对象以 JSON 字符串保存。
+The website supports keyword search and filters for category, genre, design purpose, gaze role, hardware, interaction, and research population. Projects from UCSD PoNG and other institutions use the same classification; institutional provenance accompanies their sources.
 
-字段包括稳定 ID、名称、类别、玩法类型、设计目的、眼动角色、交互方式、设备、平台、研究人群、评估、版本资料、图片与来源。中英文使用对应 ID。来源机构保留在文献与项目链接中，各项目按统一分类浏览。
+## Collection coverage
 
-## 资料与图片
+| Primary category | Records |
+| --- | ---: |
+| Commercial games | 34 |
+| Indie & small games | 22 |
+| Accessible gaze games | 16 |
+| Research prototypes | 25 |
+| Training & serious games | 22 |
+| Research observation & datasets | 2 |
+| **Total** | **121** |
 
-资料来自官方游戏页、开发者、设备厂商、研究团队、论文与奖项记录。评估字段记录研究设计与样本；年份说明见各项目资料。图片类型与署名随条目提供，包括官方截图、项目配图、集合概览和原创机制示意。
+Cross-cutting tags identify 24 records with Steam sources, 50 research-related records, 32 training records, seven VR records, and four documented award winners. Tags overlap across categories. Records represent individual games, prototypes, activity suites, and research environments.
 
-## 授权与贡献
+The related training collection covers **Poly Rules!, Recollect, Recall, Remember Bee, Saving Memo, Sightseeing, and Listen**, alongside a **gaze-contingent perceptual-learning framework**. Its entries describe cognitive flexibility, memory, vision, hearing, and gaze-driven research displays.
 
-原创简介、数据编排和原创示意采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)，署名 Gaze Atlas contributors 并保留来源。网站代码采用 [MIT](LICENSE)。第三方图片、商标、论文与游戏保留原权利人的授权。
+## Open data
 
-通过 GitHub Issues 或 pull request 提交游戏与修订，附原始来源、设备、版本、图片署名和日期，并同步更新中英文 JSON 与 CSV。
+| Dataset | English | Chinese |
+| --- | --- | --- |
+| Main collection — 121 records | [JSON](en/data/games.json) · [CSV](en/data/games.csv) | [JSON](data/games.json) · [CSV](data/games.csv) |
+| Related training — 8 records | [JSON](en/data/related-training.json) · [CSV](en/data/related-training.csv) | [JSON](data/related-training.json) · [CSV](data/related-training.csv) |
+| Review method and counts | [JSON](en/data/review-method.json) | [JSON](data/review-method.json) |
 
-## 本地预览
+Records include stable IDs, titles, descriptions, categories, genres, design purposes, gaze roles, input methods, hardware, platforms, populations, evaluation details, edition context, image credits, and source links. Matching IDs connect the two language editions.
 
-GitHub Pages 发布 main 分支根目录。本地使用 `python3 -m http.server 8765`，访问 http://localhost:8765/ 。
+CSV files use UTF-8 with BOM for spreadsheet compatibility. Arrays and objects are stored as JSON-encoded strings. The main JSON file contains a `games` array; the related training file contains an `entries` array.
+
+## Sources and images
+
+Documentation draws on official game pages, developers, hardware makers, research teams, original papers, and award records. Research details identify the study design, sample, and publication context.
+
+Images are labeled as official screenshots, project media, collection overviews, app icons, or original mechanism diagrams. Each entry includes image provenance and rights information.
+
+## Contribute
+
+[Suggest a game or submit a correction](https://github.com/sharkburger/eyeTrackingGame_OpenDataBase/issues/new), or open a pull request. Include:
+
+- A primary source describing the game and its interaction.
+- Hardware, platform, edition, and access information.
+- An image source, credit, and rights information.
+- Research details and a verification date where applicable.
+
+Use stable IDs and keep the English and Chinese editions, JSON, CSV, and review counts synchronized.
+
+## Run locally
+
+The website uses static HTML, CSS, and JavaScript. From the repository root, run:
+
+```sh
+python3 -m http.server 8765
+```
+
+Open [the English edition](http://localhost:8765/en/) or [the Chinese edition](http://localhost:8765/). GitHub Pages publishes the repository's `main` branch from the root directory.
+
+## Licensing
+
+Original descriptions, database arrangement, and original diagrams use [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Attribute **Gaze Atlas contributors**, retain source references, and identify modifications.
+
+Website code uses the [MIT License](LICENSE). Third-party images, trademarks, papers, and games retain their original rights and licensing terms.
