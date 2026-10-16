@@ -1,6 +1,6 @@
 # Gaze Atlas · Eye-Tracking Game Open Database
 
-An English-language curated collection of commercial games, accessible gaze games, and research prototypes. The first edition contains 16 entries. Source verification date: October 15, 2026. This is not an exhaustive list; entries have not all been tested hands-on.
+An English-language curated collection of commercial games, accessible gaze games, and research prototypes. The expanded edition contains 95 entries. Source verification date: October 16, 2026. This is not an exhaustive list; entries have not all been tested hands-on.
 
 ## Languages
 
@@ -17,11 +17,11 @@ Fields: `id` stable identifier; `title` original title; `subtitle` English expla
 
 ## Selection and verification
 
-Sources prioritize developers, hardware makers, SpecialEffect, author project pages, and academic publications. Entries use gaze for input or game responses. Blink detection is labeled separately. Studies that only observe player attention are excluded. A device's head-tracking compatibility is not automatically treated as evidence of gaze support.
+Sources prioritize developers, hardware makers, SpecialEffect, author project pages, and academic publications. Entries use gaze for input or game responses. Blink detection is labeled separately. Measurement-only research environments are separately labeled and do not establish retail gaze control. A device's head-tracking compatibility is not automatically treated as evidence of gaze support.
 
 Commercial games typically still require a keyboard and mouse or controller. Accessible gaze play requires compatible hardware and software. Research prototypes may not have a playable public release. Institutional affiliation does not imply institutional endorsement. Access to the gEYEded publisher full text was restricted; that entry records information from the accessible indexed abstract, as stated in its notes.
 
-Images are referenced from official or author sites, not distributed as an open image library. Two research entries use original interaction diagrams explicitly labeled as concept illustrations, not screenshots. The Sudoku entry uses the collection home screen. Remote images may become unavailable; source links remain available in each entry.
+Images are referenced from official or author sites, not distributed as an open image library. Entries without a verified source image use original catalog illustrations explicitly labeled as not game screenshots. The Sudoku entry uses the collection home screen. Remote images may become unavailable; source links remain available in each entry.
 
 ## Licensing
 
@@ -34,3 +34,8 @@ Website code uses MIT; see [LICENSE](../LICENSE). Dataset downloads require no a
 Use GitHub Issues or pull requests to suggest games or corrections. Include official or author evidence, image attribution and rights, hardware, platform, interaction, availability, and a verification date. Do not present assumptions as confirmed compatibility. Keep JSON and CSV synchronized and update both languages when revising facts.
 
 GitHub Pages publishes the repository's `main` branch and root directory. No build step is required. For local preview, serve the repository root with `python3 -m http.server 8765`, then open http://localhost:8765/en/ . Opening the HTML directly may prevent the browser from loading JSON.
+
+
+## Expanded review (October 16, 2026)
+
+Read [review.html](review.html) and [data/review-method.json](data/review-method.json). Added fields include tags, design_intent, eye_role, genre_family, entry_type, awards, target_users, evaluation, customizability, and evidence. Primary categories are exclusive; tags overlap. Suites count as one record. Ninety-five entries are not ninety-five independently playable games. See availability and notes for historical or delisted works.

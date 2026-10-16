@@ -1,194 +1,10 @@
 {
-  "schema_version": "1.0",
-  "updated_at": "2026-10-15",
-  "license": "CC-BY-4.0 for original descriptions and database arrangement; third-party images and source materials excluded",
+  "schema_version": "2.0",
+  "language": "zh",
+  "updated_at": "2026-10-16",
+  "review_type": "Source-led scoping review; not exhaustive or preregistered",
+  "license": "CC BY 4.0 for original descriptions and arrangement; third-party media and sources excluded",
   "games": [
-    {
-      "id": "tomb",
-      "title": "Shadow of the Tomb Raider",
-      "title_zh": "古墓丽影：暗影",
-      "category": "商业游戏",
-      "genre": "动作冒险",
-      "device": "Tobii 眼动仪",
-      "platform": "Windows PC",
-      "interaction": "眼动辅助",
-      "description": "扮演劳拉探索丛林与遗迹。眼动可辅助选择瞄准与投掷目标，并在生存本能模式下突出注视的对象。",
-      "features": [
-        "注视瞄准",
-        "注视投掷",
-        "眼动与头动视角"
-      ],
-      "sources": [
-        {
-          "title": "Tobii Gaming",
-          "url": "https://gaming.tobii.com/games/shadow-of-the-tomb-raider/"
-        }
-      ],
-      "image_url": "https://gaming.tobii.com/wp-content/uploads/2018/08/Shadow-of-the-Tomb-Raider-with-Tobii-Eye-Tracking.png",
-      "image_source": "https://gaming.tobii.com/games/shadow-of-the-tomb-raider/",
-      "image_credit": "Tobii Gaming",
-      "image_kind": "官方游戏宣传图／截图",
-      "image_license": "第三方版权，未纳入开放数据许可",
-      "availability": "商业发行",
-      "notes": "眼动为辅助输入；仍需键鼠或手柄。功能与兼容性以所链接的 PC 版本说明为准。",
-      "year": null,
-      "verified_at": "2026-10-15"
-    },
-    {
-      "id": "valhalla",
-      "title": "Assassin’s Creed Valhalla",
-      "title_zh": "刺客信条：英灵殿",
-      "category": "商业游戏",
-      "genre": "开放世界",
-      "device": "Tobii 眼动仪",
-      "platform": "Windows PC",
-      "interaction": "眼动辅助",
-      "description": "在维京时代探索与战斗，注视位置可决定初始瞄准，也能用于选取拾取物；视角与光照随视线响应。",
-      "features": [
-        "注视瞄准",
-        "注视交互",
-        "动态光照"
-      ],
-      "sources": [
-        {
-          "title": "Tobii Gaming",
-          "url": "https://gaming.tobii.com/games/assassins-creed-valhalla/"
-        }
-      ],
-      "image_url": "https://gaming.tobii.com/wp-content/uploads/2020/06/assassins-creed-valhalla-seo.jpg",
-      "image_source": "https://gaming.tobii.com/games/assassins-creed-valhalla/",
-      "image_credit": "Tobii Gaming",
-      "image_kind": "官方游戏宣传图／截图",
-      "image_license": "第三方版权，未纳入开放数据许可",
-      "availability": "商业发行",
-      "notes": "眼动为辅助输入；仍需键鼠或手柄。功能与兼容性以所链接的 PC 版本说明为准。",
-      "year": null,
-      "verified_at": "2026-10-15"
-    },
-    {
-      "id": "odyssey",
-      "title": "Assassin’s Creed Odyssey",
-      "title_zh": "刺客信条：奥德赛",
-      "category": "商业游戏",
-      "genre": "开放世界",
-      "device": "Tobii 眼动仪",
-      "platform": "Windows PC",
-      "interaction": "眼动辅助",
-      "description": "探索古希腊的开放世界。利用视线标记敌人、辅助瞄准与锁定目标，让观察和战斗操作更连贯。",
-      "features": [
-        "敌人标记",
-        "注视瞄准",
-        "目标锁定"
-      ],
-      "sources": [
-        {
-          "title": "Tobii Gaming",
-          "url": "https://gaming.tobii.com/games/assassins-creed-odyssey/"
-        }
-      ],
-      "image_url": "https://gaming.tobii.com/wp-content/uploads/2018/09/Play-Assassins-Creed-Odyssey-with-Tobii-Eye-Tracking.png",
-      "image_source": "https://gaming.tobii.com/games/assassins-creed-odyssey/",
-      "image_credit": "Tobii Gaming",
-      "image_kind": "官方游戏宣传图／截图",
-      "image_license": "第三方版权，未纳入开放数据许可",
-      "availability": "商业发行",
-      "notes": "眼动为辅助输入；仍需键鼠或手柄。功能与兼容性以所链接的 PC 版本说明为准。",
-      "year": null,
-      "verified_at": "2026-10-15"
-    },
-    {
-      "id": "legion",
-      "title": "Watch Dogs: Legion",
-      "title_zh": "看门狗：军团",
-      "category": "商业游戏",
-      "genre": "开放世界",
-      "device": "Tobii 眼动仪",
-      "platform": "Windows PC",
-      "interaction": "眼动辅助",
-      "description": "在未来伦敦招募成员与执行任务。可以看向黑入目标或武器轮盘选项，界面也会按注视情况淡入淡出。",
-      "features": [
-        "注视黑入",
-        "轮盘选择",
-        "注视响应界面"
-      ],
-      "sources": [
-        {
-          "title": "Tobii Gaming",
-          "url": "https://gaming.tobii.com/games/watch-dogs-legion/"
-        }
-      ],
-      "image_url": "https://gaming.tobii.com/wp-content/uploads/2019/10/watchdogs-legion-seo.jpg",
-      "image_source": "https://gaming.tobii.com/games/watch-dogs-legion/",
-      "image_credit": "Tobii Gaming",
-      "image_kind": "官方游戏宣传图／截图",
-      "image_license": "第三方版权，未纳入开放数据许可",
-      "availability": "商业发行",
-      "notes": "眼动为辅助输入；仍需键鼠或手柄。功能与兼容性以所链接的 PC 版本说明为准。",
-      "year": null,
-      "verified_at": "2026-10-15"
-    },
-    {
-      "id": "farcry",
-      "title": "Far Cry 6",
-      "title_zh": "孤岛惊魂 6",
-      "category": "商业游戏",
-      "genre": "射击",
-      "device": "Tobii 眼动仪",
-      "platform": "Windows PC",
-      "interaction": "眼动辅助",
-      "description": "在雅拉进行开放世界战斗。眼动支持敌人标记、指挥动物伙伴，配合头动调整视角，并提供独立的灵敏度设置。",
-      "features": [
-        "敌人标记",
-        "伙伴指令",
-        "视角扩展"
-      ],
-      "sources": [
-        {
-          "title": "Tobii Gaming",
-          "url": "https://gaming.tobii.com/games/far-cry-6/"
-        }
-      ],
-      "image_url": "https://gaming.tobii.com/wp-content/uploads/2021/06/far-cry-6-seo.jpg",
-      "image_source": "https://gaming.tobii.com/games/far-cry-6/",
-      "image_credit": "Tobii Gaming",
-      "image_kind": "官方游戏宣传图／截图",
-      "image_license": "第三方版权，未纳入开放数据许可",
-      "availability": "商业发行",
-      "notes": "眼动为辅助输入；仍需键鼠或手柄。功能与兼容性以所链接的 PC 版本说明为准。",
-      "year": null,
-      "verified_at": "2026-10-15"
-    },
-    {
-      "id": "breakpoint",
-      "title": "Ghost Recon Breakpoint",
-      "title_zh": "幽灵行动：断点",
-      "category": "商业游戏",
-      "genre": "战术射击",
-      "device": "Tobii 眼动仪",
-      "platform": "Windows PC",
-      "interaction": "眼动辅助",
-      "description": "在极光岛开展战术行动。注视可辅助初始瞄准、标记敌人、选择指令与定位菜单光标。",
-      "features": [
-        "注视瞄准",
-        "注视标记",
-        "注视菜单选择"
-      ],
-      "sources": [
-        {
-          "title": "Tobii Gaming",
-          "url": "https://gaming.tobii.com/games/ghost-recon-breakpoint/"
-        }
-      ],
-      "image_url": "https://gaming.tobii.com/wp-content/uploads/2019/08/GRB-StandardKeyartWIDE-041219-WITH-LOGO.jpg",
-      "image_source": "https://gaming.tobii.com/games/ghost-recon-breakpoint/",
-      "image_credit": "Tobii Gaming",
-      "image_kind": "官方游戏宣传图／截图",
-      "image_license": "第三方版权，未纳入开放数据许可",
-      "availability": "商业发行",
-      "notes": "眼动为辅助输入；仍需键鼠或手柄。功能与兼容性以所链接的 PC 版本说明为准。",
-      "year": null,
-      "verified_at": "2026-10-15"
-    },
     {
       "id": "before-your-eyes",
       "title": "Before Your Eyes",
@@ -207,6 +23,10 @@
         {
           "title": "Steam / GoodbyeWorld Games / Skybound Games",
           "url": "https://store.steampowered.com/app/1082430/Before_Your_Eyes/"
+        },
+        {
+          "title": "BAFTA 2022 official winners",
+          "url": "https://www.bafta.org/awards/games/?award-year=2022"
         }
       ],
       "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1082430/header.jpg",
@@ -217,7 +37,153 @@
       "availability": "商业发行",
       "notes": "属于眨眼检测，并非连续注视点追踪；单独标注以便比较。",
       "year": 2021,
-      "verified_at": "2026-10-15"
+      "verified_at": "2026-10-15",
+      "tags": [
+        "Awarded",
+        "Blink detection",
+        "Commercial",
+        "Indie",
+        "Steam"
+      ],
+      "awards": [
+        {
+          "name": "BAFTA Games Awards — Game Beyond Entertainment",
+          "year": 2022,
+          "result": "Winner",
+          "url": "https://www.bafta.org/awards/games/?award-year=2022",
+          "status": "Winner"
+        }
+      ],
+      "evidence": "PC 核心输入是摄像头眨眼检测，不能与屏幕注视坐标追踪混为一谈。BAFTA 2022 官方页面确认获得 Game Beyond Entertainment 奖。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Blink detection",
+      "entry_type": "Game",
+      "genre_family": "Narrative & social",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "hyperdot",
+      "title": "HyperDot",
+      "title_zh": "HyperDot",
+      "platform": "Windows PC",
+      "year": 2020,
+      "sources": [
+        {
+          "title": "Developer project page / 作者项目页",
+          "url": "https://gaming.tobii.com/games/hyperdot/"
+        },
+        {
+          "title": "Steam",
+          "url": "https://store.steampowered.com/app/876500/HyperDot/"
+        },
+        {
+          "title": "Tribe Games / Awards",
+          "url": "https://www.tribe-games.com/games/hyperdot/"
+        },
+        {
+          "title": "Developer retrospective",
+          "url": "https://www.tribe-games.com/hyperdot-changed-my-life/"
+        }
+      ],
+      "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/876500/header.jpg?t=1745854567",
+      "image_source": "https://gaming.tobii.com/games/hyperdot/",
+      "image_credit": "Original developer / 原开发者",
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Accessibility",
+        "Award nominee",
+        "Commercial",
+        "Indie",
+        "Steam"
+      ],
+      "awards": [
+        {
+          "name": "The Game Awards — Innovation in Accessibility",
+          "year": 2020,
+          "result": "Nominee",
+          "url": "https://www.tribe-games.com/hyperdot-changed-my-life/",
+          "status": "Nominee"
+        }
+      ],
+      "evidence": "Tobii 官方明确列出 Control at Gaze；眼动支持针对 PC，不据此推断其他平台。",
+      "category": "独立小游戏",
+      "genre": "街机／弹幕躲避",
+      "device": "Tobii 眼动仪",
+      "interaction": "眼动核心玩法",
+      "description": "控制圆点躲避障碍；PC 版可用注视直接移动角色，另有自动暂停和视角响应。",
+      "features": [
+        "注视移动",
+        "自动暂停",
+        "关卡编辑器"
+      ],
+      "availability": "Steam 商业发行；眼动功能限所述 PC 集成",
+      "notes": "Tobii 官方明确列出 Control at Gaze；眼动支持针对 PC，不据此推断其他平台。",
+      "design_intent": [
+        "Accessibility"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Game",
+      "genre_family": "Action & arcade",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "gazetrain",
+      "title": "GazeTrain",
+      "year": 2009,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Lasse Laursen — author project page",
+          "url": "https://www.lasselaursen.com/projects/gazetrain/"
+        },
+        {
+          "title": "Original COGAIN 2009 paper — DTU",
+          "url": "https://backend.orbit.dtu.dk/ws/portalfiles/portal/4620969/tr09_08-rev.pdf"
+        }
+      ],
+      "image_url": "assets/catalog/gazetrain.svg",
+      "image_source": "https://www.lasselaursen.com/projects/gazetrain/",
+      "image_credit": "Gaze Atlas contributors",
+      "tags": [
+        "Accessibility",
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "title_zh": "眼控列车",
+      "category": "研究原型",
+      "genre": "轨道益智",
+      "device": "桌面眼动仪",
+      "platform": "Research PC prototype",
+      "interaction": "纯眼控",
+      "description": "通过注视放置轨道，让列车收集货物并送至城镇；原型针对眼控无障碍操作设计。",
+      "features": [
+        "注视铺轨",
+        "练习／资源／计时模式"
+      ],
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "availability": "研究材料；下载可用性未验证",
+      "notes": "作者页面链接旧版游戏与源码；当前兼容性未验证。",
+      "design_intent": [
+        "Accessibility"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Puzzle & board",
+      "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
     },
     {
       "id": "eyemine",
@@ -252,177 +218,327 @@
       "availability": "工具免费；Minecraft 需账号／许可",
       "notes": "需安装 EyeMine 与配套游戏版本；不适用于手机或主机版 Minecraft。",
       "year": null,
-      "verified_at": "2026-10-15"
+      "verified_at": "2026-10-15",
+      "tags": [
+        "Accessibility"
+      ],
+      "design_intent": [
+        "Accessibility"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Exploration & simulation",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
     },
     {
-      "id": "open-drive",
-      "title": "Open Drive",
-      "title_zh": "眼控自由驾驶",
-      "category": "无障碍眼控",
-      "genre": "驾驶",
-      "device": "兼容眼动仪",
-      "platform": "浏览器",
-      "interaction": "眼控为主",
-      "description": "在开放场地驾驶车辆、挑战坡道与特技并收集奖杯，支持多种眼控设置。",
-      "features": [
-        "眼控操作",
-        "多种辅助输入"
-      ],
+      "id": "synapse",
+      "title": "Synapse",
+      "platform": "PS5 / PS VR2",
       "sources": [
         {
-          "title": "SpecialEffect",
-          "url": "https://www.specialeffect.org.uk/news/take-a-spin-with-open-drive-our-new-eye-gaze-game"
+          "title": "PlayStation — Synapse",
+          "url": "https://www.playstation.com/en-us/games/synapse/"
         },
         {
-          "title": "Eye Gaze Games 游戏入口",
-          "url": "https://www.eyegazegames.com/"
+          "title": "nDreams announcement on PlayStation Blog",
+          "url": "https://blog.playstation.com/2023/02/23/synapse-brings-dual-wielding-vr-action-exclusively-to-ps-vr2-this-year/"
         }
       ],
-      "image_url": "https://www.specialeffect.org.uk/wp-content/uploads/2022/04/OD_TW.jpg",
-      "image_source": "https://www.specialeffect.org.uk/news/take-a-spin-with-open-drive-our-new-eye-gaze-game",
-      "image_credit": "SpecialEffect",
-      "image_kind": "官方游戏宣传图／截图",
-      "image_license": "第三方版权，未纳入开放数据许可",
-      "availability": "免费浏览器游戏",
-      "notes": "通过 Eye Gaze Games 进入；需要眼动仪与相应指针控制软件。",
-      "year": null,
-      "verified_at": "2026-10-15"
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2316/4bfd3815c3ed85e38783d46c3a24fde13752f09b61c94705.png",
+      "image_source": "https://www.playstation.com/en-us/games/synapse/",
+      "image_credit": "PlayStation / game publisher",
+      "year": 2023,
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Commercial",
+        "VR"
+      ],
+      "distribution_url": "https://www.playstation.com/en-us/games/synapse/",
+      "evidence_level": "Primary source",
+      "support_scope": "PS VR2 version only",
+      "title_zh": "Synapse",
+      "category": "商业游戏",
+      "genre": "VR 动作与念力",
+      "device": "PS VR2 内置眼动追踪",
+      "interaction": "眼动与手柄协同",
+      "description": "在敌人的意识空间中战斗。用视线选择念力目标，再用 Sense 控制器抓取、移动或投掷物体。",
+      "features": [
+        "注视念力选取",
+        "眼手协同"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "商业发行",
+      "notes": "眼动功能限定 PS VR2 版本；其他平台或同名版本不自动具有此功能。仍需传统控制器操作。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Action & arcade",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
     },
     {
-      "id": "gazey-golf",
-      "title": "Gazey Golf",
-      "title_zh": "眼控迷你高尔夫",
-      "category": "无障碍眼控",
-      "genre": "体育",
-      "device": "兼容眼动仪",
-      "platform": "浏览器",
-      "interaction": "眼控为主",
-      "description": "为眼控优化的迷你高尔夫，提供四组九洞球场，可挑战个人成绩或与本地玩家对战。",
-      "features": [
-        "眼控操作",
-        "多种辅助输入"
-      ],
+      "id": "supervision",
+      "title": "SuperVision",
+      "year": 2019,
+      "verified_at": "2026-10-16",
       "sources": [
         {
-          "title": "SpecialEffect",
-          "url": "https://www.specialeffect.org.uk/news/gazey-golf-the-latest-title-in-our-eye-gaze-games-series"
-        },
-        {
-          "title": "Eye Gaze Games 游戏入口",
-          "url": "https://www.eyegazegames.com/"
+          "title": "Lancaster University — CHI 2019 paper",
+          "url": "https://eprints.lancs.ac.uk/id/eprint/133629/1/SuperVision_CHI_CameraReady.pdf"
         }
       ],
-      "image_url": "https://www.specialeffect.org.uk/wp-content/uploads/2021/11/gazey_TW.jpg",
-      "image_source": "https://www.specialeffect.org.uk/news/gazey-golf-the-latest-title-in-our-eye-gaze-games-series",
-      "image_credit": "SpecialEffect",
-      "image_kind": "官方游戏宣传图／截图",
-      "image_license": "第三方版权，未纳入开放数据许可",
-      "availability": "免费浏览器游戏",
-      "notes": "通过 Eye Gaze Games 进入；需要眼动仪与相应指针控制软件。",
-      "year": null,
-      "verified_at": "2026-10-15"
+      "image_url": "assets/catalog/supervision.svg",
+      "image_source": "https://eprints.lancs.ac.uk/id/eprint/133629/1/SuperVision_CHI_CameraReady.pdf",
+      "image_credit": "Gaze Atlas contributors",
+      "tags": [
+        "Perception",
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "title_zh": "周边视觉游戏集",
+      "category": "研究原型",
+      "genre": "周边视觉挑战",
+      "device": "桌面眼动仪",
+      "platform": "Research PC prototype",
+      "interaction": "注视回避",
+      "description": "由三款小游戏组成，玩家需要回避直视目标并借助周边视觉完成任务。",
+      "features": [
+        "注视回避",
+        "周边视觉"
+      ],
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "availability": "研究材料；下载可用性未验证",
+      "notes": "研究原型；实验发现不等同于经验证的视觉治疗。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze-responsive",
+      "entry_type": "Activity suite",
+      "genre_family": "Learning & training",
+      "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "论文报告 24 人设计评估；不是临床疗效结论",
+      "customizability": "见原项目；未核实开源许可"
     },
     {
-      "id": "mole-miners",
-      "title": "Mole Miners",
-      "title_zh": "鼹鼠矿工",
-      "category": "无障碍眼控",
-      "genre": "消除",
-      "device": "兼容眼动仪",
-      "platform": "浏览器",
-      "interaction": "眼控为主",
-      "description": "Eye Gaze Games 中的弹珠消除类游戏，面向使用视线控制的玩家设计。",
-      "features": [
-        "停留选择",
-        "可调眼控设置"
-      ],
+      "id": "dont-look",
+      "title": "Don’t Look",
+      "title_zh": "Don’t Look",
+      "platform": "Windows PC",
+      "year": null,
       "sources": [
         {
-          "title": "SpecialEffect / GameAccess",
-          "url": "https://gameaccess.info/eye-gaze-games-eye-gaze-setup-and-options/"
-        },
-        {
-          "title": "Eye Gaze Games 游戏入口",
-          "url": "https://www.eyegazegames.com/"
+          "title": "Developer project page / 作者项目页",
+          "url": "https://dontlook.itch.io/dont-look"
         }
       ],
-      "image_url": "https://gameaccess.info/wp-content/uploads/2020/12/Mole-Miners.png",
-      "image_source": "https://gameaccess.info/eye-gaze-games-eye-gaze-setup-and-options/",
-      "image_credit": "SpecialEffect / GameAccess",
-      "image_kind": "官方游戏截图",
-      "image_license": "第三方版权，未纳入开放数据许可",
-      "availability": "免费浏览器游戏",
-      "notes": "以官方说明列出的游戏为收录依据；实际入口与版本以 Eye Gaze Games 为准。",
-      "year": null,
-      "verified_at": "2026-10-15"
+      "image_url": "https://img.itch.zone/aW1nLzIxNjY2NTAucG5n/original/DRQb77.png",
+      "image_source": "https://dontlook.itch.io/dont-look",
+      "image_credit": "Original developer / 原开发者",
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Blink detection",
+        "Horror",
+        "Indie",
+        "Student"
+      ],
+      "awards": [],
+      "evidence": "CNAM-ENJMIN 学生项目；同时使用视线与闭眼检测，作者提供无眼动替代操作。",
+      "category": "独立小游戏",
+      "genre": "恐怖／横向探索",
+      "device": "Tobii Eye Tracker 4C＋键鼠或手柄",
+      "interaction": "眼动与其他输入",
+      "description": "扮演寻找小狗的孩子，用视线操纵手电筒，闭眼关闭灯光；危险潜伏在黑暗中。",
+      "features": [
+        "注视手电筒",
+        "闭眼熄灯"
+      ],
+      "availability": "作者页面提供下载；未实机测试",
+      "notes": "CNAM-ENJMIN 学生项目；同时使用视线与闭眼检测，作者提供无眼动替代操作。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Game",
+      "genre_family": "Horror",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
     },
     {
-      "id": "chess",
-      "title": "Chess · Eye Gaze Games",
-      "title_zh": "眼控国际象棋",
-      "category": "无障碍眼控",
-      "genre": "棋类",
-      "device": "兼容眼动仪",
-      "platform": "浏览器",
-      "interaction": "眼控为主",
-      "description": "利用为眼控设计的选择界面下国际象棋，可配置经典或精确控制模式。",
-      "features": [
-        "停留选择",
-        "可调眼控设置"
-      ],
+      "id": "ets2",
+      "title": "Euro Truck Simulator 2",
+      "platform": "Windows PC",
       "sources": [
         {
-          "title": "SpecialEffect / GameAccess",
-          "url": "https://gameaccess.info/eye-gaze-games-eye-gaze-setup-and-options/"
+          "title": "Tobii Gaming — Euro Truck Simulator 2",
+          "url": "https://gaming.tobii.com/games/euro-truck-simulator-2/"
         },
         {
-          "title": "Eye Gaze Games 游戏入口",
-          "url": "https://www.eyegazegames.com/"
+          "title": "Steam — Euro Truck Simulator 2",
+          "url": "https://store.steampowered.com/app/227300/"
         }
       ],
-      "image_url": "https://gameaccess.info/wp-content/uploads/2020/12/Classic-Chess-EGG.png",
-      "image_source": "https://gameaccess.info/eye-gaze-games-eye-gaze-setup-and-options/",
-      "image_credit": "SpecialEffect / GameAccess",
-      "image_kind": "官方游戏截图",
-      "image_license": "第三方版权，未纳入开放数据许可",
-      "availability": "免费浏览器游戏",
-      "notes": "以官方说明列出的游戏为收录依据；实际入口与版本以 Eye Gaze Games 为准。",
-      "year": null,
-      "verified_at": "2026-10-15"
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2017/11/TOBII_ETS2_SEOimg.jpg",
+      "image_source": "https://gaming.tobii.com/games/euro-truck-simulator-2/",
+      "image_credit": "Tobii Gaming / game publisher",
+      "year": 2012,
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Commercial",
+        "Steam"
+      ],
+      "distribution_url": "https://store.steampowered.com/app/227300/",
+      "evidence_level": "Primary source",
+      "support_scope": "Cited Windows PC eye-tracking integration",
+      "title_zh": "欧洲卡车模拟 2",
+      "category": "商业游戏",
+      "genre": "驾驶模拟",
+      "device": "Tobii 眼动仪",
+      "interaction": "眼动辅助",
+      "description": "驾驶卡车运送货物。眼动和头动共同控制驾驶室视角，便于观察后视镜、路口和挂车。",
+      "features": [
+        "眼动与头动视角"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "商业发行",
+      "notes": "眼动辅助传统输入，仍需键鼠、手柄或专用控制器。此记录限定所引用的 Windows PC 集成；硬件、驱动与游戏版本需匹配。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Driving & racing",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
     },
     {
-      "id": "sudoku",
-      "title": "Sudoku · Eye Gaze Games",
-      "title_zh": "眼控数独",
-      "category": "无障碍眼控",
-      "genre": "益智",
-      "device": "兼容眼动仪",
-      "platform": "浏览器",
-      "interaction": "眼控为主",
-      "description": "Eye Gaze Games 中的数独游戏，提供适合眼控玩家的浏览器游戏入口。",
-      "features": [
-        "停留选择",
-        "可调眼控设置"
-      ],
+      "id": "look-lab",
+      "title": "Look Lab",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "image_url": "https://media.smartboxaac.com/prod/uploads/sites/5/2023/12/LR-DPP-SB-ST-ROSES-BEST-153-scaled.jpg",
+      "image_source": "https://smartboxaac.com/ukie/look-lab/",
+      "image_credit": "原作者／发布者",
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
       "sources": [
         {
-          "title": "SpecialEffect / GameAccess",
-          "url": "https://gameaccess.info/eye-gaze-games-eye-gaze-setup-and-options/"
-        },
-        {
-          "title": "Eye Gaze Games 游戏入口",
-          "url": "https://www.eyegazegames.com/"
+          "title": "官方资料 / Official documentation",
+          "url": "https://smartboxaac.com/ukie/look-lab/"
         }
       ],
-      "image_url": "https://gameaccess.info/wp-content/uploads/2020/12/Homescreen.png",
-      "image_source": "https://gameaccess.info/eye-gaze-games-eye-gaze-setup-and-options/",
-      "image_credit": "SpecialEffect / GameAccess",
-      "image_kind": "游戏集合首页（包含数独）",
-      "image_license": "第三方版权，未纳入开放数据许可",
-      "availability": "免费浏览器游戏",
-      "notes": "以官方说明列出的游戏为收录依据；实际入口与版本以 Eye Gaze Games 为准。",
-      "year": null,
-      "verified_at": "2026-10-15"
+      "tags": [
+        "Accessibility",
+        "Training"
+      ],
+      "entry_type": "Activity suite",
+      "design_intent": [
+        "Accessibility",
+        "Education & Training",
+        "Artistic Expression"
+      ],
+      "eye_role": "Gaze control",
+      "customizability": "可配置",
+      "target_users": "眼控学习者",
+      "evaluation": "官方资料核查，未实机测试",
+      "awards": [],
+      "title_zh": "眼控趣味实验室",
+      "category": "无障碍眼控",
+      "genre": "技能学习与游戏活动",
+      "platform": "Windows PC",
+      "device": "兼容眼动仪与指针控制软件",
+      "interaction": "眼控为主",
+      "description": "包含游戏、益智、艺术音乐和放松活动的眼控套件。提供简化画面、难度与访问模式，适合不同年龄与经验的用户。",
+      "features": [
+        "难度与画面设置",
+        "艺术与音乐",
+        "热图"
+      ],
+      "availability": "产品／演示资料可查；许可及当前下载以官方为准",
+      "notes": "按套件计一次。支持眼控与其他指针输入；具体设备兼容性需查官方。",
+      "genre_family": "Learning & training",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。"
+    },
+    {
+      "id": "rez-infinite",
+      "title": "Rez Infinite",
+      "platform": "PS5 / PS VR2",
+      "sources": [
+        {
+          "title": "PlayStation — Rez Infinite",
+          "url": "https://www.playstation.com/en-us/games/rez-infinite/"
+        },
+        {
+          "title": "Enhance official PS VR2 announcement: award + eye tracking",
+          "url": "https://www.rezinfinite.com/rez-infinite-comes-to-ps5-with-ps-vr2-compatibility-on-feb-22-2023/"
+        }
+      ],
+      "image_url": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2007/4PeYWIcAIDafSADaMSBJgIHu.png",
+      "image_source": "https://www.playstation.com/en-us/games/rez-infinite/",
+      "image_credit": "PlayStation / game publisher",
+      "year": 2023,
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Awarded",
+        "Commercial",
+        "VR"
+      ],
+      "distribution_url": "https://www.playstation.com/en-us/games/rez-infinite/",
+      "evidence_level": "Primary source",
+      "support_scope": "PS VR2 version only",
+      "title_zh": "Rez Infinite",
+      "category": "商业游戏",
+      "genre": "音乐轨道射击",
+      "device": "PS VR2 内置眼动追踪",
+      "interaction": "眼动与手柄协同",
+      "description": "在电子音乐与抽象视觉中锁定敌人。PS VR2 版本允许直接看向敌人进行瞄准和追踪。",
+      "features": [
+        "注视瞄准",
+        "视线目标追踪"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "商业发行",
+      "notes": "眼动功能限定 PS VR2 版本；其他平台或同名版本不自动具有此功能。仍需传统控制器操作。",
+      "awards": [
+        {
+          "name": "The Game Awards — Best VR Game",
+          "year": 2016,
+          "result": "Winner",
+          "url": "https://www.rezinfinite.com/rez-infinite-comes-to-ps5-with-ps-vr2-compatibility-on-feb-22-2023/",
+          "status": "Winner"
+        }
+      ],
+      "evidence": "发行商官方说明确认 Rez Infinite 获得 2016 年 TGA Best VR Game；眼动瞄准是 2023 年 PS VR2 版本新增功能。奖项早于眼动集成，并非眼动技术专项奖。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Game",
+      "genre_family": "Rhythm & music",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
     },
     {
       "id": "regaze",
@@ -460,37 +576,3495 @@
       "availability": "作者提供代码仓库",
       "notes": "研究原型，非商业成品。项目页链接代码与报告；运行环境和许可证需查看原仓库。",
       "year": null,
-      "verified_at": "2026-10-15"
+      "verified_at": "2026-10-15",
+      "tags": [
+        "Research",
+        "VR"
+      ],
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Research prototype",
+      "awards": [],
+      "genre_family": "Puzzle & board",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "项目报告记载 30 人组内比较；不等同于跨设备验证",
+      "customizability": "见原项目；未核实开源许可"
     },
     {
-      "id": "geyeded",
-      "title": "gEYEded",
-      "title_zh": "探索游戏中的视线引导原型",
-      "category": "研究原型",
-      "genre": "探索",
-      "device": "Tobii EyeX",
-      "platform": "PC / Unity",
-      "interaction": "注视响应",
-      "description": "探索游戏原型，用于研究基于注视的玩家引导，关注引导的细微程度与挑战性。",
+      "id": "limbitless-journey",
+      "title": "Limbitless Journey",
+      "year": 2023,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Anthony Martin — developer portfolio",
+          "url": "https://www.anthonymartindev.com/limbitless-journey.html"
+        },
+        {
+          "title": "Original 2025 study — Applied Sciences",
+          "url": "https://www.mdpi.com/2076-3417/15/10/5268"
+        }
+      ],
+      "image_url": "https://www.anthonymartindev.com/images/Limbitless%20Journey%20Title.png",
+      "image_source": "https://www.anthonymartindev.com/limbitless-journey.html",
+      "image_credit": "Anthony Martin — developer portfolio",
+      "tags": [
+        "Accessibility",
+        "Awarded",
+        "Research",
+        "Training"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [
+        {
+          "name": "Serious Games Showcase & Challenge — Best Student Developed Game",
+          "year": 2023,
+          "result": "Winner",
+          "url": "https://www.anthonymartindev.com/limbitless-journey.html",
+          "status": "Winner"
+        }
+      ],
+      "title_zh": "无界旅程",
+      "category": "训练与严肃游戏",
+      "genre": "轮椅驾驶训练",
+      "device": "Tobii Eye Tracker 5＋肌电传感器",
+      "platform": "Research PC prototype",
+      "interaction": "眼动界面与肌电驾驶",
+      "description": "以虚拟轮椅关卡训练免手控驾驶；眼动用于界面与校准，驾驶由肌电输入完成。",
       "features": [
-        "视线引导",
-        "注视响应"
+        "眼动菜单／校准",
+        "肌电驾驶训练"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "研究材料；下载可用性未验证",
+      "notes": "获奖不等于临床疗效认证。研究： https://www.mdpi.com/2076-3417/15/10/5268 。",
+      "design_intent": [
+        "Education & Training",
+        "Rehabilitation",
+        "Accessibility"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Research prototype",
+      "genre_family": "Driving & racing",
+      "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "stonesight",
+      "title": "Stonesight",
+      "title_zh": "Stonesight",
+      "platform": "Windows PC",
+      "year": null,
+      "sources": [
+        {
+          "title": "Developer project page / 作者项目页",
+          "url": "https://lionieloewenherz.itch.io/stonesight-find-your-balance"
+        }
+      ],
+      "image_url": "assets/catalog/stonesight.svg",
+      "image_source": "https://lionieloewenherz.itch.io/stonesight-find-your-balance",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Hands-free",
+        "Indie",
+        "Puzzle",
+        "Student"
+      ],
+      "awards": [],
+      "evidence": "HTW Berlin 五人团队短期学生原型；作者说明可全程眼控，另有鼠标模式。",
+      "category": "独立小游戏",
+      "genre": "解谜／物理堆叠",
+      "device": "Tobii 眼动仪（型号未说明）",
+      "interaction": "眼动核心玩法",
+      "description": "持续注视石块让它浮起，再用视线移动和堆叠，搭出稳定的石塔。",
+      "features": [
+        "注视悬浮",
+        "眼动菜单"
+      ],
+      "availability": "作者页面提供下载；未实机测试",
+      "notes": "HTW Berlin 五人团队短期学生原型；作者说明可全程眼控，另有鼠标模式。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Game",
+      "genre_family": "Puzzle & board",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "royal-corgi",
+      "title": "The Royal Corgi",
+      "year": 2015,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Vidal et al. — CHI 2015 author paper",
+          "url": "https://www.collaborative-ai.org/publications/vidal15_chi.pdf"
+        }
+      ],
+      "image_url": "assets/catalog/royal-corgi.svg",
+      "image_source": "https://www.collaborative-ai.org/publications/vidal15_chi.pdf",
+      "image_credit": "Gaze Atlas contributors",
+      "tags": [
+        "Research",
+        "Social gaze"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "title_zh": "皇家柯基",
+      "category": "研究原型",
+      "genre": "社交叙事",
+      "device": "桌面眼动仪",
+      "platform": "Research PC prototype",
+      "interaction": "社交注视",
+      "description": "与虚拟角色交流，角色会根据玩家的注意力与注视行为改变对话和反应。",
+      "features": [
+        "角色响应注视",
+        "社交互动"
+      ],
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "availability": "研究材料；下载可用性未验证",
+      "notes": "以 2015 年完整研究论文为年份；2014 年已有展示版本。",
+      "design_intent": [
+        "Entertainment",
+        "Social Interaction"
+      ],
+      "eye_role": "Gaze-responsive",
+      "entry_type": "Research prototype",
+      "genre_family": "Narrative & social",
+      "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "atari-head",
+      "title": "Atari-HEAD — Atari research game suite",
+      "year": 2019,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Zhang et al. — original Atari-HEAD paper",
+          "url": "https://arxiv.org/abs/1903.06754"
+        }
+      ],
+      "image_url": "assets/catalog/atari-head.svg",
+      "image_source": "https://arxiv.org/abs/1903.06754",
+      "image_credit": "Gaze Atlas contributors",
+      "tags": [
+        "Dataset",
+        "Measurement",
+        "Research"
+      ],
+      "research_role": "measurement-only",
+      "inclusion_scope": "research-observation",
+      "awards": [],
+      "title_zh": "Atari-HEAD：雅达利研究游戏集",
+      "category": "研究观察与数据集",
+      "genre": "研究数据集／街机",
+      "device": "实验眼动仪",
+      "platform": "Atari / research emulator",
+      "interaction": "仅观察测量",
+      "description": "记录人类玩 Atari 游戏时的动作与眼动，用于视觉注意、模仿学习和强化学习研究；合集作为一条收录。",
+      "features": [
+        "眼动与动作配对",
+        "公开研究数据"
+      ],
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "availability": "研究材料；下载可用性未验证",
+      "notes": "眼动用于记录，不是控制游戏；117 小时数据覆盖 20 款游戏，本数据库不据此虚增为 20 条。2019 指数据集论文。",
+      "design_intent": [
+        "Assessment"
+      ],
+      "eye_role": "Measurement only",
+      "entry_type": "Research environment",
+      "genre_family": "Action & arcade",
+      "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "close-your",
+      "title": "Close Your",
+      "title_zh": "Close Your",
+      "year": 2014,
+      "sources": [
+        {
+          "title": "USC — IGF win and webcam mechanic",
+          "url": "https://today.usc.edu/usc-wins-top-awards-at-independent-games-festival/"
+        },
+        {
+          "title": "IGF 2015 official archive",
+          "url": "https://igf.com/archive-2015/"
+        },
+        {
+          "title": "Publisher retrospective / GoodbyeWorld Games history",
+          "url": "https://live.euronext.com/sites/default/files/company_press_releases/attachments_oslo/2023/03/13/584861_06-2023%20BYE%20PSVR2%20announcement.pdf"
+        }
+      ],
+      "image_url": "assets/catalog/close-your.svg",
+      "image_source": "https://today.usc.edu/usc-wins-top-awards-at-independent-games-festival/",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "verified_at": "2026-10-16",
+      "awards": [
+        {
+          "name": "Independent Games Festival — Best Student Game",
+          "year": 2015,
+          "result": "Winner",
+          "url": "https://igf.com/archive-2015/",
+          "status": "Winner"
+        },
+        {
+          "name": "IndieCade — Developer’s Choice",
+          "year": 2014,
+          "result": "Winner",
+          "url": "https://today.usc.edu/usc-wins-top-awards-at-independent-games-festival/",
+          "status": "Winner"
+        }
+      ],
+      "category": "独立小游戏",
+      "genre": "实验叙事",
+      "device": "网络摄像头",
+      "platform": "PC / 历史学生原型",
+      "interaction": "眨眼检测",
+      "description": "一部关于记忆流逝的实验短篇：摄像头捕捉玩家眨眼，每次眨眼都让角色的人生向前闪过。它是 Before Your Eyes 之前的学生作品。",
+      "features": [
+        "眨眼推进叙事",
+        "记忆与时间主题"
+      ],
+      "availability": "历史节展原型；未核实当前独立下载",
+      "notes": "以历史作品单独保存，不与后来的 Before Your Eyes 商业版混为一条。核心输入为眨眼检测，不代表屏幕注视坐标追踪。",
+      "evidence": "USC 2015 报道同时确认摄像头眨眼机制与 IGF／IndieCade 获奖；2023 发行商公告回顾其与 Before Your Eyes 的团队历史。",
+      "tags": [
+        "Awarded",
+        "Blink detection",
+        "Historical",
+        "Indie",
+        "Student"
+      ],
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Blink detection",
+      "entry_type": "Game",
+      "genre_family": "Narrative & social",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "chess",
+      "title": "Chess · Eye Gaze Games",
+      "title_zh": "眼控国际象棋",
+      "category": "无障碍眼控",
+      "genre": "棋类",
+      "device": "兼容眼动仪",
+      "platform": "浏览器",
+      "interaction": "眼控为主",
+      "description": "利用为眼控设计的选择界面下国际象棋，可配置经典或精确控制模式。",
+      "features": [
+        "停留选择",
+        "可调眼控设置"
       ],
       "sources": [
         {
-          "title": "论文：gEYEded（2019）",
-          "url": "https://www.mdpi.com/2414-4088/3/3/61"
+          "title": "SpecialEffect / GameAccess",
+          "url": "https://gameaccess.info/eye-gaze-games-eye-gaze-setup-and-options/"
+        },
+        {
+          "title": "Eye Gaze Games 游戏入口",
+          "url": "https://www.eyegazegames.com/"
         }
       ],
-      "image_url": "assets/research-guide.svg",
-      "image_source": "https://www.mdpi.com/2414-4088/3/3/61",
+      "image_url": "https://gameaccess.info/wp-content/uploads/2020/12/Classic-Chess-EGG.png",
+      "image_source": "https://gameaccess.info/eye-gaze-games-eye-gaze-setup-and-options/",
+      "image_credit": "SpecialEffect / GameAccess",
+      "image_kind": "官方游戏截图",
+      "image_license": "第三方版权，未纳入开放数据许可",
+      "availability": "免费浏览器游戏",
+      "notes": "以官方说明列出的游戏为收录依据；实际入口与版本以 Eye Gaze Games 为准。",
+      "year": null,
+      "verified_at": "2026-10-15",
+      "tags": [
+        "Accessibility"
+      ],
+      "design_intent": [
+        "Accessibility"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Puzzle & board",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "eye-can-fly",
+      "title": "Eye Can Fly",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "image_url": "assets/catalog/eye-can-fly.svg",
+      "image_source": "https://support.inclusive.com/article/eye-can-fly",
       "image_credit": "Gaze Atlas contributors",
-      "image_kind": "本数据库原创机制示意",
-      "image_license": "CC BY 4.0；不包含来源论文内容",
-      "availability": "论文可查；未核实可玩版本",
-      "notes": "图为本数据库绘制的机制示意，不是游戏截图。来源检索摘要可读，出版商全文页访问受限；设备与研究目的据摘要记录。",
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "sources": [
+        {
+          "title": "官方资料 / Official documentation",
+          "url": "https://support.inclusive.com/article/eye-can-fly"
+        }
+      ],
+      "tags": [
+        "Accessibility",
+        "Training"
+      ],
+      "entry_type": "Game",
+      "design_intent": [
+        "Accessibility",
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "customizability": "可配置",
+      "target_users": "眼控学习者",
+      "evaluation": "官方资料核查，未实机测试",
+      "awards": [],
+      "title_zh": "眼控飞行",
+      "category": "无障碍眼控",
+      "genre": "技能学习与游戏活动",
+      "platform": "Windows PC",
+      "device": "兼容眼动仪与指针控制软件",
+      "interaction": "眼控为主",
+      "description": "为眼控设计的飞行冒险，结合气球目标、飞行任务与自由探索，练习方向、地理概念和指针控制。",
+      "features": [
+        "注视飞行",
+        "停留菜单",
+        "可调速度"
+      ],
+      "availability": "产品／演示资料可查；许可及当前下载以官方为准",
+      "notes": "需眼动鼠标控制。官方说明 Options 和 Quit 按钮不支持停留选择，需要普通鼠标点击；并非所有操作都免手。",
+      "genre_family": "Learning & training",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。"
+    },
+    {
+      "id": "eyes-first-double-up",
+      "title": "Eyes First: Double Up",
       "year": 2019,
-      "verified_at": "2026-10-15"
+      "verified_at": "2026-10-16",
+      "image_url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2019/06/EyesFirst-DoubleUp_feature_06_2019_480x280.png",
+      "image_source": "https://www.microsoft.com/en-us/research/video/eyes-first-games-double-up/",
+      "image_credit": "原作者／发布者",
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "sources": [
+        {
+          "title": "官方资料 / Official documentation",
+          "url": "https://www.microsoft.com/en-us/research/video/eyes-first-games-double-up/"
+        }
+      ],
+      "tags": [
+        "Accessibility",
+        "Training"
+      ],
+      "entry_type": "Game",
+      "design_intent": [
+        "Accessibility",
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "customizability": "可配置",
+      "target_users": "眼控学习者",
+      "evaluation": "官方资料核查，未实机测试",
+      "awards": [],
+      "title_zh": "眼控数字合并",
+      "category": "无障碍眼控",
+      "genre": "技能学习与游戏活动",
+      "platform": "Windows PC",
+      "device": "兼容眼动仪与指针控制软件",
+      "interaction": "眼控为主",
+      "description": "用视线选择滑动方向，合并相同数字，挑战 2048 或更高数值。",
+      "features": [
+        "方向选择",
+        "数字合并"
+      ],
+      "availability": "产品／演示资料可查；许可及当前下载以官方为准",
+      "notes": "Microsoft Research 的 2019 年演示资料。历史商店发布不保证当前仍可安装，需核查商店地区、Windows 与眼动设备要求。",
+      "genre_family": "Learning & training",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。"
+    },
+    {
+      "id": "eyes-first-match-two",
+      "title": "Eyes First: Match Two",
+      "year": 2019,
+      "verified_at": "2026-10-16",
+      "image_url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2019/06/EyesFirst-MatchTwo_feature_06_2019_480x280.png",
+      "image_source": "https://www.microsoft.com/en-us/research/video/eyes-first-games-match-two/",
+      "image_credit": "原作者／发布者",
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "sources": [
+        {
+          "title": "官方资料 / Official documentation",
+          "url": "https://www.microsoft.com/en-us/research/video/eyes-first-games-match-two/"
+        }
+      ],
+      "tags": [
+        "Accessibility",
+        "Training"
+      ],
+      "entry_type": "Game",
+      "design_intent": [
+        "Accessibility",
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "customizability": "可配置",
+      "target_users": "眼控学习者",
+      "evaluation": "官方资料核查，未实机测试",
+      "awards": [],
+      "title_zh": "眼控记忆配对",
+      "category": "无障碍眼控",
+      "genre": "技能学习与游戏活动",
+      "platform": "Windows PC",
+      "device": "兼容眼动仪与指针控制软件",
+      "interaction": "眼控为主",
+      "description": "使用视线选择卡片并寻找配对，练习目标选择与记忆。",
+      "features": [
+        "眼控选卡",
+        "记忆配对"
+      ],
+      "availability": "产品／演示资料可查；许可及当前下载以官方为准",
+      "notes": "Microsoft Research 的 2019 年演示资料。历史商店发布不保证当前仍可安装，需核查商店地区、Windows 与眼动设备要求。",
+      "genre_family": "Learning & training",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。"
+    },
+    {
+      "id": "eyes-first-maze",
+      "title": "Eyes First: Maze",
+      "year": 2019,
+      "verified_at": "2026-10-16",
+      "image_url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2019/06/EyesFirst-Maze_feature_06_2019_480x280.png",
+      "image_source": "https://www.microsoft.com/en-us/research/video/eyes-first-games-maze/",
+      "image_credit": "原作者／发布者",
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "sources": [
+        {
+          "title": "官方资料 / Official documentation",
+          "url": "https://www.microsoft.com/en-us/research/video/eyes-first-games-maze/"
+        }
+      ],
+      "tags": [
+        "Accessibility",
+        "Training"
+      ],
+      "entry_type": "Game",
+      "design_intent": [
+        "Accessibility",
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "customizability": "可配置",
+      "target_users": "眼控学习者",
+      "evaluation": "官方资料核查，未实机测试",
+      "awards": [],
+      "title_zh": "眼控迷宫",
+      "category": "无障碍眼控",
+      "genre": "技能学习与游戏活动",
+      "platform": "Windows PC",
+      "device": "兼容眼动仪与指针控制软件",
+      "interaction": "眼控为主",
+      "description": "通过停留选择引导角色穿过迷宫，练习眼控导航与选择。",
+      "features": [
+        "停留选择",
+        "迷宫导航"
+      ],
+      "availability": "产品／演示资料可查；许可及当前下载以官方为准",
+      "notes": "Microsoft Research 的 2019 年演示资料。历史商店发布不保证当前仍可安装，需核查商店地区、Windows 与眼动设备要求。",
+      "genre_family": "Learning & training",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。"
+    },
+    {
+      "id": "eyes-first-tile-slide",
+      "title": "Eyes First: Tile Slide",
+      "year": 2019,
+      "verified_at": "2026-10-16",
+      "image_url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2019/06/EyesFirst-TileSlide_feature_06_2019_480x280.png",
+      "image_source": "https://www.microsoft.com/en-us/research/video/eyes-first-games-tile-slide/",
+      "image_credit": "原作者／发布者",
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "sources": [
+        {
+          "title": "官方资料 / Official documentation",
+          "url": "https://www.microsoft.com/en-us/research/video/eyes-first-games-tile-slide/"
+        }
+      ],
+      "tags": [
+        "Accessibility",
+        "Training"
+      ],
+      "entry_type": "Game",
+      "design_intent": [
+        "Accessibility",
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "customizability": "可配置",
+      "target_users": "眼控学习者",
+      "evaluation": "官方资料核查，未实机测试",
+      "awards": [],
+      "title_zh": "眼控滑块拼图",
+      "category": "无障碍眼控",
+      "genre": "技能学习与游戏活动",
+      "platform": "Windows PC",
+      "device": "兼容眼动仪与指针控制软件",
+      "interaction": "眼控为主",
+      "description": "通过视线滑动拼图块，将它们重新排列成正确顺序。",
+      "features": [
+        "视线滑块",
+        "空间拼图"
+      ],
+      "availability": "产品／演示资料可查；许可及当前下载以官方为准",
+      "notes": "Microsoft Research 的 2019 年演示资料。历史商店发布不保证当前仍可安装，需核查商店地区、Windows 与眼动设备要求。",
+      "genre_family": "Learning & training",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。"
+    },
+    {
+      "id": "gazeplay",
+      "title": "GazePlay",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "image_url": "assets/catalog/gazeplay.svg",
+      "image_source": "https://gazeplay.github.io/GazePlay/",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "sources": [
+        {
+          "title": "官方资料 / Official documentation",
+          "url": "https://gazeplay.github.io/GazePlay/"
+        },
+        {
+          "title": "GazePlay project references",
+          "url": "https://gazeplay.github.io/GazePlay/references/"
+        }
+      ],
+      "tags": [
+        "Accessibility",
+        "Open source",
+        "Research",
+        "Training"
+      ],
+      "entry_type": "Activity suite",
+      "design_intent": [
+        "Accessibility",
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "customizability": "可配置",
+      "target_users": "眼控学习者",
+      "evaluation": "官方资料核查，未实机测试",
+      "awards": [],
+      "title_zh": "开源眼控小游戏集",
+      "category": "无障碍眼控",
+      "genre": "技能学习与游戏活动",
+      "platform": "Windows / macOS / Linux",
+      "device": "兼容眼动仪与指针控制软件",
+      "interaction": "眼控为主",
+      "description": "免费开源的眼控小游戏集合，通过直接的目标、卡片与记忆活动支持娱乐和眼控技能练习。",
+      "features": [
+        "眼控小游戏",
+        "开源扩展",
+        "鼠标映射支持"
+      ],
+      "availability": "免费开源软件；当前版本及设备设置以官方为准",
+      "notes": "按游戏套件计一次。操作系统支持不等于所有眼动仪都跨平台兼容；需检查设备驱动与鼠标控制条件。",
+      "genre_family": "Learning & training",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。"
+    },
+    {
+      "id": "gazey-golf",
+      "title": "Gazey Golf",
+      "title_zh": "眼控迷你高尔夫",
+      "category": "无障碍眼控",
+      "genre": "体育",
+      "device": "兼容眼动仪",
+      "platform": "浏览器",
+      "interaction": "眼控为主",
+      "description": "为眼控优化的迷你高尔夫，提供四组九洞球场，可挑战个人成绩或与本地玩家对战。",
+      "features": [
+        "眼控操作",
+        "多种辅助输入"
+      ],
+      "sources": [
+        {
+          "title": "SpecialEffect",
+          "url": "https://www.specialeffect.org.uk/news/gazey-golf-the-latest-title-in-our-eye-gaze-games-series"
+        },
+        {
+          "title": "Eye Gaze Games 游戏入口",
+          "url": "https://www.eyegazegames.com/"
+        }
+      ],
+      "image_url": "https://www.specialeffect.org.uk/wp-content/uploads/2021/11/gazey_TW.jpg",
+      "image_source": "https://www.specialeffect.org.uk/news/gazey-golf-the-latest-title-in-our-eye-gaze-games-series",
+      "image_credit": "SpecialEffect",
+      "image_kind": "官方游戏宣传图／截图",
+      "image_license": "第三方版权，未纳入开放数据许可",
+      "availability": "免费浏览器游戏",
+      "notes": "通过 Eye Gaze Games 进入；需要眼动仪与相应指针控制软件。",
+      "year": null,
+      "verified_at": "2026-10-15",
+      "tags": [
+        "Accessibility"
+      ],
+      "design_intent": [
+        "Accessibility"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Exploration & simulation",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "helpkidzlearn-games",
+      "title": "HelpKidzLearn Games & Activities",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "image_url": "https://www.helpkidzlearn.com/media/dy3pgbef/helpkidzlearn-2-thumbnail-630.png",
+      "image_source": "https://www.helpkidzlearn.com/",
+      "image_credit": "原作者／发布者",
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "sources": [
+        {
+          "title": "官方资料 / Official documentation",
+          "url": "https://www.helpkidzlearn.com/"
+        }
+      ],
+      "tags": [
+        "Accessibility",
+        "Training"
+      ],
+      "entry_type": "Activity suite",
+      "design_intent": [
+        "Accessibility",
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "customizability": "可配置",
+      "target_users": "眼控学习者",
+      "evaluation": "官方资料核查，未实机测试",
+      "awards": [],
+      "title_zh": "HelpKidzLearn 游戏与活动",
+      "category": "无障碍眼控",
+      "genre": "技能学习与游戏活动",
+      "platform": "Web browser",
+      "device": "兼容眼动仪与指针控制软件",
+      "interaction": "眼控为主",
+      "description": "可通过眼控、触摸或开关访问的学习游戏集合，围绕因果反应、顺序、时机、瞄准与选择等目标组织。",
+      "features": [
+        "多种辅助输入",
+        "游戏化学习",
+        "选择与目标练习"
+      ],
+      "availability": "产品／演示资料可查；许可及当前下载以官方为准",
+      "notes": "按产品集合计一个条目；不把网站列出的数百项活动当作独立核查游戏。各活动眼控配置需按官方设置。",
+      "genre_family": "Learning & training",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。"
+    },
+    {
+      "id": "look-to-learn",
+      "title": "Look to Learn",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "image_url": "https://fr.thinksmartbox.com/app/uploads/2023/06/Look-to-learn-hero.png",
+      "image_source": "https://fr.thinksmartbox.com/look-to-learn/",
+      "image_credit": "原作者／发布者",
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "sources": [
+        {
+          "title": "官方资料 / Official documentation",
+          "url": "https://fr.thinksmartbox.com/look-to-learn/"
+        }
+      ],
+      "tags": [
+        "Accessibility",
+        "Training"
+      ],
+      "entry_type": "Activity suite",
+      "design_intent": [
+        "Accessibility",
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "customizability": "可配置",
+      "target_users": "眼控学习者",
+      "evaluation": "官方资料核查，未实机测试",
+      "awards": [],
+      "title_zh": "注视学习活动集",
+      "category": "无障碍眼控",
+      "genre": "技能学习与游戏活动",
+      "platform": "Windows PC",
+      "device": "兼容眼动仪与指针控制软件",
+      "interaction": "眼控为主",
+      "description": "面向眼控入门者的活动集，覆盖因果反应、探索、瞄准、选择与控制，可加入个人图片或视频并查看热图。",
+      "features": [
+        "因果反应",
+        "停留与目标选择",
+        "个人媒体"
+      ],
+      "availability": "产品／演示资料可查；许可及当前下载以官方为准",
+      "notes": "按活动集计为一个条目，不将 40 项活动重复计数。产品用途不等同于已证实的康复效果。",
+      "genre_family": "Learning & training",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。"
+    },
+    {
+      "id": "mole-miners",
+      "title": "Mole Miners",
+      "title_zh": "鼹鼠矿工",
+      "category": "无障碍眼控",
+      "genre": "消除",
+      "device": "兼容眼动仪",
+      "platform": "浏览器",
+      "interaction": "眼控为主",
+      "description": "Eye Gaze Games 中的弹珠消除类游戏，面向使用视线控制的玩家设计。",
+      "features": [
+        "停留选择",
+        "可调眼控设置"
+      ],
+      "sources": [
+        {
+          "title": "SpecialEffect / GameAccess",
+          "url": "https://gameaccess.info/eye-gaze-games-eye-gaze-setup-and-options/"
+        },
+        {
+          "title": "Eye Gaze Games 游戏入口",
+          "url": "https://www.eyegazegames.com/"
+        }
+      ],
+      "image_url": "https://gameaccess.info/wp-content/uploads/2020/12/Mole-Miners.png",
+      "image_source": "https://gameaccess.info/eye-gaze-games-eye-gaze-setup-and-options/",
+      "image_credit": "SpecialEffect / GameAccess",
+      "image_kind": "官方游戏截图",
+      "image_license": "第三方版权，未纳入开放数据许可",
+      "availability": "免费浏览器游戏",
+      "notes": "以官方说明列出的游戏为收录依据；实际入口与版本以 Eye Gaze Games 为准。",
+      "year": null,
+      "verified_at": "2026-10-15",
+      "tags": [
+        "Accessibility"
+      ],
+      "design_intent": [
+        "Accessibility"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Exploration & simulation",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "open-drive",
+      "title": "Open Drive",
+      "title_zh": "眼控自由驾驶",
+      "category": "无障碍眼控",
+      "genre": "驾驶",
+      "device": "兼容眼动仪",
+      "platform": "浏览器",
+      "interaction": "眼控为主",
+      "description": "在开放场地驾驶车辆、挑战坡道与特技并收集奖杯，支持多种眼控设置。",
+      "features": [
+        "眼控操作",
+        "多种辅助输入"
+      ],
+      "sources": [
+        {
+          "title": "SpecialEffect",
+          "url": "https://www.specialeffect.org.uk/news/take-a-spin-with-open-drive-our-new-eye-gaze-game"
+        },
+        {
+          "title": "Eye Gaze Games 游戏入口",
+          "url": "https://www.eyegazegames.com/"
+        }
+      ],
+      "image_url": "https://www.specialeffect.org.uk/wp-content/uploads/2022/04/OD_TW.jpg",
+      "image_source": "https://www.specialeffect.org.uk/news/take-a-spin-with-open-drive-our-new-eye-gaze-game",
+      "image_credit": "SpecialEffect",
+      "image_kind": "官方游戏宣传图／截图",
+      "image_license": "第三方版权，未纳入开放数据许可",
+      "availability": "免费浏览器游戏",
+      "notes": "通过 Eye Gaze Games 进入；需要眼动仪与相应指针控制软件。",
+      "year": null,
+      "verified_at": "2026-10-15",
+      "tags": [
+        "Accessibility"
+      ],
+      "design_intent": [
+        "Accessibility"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Driving & racing",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "sensory-eye-fx-2",
+      "title": "Sensory Eye FX 2",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "image_url": "https://sensoryguru.com/wp-content/uploads/2024/12/SFX2_size.png",
+      "image_source": "https://sensoryguru.com/product/sensory-eye-fx-2/",
+      "image_credit": "原作者／发布者",
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "sources": [
+        {
+          "title": "官方资料 / Official documentation",
+          "url": "https://sensoryguru.com/product/sensory-eye-fx-2/"
+        }
+      ],
+      "tags": [
+        "Accessibility",
+        "Training"
+      ],
+      "entry_type": "Activity suite",
+      "design_intent": [
+        "Accessibility",
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "customizability": "可配置",
+      "target_users": "眼控学习者",
+      "evaluation": "官方资料核查，未实机测试",
+      "awards": [],
+      "title_zh": "感官眼控活动集 2",
+      "category": "无障碍眼控",
+      "genre": "技能学习与游戏活动",
+      "platform": "Windows / TD Pilot iPadOS",
+      "device": "兼容眼动仪与指针控制软件",
+      "interaction": "眼控为主",
+      "description": "面向早期眼控学习的可定制活动集，从注视触发反应逐步过渡到区域探索、视觉搜索和停留选择，并提供热图。",
+      "features": [
+        "注视响应",
+        "停留选择",
+        "个性化刺激"
+      ],
+      "availability": "产品／演示资料可查；许可及当前下载以官方为准",
+      "notes": "按活动集计一次。官方支持指定 Tobii Dynavox 设备；Windows 与 TD Pilot 的许可和功能条件不同。",
+      "genre_family": "Learning & training",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。"
+    },
+    {
+      "id": "sudoku",
+      "title": "Sudoku · Eye Gaze Games",
+      "title_zh": "眼控数独",
+      "category": "无障碍眼控",
+      "genre": "益智",
+      "device": "兼容眼动仪",
+      "platform": "浏览器",
+      "interaction": "眼控为主",
+      "description": "Eye Gaze Games 中的数独游戏，提供适合眼控玩家的浏览器游戏入口。",
+      "features": [
+        "停留选择",
+        "可调眼控设置"
+      ],
+      "sources": [
+        {
+          "title": "SpecialEffect / GameAccess",
+          "url": "https://gameaccess.info/eye-gaze-games-eye-gaze-setup-and-options/"
+        },
+        {
+          "title": "Eye Gaze Games 游戏入口",
+          "url": "https://www.eyegazegames.com/"
+        }
+      ],
+      "image_url": "https://gameaccess.info/wp-content/uploads/2020/12/Homescreen.png",
+      "image_source": "https://gameaccess.info/eye-gaze-games-eye-gaze-setup-and-options/",
+      "image_credit": "SpecialEffect / GameAccess",
+      "image_kind": "游戏集合首页（包含数独）",
+      "image_license": "第三方版权，未纳入开放数据许可",
+      "availability": "免费浏览器游戏",
+      "notes": "以官方说明列出的游戏为收录依据；实际入口与版本以 Eye Gaze Games 为准。",
+      "year": null,
+      "verified_at": "2026-10-15",
+      "tags": [
+        "Accessibility"
+      ],
+      "design_intent": [
+        "Accessibility"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Puzzle & board",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "ats",
+      "title": "American Truck Simulator",
+      "platform": "Windows PC",
+      "sources": [
+        {
+          "title": "Tobii Gaming — American Truck Simulator",
+          "url": "https://gaming.tobii.com/games/american-truck-simulator/"
+        },
+        {
+          "title": "Steam — American Truck Simulator",
+          "url": "https://store.steampowered.com/app/270880/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2018/03/ATS-Tobii-Eye-Tracking-SEO1.jpg",
+      "image_source": "https://gaming.tobii.com/games/american-truck-simulator/",
+      "image_credit": "Tobii Gaming / game publisher",
+      "year": 2016,
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Commercial",
+        "Steam"
+      ],
+      "distribution_url": "https://store.steampowered.com/app/270880/",
+      "evidence_level": "Primary source",
+      "support_scope": "Cited Windows PC eye-tracking integration",
+      "title_zh": "美国卡车模拟",
+      "category": "商业游戏",
+      "genre": "驾驶模拟",
+      "device": "Tobii 眼动仪",
+      "interaction": "眼动辅助",
+      "description": "在美国公路完成运输任务。结合视线与头部运动观察车外交通，双手可以继续操作方向盘。",
+      "features": [
+        "眼动与头动视角"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "商业发行",
+      "notes": "眼动辅助传统输入，仍需键鼠、手柄或专用控制器。此记录限定所引用的 Windows PC 集成；硬件、驱动与游戏版本需匹配。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Driving & racing",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "odyssey",
+      "title": "Assassin’s Creed Odyssey",
+      "title_zh": "刺客信条：奥德赛",
+      "category": "商业游戏",
+      "genre": "开放世界",
+      "device": "Tobii 眼动仪",
+      "platform": "Windows PC",
+      "interaction": "眼动辅助",
+      "description": "探索古希腊的开放世界。利用视线标记敌人、辅助瞄准与锁定目标，让观察和战斗操作更连贯。",
+      "features": [
+        "敌人标记",
+        "注视瞄准",
+        "目标锁定"
+      ],
+      "sources": [
+        {
+          "title": "Tobii Gaming",
+          "url": "https://gaming.tobii.com/games/assassins-creed-odyssey/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2018/09/Play-Assassins-Creed-Odyssey-with-Tobii-Eye-Tracking.png",
+      "image_source": "https://gaming.tobii.com/games/assassins-creed-odyssey/",
+      "image_credit": "Tobii Gaming",
+      "image_kind": "官方游戏宣传图／截图",
+      "image_license": "第三方版权，未纳入开放数据许可",
+      "availability": "商业发行",
+      "notes": "眼动为辅助输入；仍需键鼠或手柄。功能与兼容性以所链接的 PC 版本说明为准。",
+      "year": null,
+      "verified_at": "2026-10-15",
+      "tags": [
+        "Commercial"
+      ],
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Exploration & simulation",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "origins",
+      "title": "Assassin’s Creed Origins",
+      "platform": "Windows PC",
+      "sources": [
+        {
+          "title": "Tobii Gaming — Assassin’s Creed Origins",
+          "url": "https://gaming.tobii.com/games/assassins-creed-origins/"
+        },
+        {
+          "title": "Steam — Assassin’s Creed Origins",
+          "url": "https://store.steampowered.com/app/582160/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2017/09/assassins-creed-origins-with-tobii-eye-tracking.png",
+      "image_source": "https://gaming.tobii.com/games/assassins-creed-origins/",
+      "image_credit": "Tobii Gaming / game publisher",
+      "year": 2017,
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Commercial",
+        "Steam"
+      ],
+      "distribution_url": "https://store.steampowered.com/app/582160/",
+      "evidence_level": "Primary source",
+      "support_scope": "Cited Windows PC eye-tracking integration",
+      "title_zh": "刺客信条：起源",
+      "category": "商业游戏",
+      "genre": "开放世界",
+      "device": "Tobii 眼动仪",
+      "interaction": "眼动辅助",
+      "description": "探索古埃及。视线用于标记敌人、辅助瞄准、锁定目标和拾取，摄像机及光照也会响应视线。",
+      "features": [
+        "敌人标记",
+        "注视瞄准",
+        "注视拾取",
+        "动态光照"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "商业发行",
+      "notes": "眼动辅助传统输入，仍需键鼠、手柄或专用控制器。此记录限定所引用的 Windows PC 集成；硬件、驱动与游戏版本需匹配。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Exploration & simulation",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "valhalla",
+      "title": "Assassin’s Creed Valhalla",
+      "title_zh": "刺客信条：英灵殿",
+      "category": "商业游戏",
+      "genre": "开放世界",
+      "device": "Tobii 眼动仪",
+      "platform": "Windows PC",
+      "interaction": "眼动辅助",
+      "description": "在维京时代探索与战斗，注视位置可决定初始瞄准，也能用于选取拾取物；视角与光照随视线响应。",
+      "features": [
+        "注视瞄准",
+        "注视交互",
+        "动态光照"
+      ],
+      "sources": [
+        {
+          "title": "Tobii Gaming",
+          "url": "https://gaming.tobii.com/games/assassins-creed-valhalla/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2020/06/assassins-creed-valhalla-seo.jpg",
+      "image_source": "https://gaming.tobii.com/games/assassins-creed-valhalla/",
+      "image_credit": "Tobii Gaming",
+      "image_kind": "官方游戏宣传图／截图",
+      "image_license": "第三方版权，未纳入开放数据许可",
+      "availability": "商业发行",
+      "notes": "眼动为辅助输入；仍需键鼠或手柄。功能与兼容性以所链接的 PC 版本说明为准。",
+      "year": null,
+      "verified_at": "2026-10-15",
+      "tags": [
+        "Commercial"
+      ],
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Exploration & simulation",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "dcs",
+      "title": "DCS World",
+      "platform": "Windows PC",
+      "sources": [
+        {
+          "title": "Tobii Gaming — DCS World",
+          "url": "https://gaming.tobii.com/games/dcs-world/"
+        },
+        {
+          "title": "Steam — DCS World",
+          "url": "https://store.steampowered.com/app/223750/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2017/11/DCS-World-Tobii-Eye-Tracking-SEO.jpg",
+      "image_source": "https://gaming.tobii.com/games/dcs-world/",
+      "image_credit": "Tobii Gaming / game publisher",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Commercial",
+        "Steam"
+      ],
+      "distribution_url": "https://store.steampowered.com/app/223750/",
+      "evidence_level": "Primary source",
+      "support_scope": "Cited Windows PC eye-tracking integration",
+      "title_zh": "DCS World",
+      "category": "商业游戏",
+      "genre": "军用飞行模拟",
+      "device": "Tobii 眼动仪",
+      "interaction": "眼动辅助",
+      "description": "体验军用飞机飞行与空战。官方 Tobii 集成使用眼动和头动移动驾驶室摄像机，并提供 Camera Boost；不表示用眼直接操纵飞机。",
+      "features": [
+        "眼动与头动视角",
+        "Camera Boost"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "商业发行",
+      "notes": "眼动辅助传统输入，仍需键鼠、手柄或专用控制器。此记录限定所引用的 Windows PC 集成；硬件、驱动与游戏版本需匹配。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Flight simulation",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "deus-ex",
+      "title": "Deus Ex: Mankind Divided",
+      "platform": "Windows PC",
+      "sources": [
+        {
+          "title": "Tobii Gaming — Deus Ex: Mankind Divided",
+          "url": "https://gaming.tobii.com/games/deus-ex-mankind-divided/"
+        },
+        {
+          "title": "Steam — Deus Ex: Mankind Divided",
+          "url": "https://store.steampowered.com/app/337000/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2017/10/Deus-Ex-Mankind-Divided-with-Tobii-Eye-Tracking.png",
+      "image_source": "https://gaming.tobii.com/games/deus-ex-mankind-divided/",
+      "image_credit": "Tobii Gaming / game publisher",
+      "year": 2016,
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Commercial",
+        "Steam"
+      ],
+      "distribution_url": "https://store.steampowered.com/app/337000/",
+      "evidence_level": "Primary source",
+      "support_scope": "Cited Windows PC eye-tracking integration",
+      "title_zh": "杀出重围：人类分裂",
+      "category": "商业游戏",
+      "genre": "动作角色扮演",
+      "device": "Tobii 眼动仪",
+      "interaction": "眼动辅助",
+      "description": "在赛博朋克城市中潜入和战斗。注视帮助选择瞄准、交互、掩体及 Icarus Dash 的方向，也可选择快捷背包物品。",
+      "features": [
+        "注视瞄准",
+        "注视交互",
+        "注视冲刺",
+        "快捷背包选择"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "商业发行",
+      "notes": "眼动辅助传统输入，仍需键鼠、手柄或专用控制器。此记录限定所引用的 Windows PC 集成；硬件、驱动与游戏版本需匹配。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Action & arcade",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "dyinglight",
+      "title": "Dying Light",
+      "platform": "Windows PC",
+      "sources": [
+        {
+          "title": "Tobii Gaming — Dying Light",
+          "url": "https://gaming.tobii.com/games/dying-light/"
+        },
+        {
+          "title": "Steam — Dying Light",
+          "url": "https://store.steampowered.com/app/239140/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2022/10/dying-light-hero.jpg",
+      "image_source": "https://gaming.tobii.com/games/dying-light/",
+      "image_credit": "Tobii Gaming / game publisher",
+      "year": 2015,
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Commercial",
+        "Steam"
+      ],
+      "distribution_url": "https://store.steampowered.com/app/239140/",
+      "evidence_level": "Primary source",
+      "support_scope": "Cited Windows PC eye-tracking integration",
+      "title_zh": "消逝的光芒",
+      "category": "商业游戏",
+      "genre": "生存恐怖与跑酷",
+      "device": "Tobii 眼动仪",
+      "interaction": "眼动辅助",
+      "description": "在感染者城市中跑酷求生。视线可辅助武器瞄准、投掷、攀爬及手电筒方向，感染者也可能对你的注视作出反应。",
+      "features": [
+        "注视瞄准",
+        "手电筒控制",
+        "注视攀爬",
+        "敌人注视感知"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "商业发行",
+      "notes": "眼动辅助传统输入，仍需键鼠、手柄或专用控制器。此记录限定所引用的 Windows PC 集成；硬件、驱动与游戏版本需匹配。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Horror",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "elite-dangerous",
+      "title": "Elite Dangerous",
+      "platform": "Windows PC",
+      "sources": [
+        {
+          "title": "Tobii Gaming — Elite Dangerous",
+          "url": "https://gaming.tobii.com/games/elite-dangerous/"
+        },
+        {
+          "title": "Steam — Elite Dangerous",
+          "url": "https://store.steampowered.com/app/359320/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2021/05/elite-dangerous-odyssey-seo.png",
+      "image_source": "https://gaming.tobii.com/games/elite-dangerous/",
+      "image_credit": "Tobii Gaming / game publisher",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Commercial",
+        "Steam"
+      ],
+      "distribution_url": "https://store.steampowered.com/app/359320/",
+      "evidence_level": "Primary source",
+      "support_scope": "Cited Windows PC eye-tracking integration",
+      "title_zh": "精英：危险",
+      "category": "商业游戏",
+      "genre": "太空模拟",
+      "device": "Tobii 眼动仪",
+      "interaction": "眼动辅助",
+      "description": "在开放银河中飞行、探索和交易。眼动与头动辅助驾驶室观察，注视 HUD 区域可改变界面显示。",
+      "features": [
+        "驾驶室自由观察",
+        "注视响应界面"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "商业发行",
+      "notes": "眼动辅助传统输入，仍需键鼠、手柄或专用控制器。此记录限定所引用的 Windows PC 集成；硬件、驱动与游戏版本需匹配。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Exploration & simulation",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "f12020",
+      "title": "F1 2020",
+      "platform": "Windows PC",
+      "sources": [
+        {
+          "title": "Tobii Gaming — F1 2020",
+          "url": "https://gaming.tobii.com/games/f1-2020/"
+        },
+        {
+          "title": "Steam — F1 2020",
+          "url": "https://store.steampowered.com/app/1080110/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2020/07/f1-2020-seo.jpg",
+      "image_source": "https://gaming.tobii.com/games/f1-2020/",
+      "image_credit": "Tobii Gaming / game publisher",
+      "year": 2020,
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Commercial",
+        "Historical",
+        "Steam"
+      ],
+      "distribution_url": "https://store.steampowered.com/app/1080110/",
+      "evidence_level": "Primary source",
+      "support_scope": "Cited Windows PC eye-tracking integration",
+      "title_zh": "F1 2020",
+      "category": "商业游戏",
+      "genre": "赛车模拟",
+      "device": "Tobii 眼动仪",
+      "interaction": "眼动辅助",
+      "description": "驾驶一级方程式赛车并经营车队。眼动与头动控制车内视角，HUD 在未被注视时淡出。",
+      "features": [
+        "眼动与头动视角",
+        "简洁界面"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "历史商业发行；Steam 已停售",
+      "notes": "眼动辅助传统输入，仍需键鼠、手柄或专用控制器。此记录限定所引用的 Windows PC 集成；硬件、驱动与游戏版本需匹配。 Steam 页面明确标注已停售；保留作为历史眼动集成案例。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Driving & racing",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "f122",
+      "title": "F1 22",
+      "platform": "Windows PC",
+      "sources": [
+        {
+          "title": "Tobii Gaming — F1 22",
+          "url": "https://gaming.tobii.com/games/f1-22/"
+        },
+        {
+          "title": "Steam — F1 22",
+          "url": "https://store.steampowered.com/app/1692250/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2022/06/f1-22-seo.png",
+      "image_source": "https://gaming.tobii.com/games/f1-22/",
+      "image_credit": "Tobii Gaming / game publisher",
+      "year": 2022,
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Commercial",
+        "Historical",
+        "Steam"
+      ],
+      "distribution_url": "https://store.steampowered.com/app/1692250/",
+      "evidence_level": "Primary source",
+      "support_scope": "Cited Windows PC eye-tracking integration",
+      "title_zh": "F1 22",
+      "category": "商业游戏",
+      "genre": "赛车模拟",
+      "device": "Tobii 眼动仪",
+      "interaction": "眼动辅助",
+      "description": "体验 2022 赛季的一级方程式赛事。视线参与车内观察，比赛 HUD 仅在注视时清晰显示。",
+      "features": [
+        "眼动与头动视角",
+        "注视响应 HUD"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "历史商业发行；Steam 已停售",
+      "notes": "眼动辅助传统输入，仍需键鼠、手柄或专用控制器。此记录限定所引用的 Windows PC 集成；硬件、驱动与游戏版本需匹配。 Steam 页面明确标注已停售；保留作为历史眼动集成案例。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Driving & racing",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "f125",
+      "title": "F1 25",
+      "platform": "Windows PC",
+      "sources": [
+        {
+          "title": "Tobii Gaming — F1 25",
+          "url": "https://gaming.tobii.com/games/f1-2025/"
+        },
+        {
+          "title": "Steam — F1 25",
+          "url": "https://store.steampowered.com/app/3059520/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2025/07/packshot25.jpg",
+      "image_source": "https://gaming.tobii.com/games/f1-2025/",
+      "image_credit": "Tobii Gaming / game publisher",
+      "year": 2025,
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Commercial",
+        "Steam"
+      ],
+      "distribution_url": "https://store.steampowered.com/app/3059520/",
+      "evidence_level": "Primary source",
+      "support_scope": "Cited Windows PC eye-tracking integration",
+      "title_zh": "F1 25",
+      "category": "商业游戏",
+      "genre": "赛车模拟",
+      "device": "Tobii 眼动仪",
+      "interaction": "眼动辅助",
+      "description": "在一级方程式赛车中挑战弯道与对手。摄像机响应视线，HUD 在被注视时出现，以减少驾驶画面遮挡。",
+      "features": [
+        "眼动与头动视角",
+        "简洁界面"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "商业发行",
+      "notes": "眼动辅助传统输入，仍需键鼠、手柄或专用控制器。此记录限定所引用的 Windows PC 集成；硬件、驱动与游戏版本需匹配。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Driving & racing",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "farcry5",
+      "title": "Far Cry 5",
+      "platform": "Windows PC",
+      "sources": [
+        {
+          "title": "Tobii Gaming — Far Cry 5",
+          "url": "https://gaming.tobii.com/games/far-cry-5/"
+        },
+        {
+          "title": "Steam — Far Cry 5",
+          "url": "https://store.steampowered.com/app/552520/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2018/03/far-cry-5-seo.jpg",
+      "image_source": "https://gaming.tobii.com/games/far-cry-5/",
+      "image_credit": "Tobii Gaming / game publisher",
+      "year": 2018,
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Commercial",
+        "Steam"
+      ],
+      "distribution_url": "https://store.steampowered.com/app/552520/",
+      "evidence_level": "Primary source",
+      "support_scope": "Cited Windows PC eye-tracking integration",
+      "title_zh": "孤岛惊魂 5",
+      "category": "商业游戏",
+      "genre": "开放世界射击",
+      "device": "Tobii 眼动仪",
+      "interaction": "眼动辅助",
+      "description": "在蒙大拿开放世界战斗。注视可标记敌人、辅助初始瞄准，并指示雇佣伙伴移动或攻击的位置。",
+      "features": [
+        "敌人标记",
+        "注视瞄准",
+        "伙伴指令"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "商业发行",
+      "notes": "眼动辅助传统输入，仍需键鼠、手柄或专用控制器。此记录限定所引用的 Windows PC 集成；硬件、驱动与游戏版本需匹配。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Action & arcade",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "farcry",
+      "title": "Far Cry 6",
+      "title_zh": "孤岛惊魂 6",
+      "category": "商业游戏",
+      "genre": "射击",
+      "device": "Tobii 眼动仪",
+      "platform": "Windows PC",
+      "interaction": "眼动辅助",
+      "description": "在雅拉进行开放世界战斗。眼动支持敌人标记、指挥动物伙伴，配合头动调整视角，并提供独立的灵敏度设置。",
+      "features": [
+        "敌人标记",
+        "伙伴指令",
+        "视角扩展"
+      ],
+      "sources": [
+        {
+          "title": "Tobii Gaming",
+          "url": "https://gaming.tobii.com/games/far-cry-6/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2021/06/far-cry-6-seo.jpg",
+      "image_source": "https://gaming.tobii.com/games/far-cry-6/",
+      "image_credit": "Tobii Gaming",
+      "image_kind": "官方游戏宣传图／截图",
+      "image_license": "第三方版权，未纳入开放数据许可",
+      "availability": "商业发行",
+      "notes": "眼动为辅助输入；仍需键鼠或手柄。功能与兼容性以所链接的 PC 版本说明为准。",
+      "year": null,
+      "verified_at": "2026-10-15",
+      "tags": [
+        "Commercial"
+      ],
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Action & arcade",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "farming22",
+      "title": "Farming Simulator 22",
+      "platform": "Windows PC",
+      "sources": [
+        {
+          "title": "Tobii Gaming — Farming Simulator 22",
+          "url": "https://gaming.tobii.com/games/farming-simulator-22/"
+        },
+        {
+          "title": "Steam — Farming Simulator 22",
+          "url": "https://store.steampowered.com/app/1248130/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2021/11/TOBII_FS22_SEO.jpg",
+      "image_source": "https://gaming.tobii.com/games/farming-simulator-22/",
+      "image_credit": "Tobii Gaming / game publisher",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Commercial",
+        "Steam"
+      ],
+      "distribution_url": "https://store.steampowered.com/app/1248130/",
+      "evidence_level": "Primary source",
+      "support_scope": "Cited Windows PC eye-tracking integration",
+      "title_zh": "模拟农场 22",
+      "category": "商业游戏",
+      "genre": "农业模拟",
+      "device": "Tobii 眼动仪",
+      "interaction": "眼动辅助",
+      "description": "经营农场并操作重型机械。官方介绍眼动与头动带来的车辆观察辅助，用于查看周围设备和作物。",
+      "features": [
+        "眼动与头动观察"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "商业发行",
+      "notes": "眼动辅助传统输入，仍需键鼠、手柄或专用控制器。此记录限定所引用的 Windows PC 集成；硬件、驱动与游戏版本需匹配。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Exploration & simulation",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "breakpoint",
+      "title": "Ghost Recon Breakpoint",
+      "title_zh": "幽灵行动：断点",
+      "category": "商业游戏",
+      "genre": "战术射击",
+      "device": "Tobii 眼动仪",
+      "platform": "Windows PC",
+      "interaction": "眼动辅助",
+      "description": "在极光岛开展战术行动。注视可辅助初始瞄准、标记敌人、选择指令与定位菜单光标。",
+      "features": [
+        "注视瞄准",
+        "注视标记",
+        "注视菜单选择"
+      ],
+      "sources": [
+        {
+          "title": "Tobii Gaming",
+          "url": "https://gaming.tobii.com/games/ghost-recon-breakpoint/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2019/08/GRB-StandardKeyartWIDE-041219-WITH-LOGO.jpg",
+      "image_source": "https://gaming.tobii.com/games/ghost-recon-breakpoint/",
+      "image_credit": "Tobii Gaming",
+      "image_kind": "官方游戏宣传图／截图",
+      "image_license": "第三方版权，未纳入开放数据许可",
+      "availability": "商业发行",
+      "notes": "眼动为辅助输入；仍需键鼠或手柄。功能与兼容性以所链接的 PC 版本说明为准。",
+      "year": null,
+      "verified_at": "2026-10-15",
+      "tags": [
+        "Commercial"
+      ],
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Action & arcade",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "hitman2016",
+      "title": "HITMAN (2016)",
+      "platform": "Windows PC",
+      "sources": [
+        {
+          "title": "Tobii Gaming — HITMAN (2016)",
+          "url": "https://gaming.tobii.com/games/hitman/"
+        },
+        {
+          "title": "Steam — HITMAN (2016)",
+          "url": "https://store.steampowered.com/app/236870/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2017/10/Hitman-Tobii-Eye-Tracking-SEO.jpg",
+      "image_source": "https://gaming.tobii.com/games/hitman/",
+      "image_credit": "Tobii Gaming / game publisher",
+      "year": 2016,
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Commercial",
+        "Historical",
+        "Steam"
+      ],
+      "distribution_url": "https://store.steampowered.com/app/236870/",
+      "evidence_level": "Primary source",
+      "support_scope": "Cited Windows PC eye-tracking integration",
+      "title_zh": "杀手（2016）",
+      "category": "商业游戏",
+      "genre": "潜行沙盒",
+      "device": "Tobii 眼动仪",
+      "interaction": "眼动辅助",
+      "description": "以特工 47 的身份潜入任务区域。眼动辅助瞄准、投掷、识别本能模式目标和视角控制；移开视线可以自动暂停。",
+      "features": [
+        "注视瞄准",
+        "注视投掷",
+        "本能目标识别",
+        "自动暂停"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "历史商业发行；Steam 已停售",
+      "notes": "眼动辅助传统输入，仍需键鼠、手柄或专用控制器。此记录限定所引用的 Windows PC 集成；硬件、驱动与游戏版本需匹配。 Steam 页面明确标注已停售；保留作为历史眼动集成案例。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Exploration & simulation",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "master-orion",
+      "title": "Master of Orion (2016)",
+      "platform": "Windows PC",
+      "sources": [
+        {
+          "title": "Tobii Gaming — Master of Orion (2016)",
+          "url": "https://gaming.tobii.com/games/master-of-orion/"
+        },
+        {
+          "title": "Steam — Master of Orion (2016)",
+          "url": "https://store.steampowered.com/app/298050/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2018/02/master-of-orion-seo.jpg",
+      "image_source": "https://gaming.tobii.com/games/master-of-orion/",
+      "image_credit": "Tobii Gaming / game publisher",
+      "year": 2016,
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Commercial",
+        "Steam"
+      ],
+      "distribution_url": "https://store.steampowered.com/app/298050/",
+      "evidence_level": "Primary source",
+      "support_scope": "Cited Windows PC eye-tracking integration",
+      "title_zh": "银河霸主（2016）",
+      "category": "商业游戏",
+      "genre": "4X 策略",
+      "device": "Tobii 眼动仪",
+      "interaction": "眼动辅助",
+      "description": "在银河中探索、外交并发展文明。眼动辅助星图定位与缩放，也支持将手柄光标跳转到注视位置。",
+      "features": [
+        "注视缩放",
+        "注视居中",
+        "手柄光标跳转"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "商业发行",
+      "notes": "眼动辅助传统输入，仍需键鼠、手柄或专用控制器。此记录限定所引用的 Windows PC 集成；硬件、驱动与游戏版本需匹配。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Strategy & management",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "msfs2020",
+      "title": "Microsoft Flight Simulator (2020)",
+      "platform": "Windows PC",
+      "sources": [
+        {
+          "title": "Tobii Gaming — Microsoft Flight Simulator (2020)",
+          "url": "https://gaming.tobii.com/games/microsoft-flight-simulator/"
+        },
+        {
+          "title": "Steam — Microsoft Flight Simulator (2020)",
+          "url": "https://store.steampowered.com/app/1250410/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2021/11/TOBII_MSFS_SEO.jpg",
+      "image_source": "https://gaming.tobii.com/games/microsoft-flight-simulator/",
+      "image_credit": "Tobii Gaming / game publisher",
+      "year": 2020,
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Commercial",
+        "Steam"
+      ],
+      "distribution_url": "https://store.steampowered.com/app/1250410/",
+      "evidence_level": "Primary source",
+      "support_scope": "Cited Windows PC eye-tracking integration",
+      "title_zh": "微软模拟飞行（2020）",
+      "category": "商业游戏",
+      "genre": "民航飞行模拟",
+      "device": "Tobii 眼动仪",
+      "interaction": "眼动辅助",
+      "description": "驾驶飞机探索世界。眼动与头动控制驾驶室摄像机，方便观察跑道、仪表及飞机周围环境。",
+      "features": [
+        "眼动与头动视角",
+        "驾驶室观察"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "商业发行",
+      "notes": "眼动辅助传统输入，仍需键鼠、手柄或专用控制器。此记录限定所引用的 Windows PC 集成；硬件、驱动与游戏版本需匹配。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Flight simulation",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "nevermind",
+      "title": "Nevermind",
+      "platform": "Windows PC",
+      "sources": [
+        {
+          "title": "Tobii Gaming — Nevermind",
+          "url": "https://gaming.tobii.com/games/nevermind/"
+        },
+        {
+          "title": "Steam — Nevermind",
+          "url": "https://store.steampowered.com/app/342260/"
+        },
+        {
+          "title": "Nevermind — official technology guide",
+          "url": "https://nevermindgame.com/tech"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2018/03/nevermind-seo.jpg",
+      "image_source": "https://gaming.tobii.com/games/nevermind/",
+      "image_credit": "Tobii Gaming / game publisher",
+      "year": 2015,
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Commercial",
+        "Indie",
+        "Steam"
+      ],
+      "distribution_url": "https://store.steampowered.com/app/342260/",
+      "evidence_level": "Primary source",
+      "support_scope": "Cited Windows PC eye-tracking integration",
+      "title_zh": "Nevermind",
+      "category": "商业游戏",
+      "genre": "心理恐怖解谜",
+      "device": "Tobii 眼动仪",
+      "interaction": "眼动辅助",
+      "description": "进入患者记忆解开恐惧。Windows 眼控模式可触发环境交互、以视线查看屏幕边缘，并通过闭眼暂停；这些功能与心率生物反馈分开。",
+      "features": [
+        "注视交互",
+        "闭眼暂停",
+        "视线边缘观察"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "商业发行",
+      "notes": "眼动辅助传统输入，仍需键鼠、手柄或专用控制器。此记录限定所引用的 Windows PC 集成；硬件、驱动与游戏版本需匹配。 开发者说明为 Tobii EyeX / Windows，旧硬件支持需确认；心率适配不作为眼动证据。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Horror",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "project-cars2",
+      "title": "Project CARS 2",
+      "platform": "Windows PC",
+      "sources": [
+        {
+          "title": "Tobii Gaming — Project CARS 2",
+          "url": "https://gaming.tobii.com/games/project-cars-2/"
+        },
+        {
+          "title": "Steam — Project CARS 2",
+          "url": "https://store.steampowered.com/app/378860/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2018/12/PC2-Tobii-Eye-Tracking-SEO.jpg",
+      "image_source": "https://gaming.tobii.com/games/project-cars-2/",
+      "image_credit": "Tobii Gaming / game publisher",
+      "year": 2017,
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Commercial",
+        "Historical",
+        "Steam"
+      ],
+      "distribution_url": "https://store.steampowered.com/app/378860/",
+      "evidence_level": "Primary source",
+      "support_scope": "Cited Windows PC eye-tracking integration",
+      "title_zh": "赛车计划 2",
+      "category": "商业游戏",
+      "genre": "赛车模拟",
+      "device": "Tobii 眼动仪",
+      "interaction": "眼动辅助",
+      "description": "参加多种赛车赛事。看向屏幕边缘或转头可移动驾驶视角，帮助观察弯道与对手。",
+      "features": [
+        "眼动与头动视角"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "历史商业发行；Steam 已停售",
+      "notes": "眼动辅助传统输入，仍需键鼠、手柄或专用控制器。此记录限定所引用的 Windows PC 集成；硬件、驱动与游戏版本需匹配。 Steam 页面明确标注已停售；保留作为历史眼动集成案例。 Tobii 要求以 Steam VR 模式启动并启用 helmet cam；不等于普通 VR 头显自带眼动。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Driving & racing",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "tomb",
+      "title": "Shadow of the Tomb Raider",
+      "title_zh": "古墓丽影：暗影",
+      "category": "商业游戏",
+      "genre": "动作冒险",
+      "device": "Tobii 眼动仪",
+      "platform": "Windows PC",
+      "interaction": "眼动辅助",
+      "description": "扮演劳拉探索丛林与遗迹。眼动可辅助选择瞄准与投掷目标，并在生存本能模式下突出注视的对象。",
+      "features": [
+        "注视瞄准",
+        "注视投掷",
+        "眼动与头动视角"
+      ],
+      "sources": [
+        {
+          "title": "Tobii Gaming",
+          "url": "https://gaming.tobii.com/games/shadow-of-the-tomb-raider/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2018/08/Shadow-of-the-Tomb-Raider-with-Tobii-Eye-Tracking.png",
+      "image_source": "https://gaming.tobii.com/games/shadow-of-the-tomb-raider/",
+      "image_credit": "Tobii Gaming",
+      "image_kind": "官方游戏宣传图／截图",
+      "image_license": "第三方版权，未纳入开放数据许可",
+      "availability": "商业发行",
+      "notes": "眼动为辅助输入；仍需键鼠或手柄。功能与兼容性以所链接的 PC 版本说明为准。",
+      "year": null,
+      "verified_at": "2026-10-15",
+      "tags": [
+        "Commercial"
+      ],
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Action & arcade",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "star-citizen",
+      "title": "Star Citizen",
+      "platform": "Windows PC",
+      "sources": [
+        {
+          "title": "Tobii Gaming — Star Citizen",
+          "url": "https://gaming.tobii.com/games/star-citizen/"
+        },
+        {
+          "title": "Tobii Help — Star Citizen settings",
+          "url": "https://help.tobii.com/hc/en-us/articles/360016498378-Star-Citizen"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2020/11/TOBII_SC-Opengraph.jpg",
+      "image_source": "https://gaming.tobii.com/games/star-citizen/",
+      "image_credit": "Tobii Gaming / game publisher",
+      "year": null,
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Commercial"
+      ],
+      "distribution_url": "https://robertsspaceindustries.com/star-citizen",
+      "evidence_level": "Primary source",
+      "support_scope": "Cited Windows PC eye-tracking integration",
+      "title_zh": "星际公民",
+      "category": "商业游戏",
+      "genre": "太空模拟",
+      "device": "Tobii 眼动仪",
+      "interaction": "眼动辅助",
+      "description": "在持续开发的太空世界中飞行、战斗与探索。注视可以选择锁定目标，眼动与头动共同控制驾驶室视角。",
+      "features": [
+        "注视目标选择",
+        "眼动与头动视角"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "持续开发中的商业游戏",
+      "notes": "眼动辅助传统输入，仍需键鼠、手柄或专用控制器。此记录限定所引用的 Windows PC 集成；硬件、驱动与游戏版本需匹配。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Exploration & simulation",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "switchback",
+      "title": "The Dark Pictures: Switchback VR",
+      "platform": "PS5 / PS VR2",
+      "sources": [
+        {
+          "title": "PlayStation — The Dark Pictures: Switchback VR",
+          "url": "https://blog.playstation.com/2023/02/15/from-rush-of-blood-to-switchback-vr-supermassive-games-discusses-leveling-up-on-ps-vr2/"
+        }
+      ],
+      "image_url": "https://blog.playstation.com/tachyon/2023/02/2b784f705f68f539a6c09599c36389226225d829-scaled.jpg",
+      "image_source": "https://blog.playstation.com/2023/02/15/from-rush-of-blood-to-switchback-vr-supermassive-games-discusses-leveling-up-on-ps-vr2/",
+      "image_credit": "PlayStation / game publisher",
+      "year": 2023,
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Commercial",
+        "VR"
+      ],
+      "distribution_url": "https://blog.playstation.com/2023/02/15/from-rush-of-blood-to-switchback-vr-supermassive-games-discusses-leveling-up-on-ps-vr2/",
+      "evidence_level": "Primary source",
+      "support_scope": "PS VR2 version only",
+      "title_zh": "黑相集：Switchback VR",
+      "category": "商业游戏",
+      "genre": "VR 恐怖轨道射击",
+      "device": "PS VR2 内置眼动追踪",
+      "interaction": "眼动与手柄协同",
+      "description": "乘坐恐怖过山车射击求生。眨眼会触发部分敌人行动，另一些敌人只在你没有看着它们时移动。",
+      "features": [
+        "眨眼触发",
+        "敌人注视感知"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "商业发行",
+      "notes": "眼动功能限定 PS VR2 版本；其他平台或同名版本不自动具有此功能。仍需传统控制器操作。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Horror",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "eyeasteroids",
+      "title": "Tobii EyeAsteroids",
+      "title_zh": "Tobii EyeAsteroids",
+      "year": 2011,
+      "sources": [
+        {
+          "title": "Tobii official launch press release, 2011",
+          "url": "https://www.mynewsdesk.com/us/tobii_technology/pressreleases/just-one-look-tobii-eyeasteroids-lets-gamers-save-the-world-with-a-glance-one-asteroid-at-a-time-701800"
+        },
+        {
+          "title": "Tobii official archival arcade image, 2012",
+          "url": "https://news.cision.com/tobii-tech/i/tobii-eyeasteroids-eye-controlled-arcade-game,c1624115"
+        }
+      ],
+      "image_url": "https://mb.cision.com/Public/11917/9720777/bde2f1a0d66ebd53_org.png",
+      "image_source": "https://news.cision.com/tobii-tech/i/tobii-eyeasteroids-eye-controlled-arcade-game,c1624115",
+      "image_credit": "Original creator / 原作者",
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "verified_at": "2026-10-16",
+      "awards": [],
+      "category": "商业游戏",
+      "genre": "街机／小行星射击",
+      "device": "专用 Tobii 眼控街机",
+      "platform": "专用街机机柜",
+      "interaction": "眼动核心玩法",
+      "description": "通过注视飞向地球的小行星发射激光，完全用眼睛完成射击。2011 年公开展示并限量销售的眼控街机。",
+      "features": [
+        "注视目标射击",
+        "免手操作"
+      ],
+      "availability": "历史商业街机；当前购买与展出位置未核实",
+      "notes": "2011 年新闻稿曾宣布限量生产销售；这是历史状态，不能视为目前仍可购买。此记录不把 EyeX 后来的下载版本与街机混为同一运行条件。",
+      "evidence": "Tobii 2011 年官方新闻稿明确描述注视发射激光、Times Square 展示与限量机柜销售。",
+      "tags": [
+        "Arcade",
+        "Commercial",
+        "Hands-free",
+        "Historical"
+      ],
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Game",
+      "genre_family": "Action & arcade",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "wildlands",
+      "title": "Tom Clancy’s Ghost Recon Wildlands",
+      "platform": "Windows PC",
+      "sources": [
+        {
+          "title": "Tobii Gaming — Tom Clancy’s Ghost Recon Wildlands",
+          "url": "https://gaming.tobii.com/games/tom-clancys-ghost-recon-wildlands/"
+        },
+        {
+          "title": "Steam — Tom Clancy’s Ghost Recon Wildlands",
+          "url": "https://store.steampowered.com/app/460930/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2017/10/Ghost-Recon-Wildlands-with-Tobii-Eye-Tracking.png",
+      "image_source": "https://gaming.tobii.com/games/tom-clancys-ghost-recon-wildlands/",
+      "image_credit": "Tobii Gaming / game publisher",
+      "year": 2017,
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Commercial",
+        "Steam"
+      ],
+      "distribution_url": "https://store.steampowered.com/app/460930/",
+      "evidence_level": "Primary source",
+      "support_scope": "Cited Windows PC eye-tracking integration",
+      "title_zh": "幽灵行动：荒野",
+      "category": "商业游戏",
+      "genre": "战术射击",
+      "device": "Tobii 眼动仪",
+      "interaction": "眼动辅助",
+      "description": "在开放世界执行小队任务。用注视选择通讯轮盘命令、标记敌人和辅助瞄准，并结合头动扩展视角。",
+      "features": [
+        "通讯轮盘",
+        "注视标记",
+        "注视瞄准"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "商业发行",
+      "notes": "眼动辅助传统输入，仍需键鼠、手柄或专用控制器。此记录限定所引用的 Windows PC 集成；硬件、驱动与游戏版本需匹配。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Action & arcade",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "division2",
+      "title": "Tom Clancy’s The Division 2",
+      "platform": "Windows PC",
+      "sources": [
+        {
+          "title": "Tobii Gaming — Tom Clancy’s The Division 2",
+          "url": "https://gaming.tobii.com/games/the-division-2/"
+        },
+        {
+          "title": "Steam — Tom Clancy’s The Division 2",
+          "url": "https://store.steampowered.com/app/2221490/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2019/01/D2-Tobii-Eye-Tracking-SEO.jpg",
+      "image_source": "https://gaming.tobii.com/games/the-division-2/",
+      "image_credit": "Tobii Gaming / game publisher",
+      "year": 2019,
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Commercial",
+        "Steam"
+      ],
+      "distribution_url": "https://store.steampowered.com/app/2221490/",
+      "evidence_level": "Primary source",
+      "support_scope": "Cited Windows PC eye-tracking integration",
+      "title_zh": "全境封锁 2",
+      "category": "商业游戏",
+      "genre": "掩体射击",
+      "device": "Tobii 眼动仪",
+      "interaction": "眼动辅助",
+      "description": "在华盛顿执行合作战斗任务。视线帮助选择掩体、瞄准敌人、标记优先目标和确定手榴弹投掷位置。",
+      "features": [
+        "注视掩体",
+        "注视瞄准",
+        "注视投掷",
+        "目标标记"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "商业发行",
+      "notes": "眼动辅助传统输入，仍需键鼠、手柄或专用控制器。此记录限定所引用的 Windows PC 集成；硬件、驱动与游戏版本需匹配。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Action & arcade",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "overworld",
+      "title": "War for the Overworld",
+      "platform": "Windows PC",
+      "sources": [
+        {
+          "title": "Tobii Gaming — War for the Overworld",
+          "url": "https://gaming.tobii.com/games/war-for-the-overworld/"
+        },
+        {
+          "title": "Steam — War for the Overworld",
+          "url": "https://store.steampowered.com/app/230190/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2017/12/WarForTheOverworld-TobiiEyeTracking.jpg",
+      "image_source": "https://gaming.tobii.com/games/war-for-the-overworld/",
+      "image_credit": "Tobii Gaming / game publisher",
+      "year": 2015,
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Commercial",
+        "Indie",
+        "Steam"
+      ],
+      "distribution_url": "https://store.steampowered.com/app/230190/",
+      "evidence_level": "Primary source",
+      "support_scope": "Cited Windows PC eye-tracking integration",
+      "title_zh": "超越世界之战",
+      "category": "商业游戏",
+      "genre": "地城经营与策略",
+      "device": "Tobii 眼动仪",
+      "interaction": "眼动辅助",
+      "description": "建设地城并指挥部下迎击英雄。眼动辅助把视图居中到注视位置，并通过弹性缩放快速查看战场。",
+      "features": [
+        "注视居中",
+        "弹性缩放"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "商业发行",
+      "notes": "眼动辅助传统输入，仍需键鼠、手柄或专用控制器。此记录限定所引用的 Windows PC 集成；硬件、驱动与游戏版本需匹配。 该集成需要 Tobii Game Hub。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Strategy & management",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "watch-dogs2",
+      "title": "Watch Dogs 2",
+      "platform": "Windows PC",
+      "sources": [
+        {
+          "title": "Tobii Gaming — Watch Dogs 2",
+          "url": "https://gaming.tobii.com/games/watch-dogs-2/"
+        },
+        {
+          "title": "Steam — Watch Dogs 2",
+          "url": "https://store.steampowered.com/app/447040/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2017/10/Watch-Dogs-2-with-Tobii-Eye-Tracking.png",
+      "image_source": "https://gaming.tobii.com/games/watch-dogs-2/",
+      "image_credit": "Tobii Gaming / game publisher",
+      "year": 2016,
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Commercial",
+        "Steam"
+      ],
+      "distribution_url": "https://store.steampowered.com/app/447040/",
+      "evidence_level": "Primary source",
+      "support_scope": "Cited Windows PC eye-tracking integration",
+      "title_zh": "看门狗 2",
+      "category": "商业游戏",
+      "genre": "开放世界",
+      "device": "Tobii 眼动仪",
+      "interaction": "眼动辅助",
+      "description": "在旧金山展开黑客行动。注视可选择可入侵对象、瞄准目标与掩体，并辅助地图缩放。",
+      "features": [
+        "注视入侵",
+        "注视瞄准",
+        "注视掩体",
+        "地图缩放"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "商业发行",
+      "notes": "眼动辅助传统输入，仍需键鼠、手柄或专用控制器。此记录限定所引用的 Windows PC 集成；硬件、驱动与游戏版本需匹配。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Exploration & simulation",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "legion",
+      "title": "Watch Dogs: Legion",
+      "title_zh": "看门狗：军团",
+      "category": "商业游戏",
+      "genre": "开放世界",
+      "device": "Tobii 眼动仪",
+      "platform": "Windows PC",
+      "interaction": "眼动辅助",
+      "description": "在未来伦敦招募成员与执行任务。可以看向黑入目标或武器轮盘选项，界面也会按注视情况淡入淡出。",
+      "features": [
+        "注视黑入",
+        "轮盘选择",
+        "注视响应界面"
+      ],
+      "sources": [
+        {
+          "title": "Tobii Gaming",
+          "url": "https://gaming.tobii.com/games/watch-dogs-legion/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2019/10/watchdogs-legion-seo.jpg",
+      "image_source": "https://gaming.tobii.com/games/watch-dogs-legion/",
+      "image_credit": "Tobii Gaming",
+      "image_kind": "官方游戏宣传图／截图",
+      "image_license": "第三方版权，未纳入开放数据许可",
+      "availability": "商业发行",
+      "notes": "眼动为辅助输入；仍需键鼠或手柄。功能与兼容性以所链接的 PC 版本说明为准。",
+      "year": null,
+      "verified_at": "2026-10-15",
+      "tags": [
+        "Commercial"
+      ],
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Exploration & simulation",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "hunter",
+      "title": "theHunter: Call of the Wild",
+      "platform": "Windows PC",
+      "sources": [
+        {
+          "title": "Tobii Gaming — theHunter: Call of the Wild",
+          "url": "https://gaming.tobii.com/games/thehunter-call-of-the-wild/"
+        },
+        {
+          "title": "Steam — theHunter: Call of the Wild",
+          "url": "https://store.steampowered.com/app/518790/"
+        }
+      ],
+      "image_url": "https://gaming.tobii.com/wp-content/uploads/2017/10/HunterCOW-Tobii-Eye-Tracking-SEO.jpg",
+      "image_source": "https://gaming.tobii.com/games/thehunter-call-of-the-wild/",
+      "image_credit": "Tobii Gaming / game publisher",
+      "year": 2017,
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Commercial",
+        "Steam"
+      ],
+      "distribution_url": "https://store.steampowered.com/app/518790/",
+      "evidence_level": "Primary source",
+      "support_scope": "Cited Windows PC eye-tracking integration",
+      "title_zh": "猎人：荒野的召唤",
+      "category": "商业游戏",
+      "genre": "狩猎模拟",
+      "device": "Tobii 眼动仪",
+      "interaction": "眼动辅助",
+      "description": "探索野生动物保护区。眼动辅助瞄准、望远镜观察和地图缩放，未注视的 HUD 可淡出。",
+      "features": [
+        "注视瞄准",
+        "注视望远镜",
+        "简洁界面",
+        "动态光照"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "商业发行",
+      "notes": "眼动辅助传统输入，仍需键鼠、手柄或专用控制器。此记录限定所引用的 Windows PC 集成；硬件、驱动与游戏版本需匹配。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze assistance",
+      "entry_type": "Game",
+      "awards": [],
+      "genre_family": "Exploration & simulation",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "brewtiful-vision",
+      "title": "Brewtiful Vision",
+      "title_zh": "Brewtiful Vision",
+      "platform": "Windows PC",
+      "year": null,
+      "sources": [
+        {
+          "title": "Developer project page / 作者项目页",
+          "url": "https://vinzzman.itch.io/brewtiful-vision"
+        }
+      ],
+      "image_url": "assets/catalog/brewtiful-vision.svg",
+      "image_source": "https://vinzzman.itch.io/brewtiful-vision",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Indie",
+        "Phone tracking",
+        "Simulation",
+        "Student"
+      ],
+      "awards": [],
+      "evidence": "HAW Hamburg Gamesmaster 项目；作者称以 FaceID 追踪眼动，需手机和 PC 同网连接；未独立测定追踪精度。",
+      "category": "独立小游戏",
+      "genre": "模拟／魔药制作",
+      "device": "FaceID iPhone＋Unity Face Capture＋Windows PC",
+      "interaction": "眼动核心玩法",
+      "description": "帮助女巫用视线移动坩埚和原料，完成魔药制作。",
+      "features": [
+        "注视物体控制",
+        "手机面部捕捉"
+      ],
+      "availability": "作者页面提供下载；未实机测试",
+      "notes": "HAW Hamburg Gamesmaster 项目；作者称以 FaceID 追踪眼动，需手机和 PC 同网连接；未独立测定追踪精度。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Game",
+      "genre_family": "Learning & training",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "bushi-duel",
+      "title": "Bushi/Duel",
+      "title_zh": "Bushi/Duel",
+      "platform": "Windows PC VR / SteamVR",
+      "year": null,
+      "sources": [
+        {
+          "title": "Developer project page / 作者项目页",
+          "url": "https://hypothic.itch.io/bushiduel"
+        }
+      ],
+      "image_url": "https://img.itch.zone/aW1nLzgwNTMyNTcuanBn/original/8zVwNX.jpg",
+      "image_source": "https://hypothic.itch.io/bushiduel",
+      "image_credit": "Original developer / 原开发者",
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Indie",
+        "Multimodal",
+        "Rhythm",
+        "VR"
+      ],
+      "awards": [],
+      "evidence": "作者在 Vive Pro Eye 测试眼动；无眼动时使用头部朝向，因此不能把 Quest 2／Index 测试记为眼动支持。",
+      "category": "独立小游戏",
+      "genre": "VR／节奏战斗",
+      "device": "Vive Pro Eye＋SteamVR 头显与右手柄",
+      "interaction": "眼动与其他输入",
+      "description": "凝视接近的对手减慢时间，再按音乐节拍用刀格挡敌人的进攻。",
+      "features": [
+        "凝视减速",
+        "节奏格挡"
+      ],
+      "availability": "作者页面提供下载；未实机测试",
+      "notes": "作者在 Vive Pro Eye 测试眼动；无眼动时使用头部朝向，因此不能把 Quest 2／Index 测试记为眼动支持。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Game",
+      "genre_family": "Rhythm & music",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "coups-doeil",
+      "title": "Coups d’œil",
+      "title_zh": "Coups d’œil",
+      "platform": "Windows PC",
+      "year": null,
+      "sources": [
+        {
+          "title": "Developer project page / 作者项目页",
+          "url": "https://volo.itch.io/coups-doeil"
+        }
+      ],
+      "image_url": "assets/catalog/coups-doeil.svg",
+      "image_source": "https://volo.itch.io/coups-doeil",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Hands-free",
+        "Indie",
+        "Puzzle",
+        "Student"
+      ],
+      "awards": [],
+      "evidence": "作者明确说明仅用眼睛游玩；CNAM-ENJMIN 四人团队课程作品。",
+      "category": "独立小游戏",
+      "genre": "解谜／互动场景",
+      "device": "Tobii 眼动仪（型号未说明）",
+      "interaction": "眼动核心玩法",
+      "description": "只用眼睛点亮精灵村落，在五个关卡中与角色和场景物品互动。",
+      "features": [
+        "纯眼控",
+        "场景与角色互动"
+      ],
+      "availability": "作者页面提供下载；未实机测试",
+      "notes": "作者明确说明仅用眼睛游玩；CNAM-ENJMIN 四人团队课程作品。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Game",
+      "genre_family": "Puzzle & board",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "df-valkyrie",
+      "title": "DF-Valkyrie",
+      "title_zh": "DF-Valkyrie",
+      "platform": "Windows PC",
+      "year": null,
+      "sources": [
+        {
+          "title": "Developer project page / 作者项目页",
+          "url": "https://mechabit.itch.io/df-valkyrie"
+        }
+      ],
+      "image_url": "https://img.itch.zone/aW1hZ2UvMzEyNjMvMTMyMzQ1LmpwZw%3D%3D/original/hZGDQR.jpg",
+      "image_source": "https://mechabit.itch.io/df-valkyrie",
+      "image_credit": "Original developer / 原开发者",
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Accessibility",
+        "Game jam",
+        "Hands-free",
+        "Indie"
+      ],
+      "awards": [],
+      "evidence": "AccessibilityJam 作品；作者列出 myGaze，不能改记为 Tobii 原生集成；另支持键鼠和手柄。",
+      "category": "独立小游戏",
+      "genre": "太空射击",
+      "device": "myGaze 眼动输入／鼠标映射",
+      "interaction": "眼动核心玩法",
+      "description": "注视敌舰锁定并自动发射激光；看向屏幕边缘触发翻滚闪避。",
+      "features": [
+        "注视锁定",
+        "停留选择",
+        "边缘注视翻滚"
+      ],
+      "availability": "作者页面提供下载；未实机测试",
+      "notes": "AccessibilityJam 作品；作者列出 myGaze，不能改记为 Tobii 原生集成；另支持键鼠和手柄。",
+      "design_intent": [
+        "Accessibility"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Game",
+      "genre_family": "Action & arcade",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "defeat-inner-monsters",
+      "title": "Defeat your inner monsters",
+      "title_zh": "Defeat your inner monsters",
+      "platform": "Windows PC",
+      "year": 2016,
+      "sources": [
+        {
+          "title": "Developer project page / 作者项目页",
+          "url": "https://sebablanco.itch.io/defeat-your-monsters"
+        }
+      ],
+      "image_url": "assets/catalog/defeat-inner-monsters.svg",
+      "image_source": "https://sebablanco.itch.io/defeat-your-monsters",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Accessibility",
+        "Education",
+        "Game jam",
+        "Historical",
+        "Indie"
+      ],
+      "awards": [],
+      "evidence": "One Click Jam 2016 原型；作者称其开放源码示例，具体许可需查文件。依赖旧 EyeX 与 Physical Etoys。",
+      "category": "独立小游戏",
+      "genre": "街机／教育编程",
+      "device": "Tobii EyeX＋Physical Etoys",
+      "interaction": "眼动核心玩法",
+      "description": "用注视消灭象征走出舒适区时恐惧的怪物，也展示可访问游戏的课堂编程方式。",
+      "features": [
+        "注视消灭敌人",
+        "教学示例"
+      ],
+      "availability": "作者页面提供下载；未实机测试",
+      "notes": "One Click Jam 2016 原型；作者称其开放源码示例，具体许可需查文件。依赖旧 EyeX 与 Physical Etoys。",
+      "design_intent": [
+        "Accessibility"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Game",
+      "genre_family": "Action & arcade",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "desiree-eyes-on-you",
+      "title": "Desiree: Eyes On You",
+      "title_zh": "Desiree: Eyes On You",
+      "platform": "Windows PC",
+      "year": null,
+      "sources": [
+        {
+          "title": "Developer project page / 作者项目页",
+          "url": "https://strangeberrygames.itch.io/desiree-eoy"
+        }
+      ],
+      "image_url": "https://img.itch.zone/aW1nLzIyNjcwNTkyLnBuZw==/original/WG0TNw.png",
+      "image_source": "https://strangeberrygames.itch.io/desiree-eoy",
+      "image_credit": "Original developer / 原开发者",
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Dating sim",
+        "Indie",
+        "Prototype",
+        "Visual novel"
+      ],
+      "awards": [],
+      "evidence": "作者要求 Tobii 5；Alpha 原型，提供十一种结局。配音为作者披露的 AI 占位语音。",
+      "category": "独立小游戏",
+      "genre": "视觉小说／约会模拟",
+      "device": "Tobii Eye Tracker 5＋鼠标",
+      "interaction": "眼动与其他输入",
+      "description": "视线与选项共同影响约会互动；游移的目光会改变这段与角色相处的体验。",
+      "features": [
+        "注视社交互动",
+        "多结局"
+      ],
+      "availability": "作者页面提供下载；未实机测试",
+      "notes": "作者要求 Tobii 5；Alpha 原型，提供十一种结局。配音为作者披露的 AI 占位语音。",
+      "design_intent": [
+        "Entertainment",
+        "Social Interaction"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Game",
+      "genre_family": "Narrative & social",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "eye-am-a-dragon",
+      "title": "Eye am a Dragon",
+      "title_zh": "Eye am a Dragon",
+      "platform": "Windows PC",
+      "year": 2015,
+      "sources": [
+        {
+          "title": "Developer project page / 作者项目页",
+          "url": "https://tio.itch.io/eye-am-a-dragon"
+        }
+      ],
+      "image_url": "https://img.itch.zone/aW1hZ2UvMzcxMTcvMTYyMDM1LnBuZw==/original/WrklBA.png",
+      "image_source": "https://tio.itch.io/eye-am-a-dragon",
+      "image_credit": "Original developer / 原开发者",
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Game jam",
+        "Historical",
+        "Indie",
+        "Voice"
+      ],
+      "awards": [],
+      "evidence": "Alt Ctrl Game Jam 2015 作品；要求 The Eye Tribe 与麦克风，属于旧硬件原型。",
+      "category": "独立小游戏",
+      "genre": "街机／动作",
+      "device": "The Eye Tribe 眼动仪＋麦克风",
+      "interaction": "眼动与其他输入",
+      "description": "扮演巨龙，注视人类选定攻击方向，再用吼声喷出火焰。",
+      "features": [
+        "眼动瞄准",
+        "声音触发"
+      ],
+      "availability": "作者页面提供下载；未实机测试",
+      "notes": "Alt Ctrl Game Jam 2015 作品；要求 The Eye Tribe 与麦克风，属于旧硬件原型。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Game",
+      "genre_family": "Action & arcade",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "fast-sight",
+      "title": "Fast Sight",
+      "title_zh": "Fast Sight",
+      "platform": "Windows PC",
+      "year": null,
+      "sources": [
+        {
+          "title": "Developer project page / 作者项目页",
+          "url": "https://beyonite.itch.io/fast-sight"
+        }
+      ],
+      "image_url": "https://img.itch.zone/aW1hZ2UvOTE2NzcvNDMwNTAzLmpwZw%3D%3D/347x500/IeSFiq.jpg",
+      "image_source": "https://beyonite.itch.io/fast-sight",
+      "image_credit": "Original developer / 原开发者",
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Indie",
+        "Multiplayer",
+        "Runner"
+      ],
+      "awards": [],
+      "evidence": "作者提供独立眼动版和鼠标版下载；2017 年日志证明当时已有公开版本，未据此推断首次发行日。",
+      "category": "独立小游戏",
+      "genre": "跑酷／非对称对战",
+      "device": "Tobii 眼动仪（型号未说明）",
+      "interaction": "眼动与其他输入",
+      "description": "用视线拾取增益或删除地形，推进单人或一对一非对称跑酷对局。",
+      "features": [
+        "注视拾取",
+        "注视删除地形"
+      ],
+      "availability": "作者页面提供下载；未实机测试",
+      "notes": "作者提供独立眼动版和鼠标版下载；2017 年日志证明当时已有公开版本，未据此推断首次发行日。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Game",
+      "genre_family": "Platformer & runner",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "gazed-house",
+      "title": "Gazed House",
+      "title_zh": "Gazed House",
+      "platform": "Windows PC",
+      "year": null,
+      "sources": [
+        {
+          "title": "Developer project page / 作者项目页",
+          "url": "https://ebayyibei.itch.io/gazedhouse"
+        }
+      ],
+      "image_url": "assets/catalog/gazed-house.svg",
+      "image_source": "https://ebayyibei.itch.io/gazedhouse",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Horror",
+        "Indie",
+        "Short"
+      ],
+      "awards": [],
+      "evidence": "作者明确列出 Tobii 5、键鼠和 Tobii Experience；约二十分钟短篇。",
+      "category": "独立小游戏",
+      "genre": "恐怖／第一人称射击",
+      "device": "Tobii Eye Tracker 5＋键鼠",
+      "interaction": "眼动与其他输入",
+      "description": "探索诡异房屋，有时必须回避危险物体，有时必须持续盯住恐怖对象才能生存。",
+      "features": [
+        "注视／回避规则",
+        "眼动交互"
+      ],
+      "availability": "作者页面提供下载；未实机测试",
+      "notes": "作者明确列出 Tobii 5、键鼠和 Tobii Experience；约二十分钟短篇。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Game",
+      "genre_family": "Horror",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "gestaltzerfall",
+      "title": "Gestaltzerfall",
+      "title_zh": "Gestaltzerfall",
+      "platform": "Windows PC",
+      "year": 2026,
+      "sources": [
+        {
+          "title": "Developer project page / 作者项目页",
+          "url": "https://narlet.itch.io/gestaltzerfall"
+        }
+      ],
+      "image_url": "https://img.itch.zone/aW1hZ2UvNDY2MzAyMy8yODE2NDM4NS5wbmc%3D/347x500/TL20O%2F.png",
+      "image_source": "https://narlet.itch.io/gestaltzerfall",
+      "image_credit": "Original developer / 原开发者",
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Indie",
+        "Platformer",
+        "Puzzle",
+        "Student"
+      ],
+      "awards": [],
+      "evidence": "作者目前只确认 Tobii Pro Fusion；可关闭眼动模式。CNAM-ENJMIN 四个月学生项目，非论文实验验证。",
+      "category": "独立小游戏",
+      "genre": "解谜／平台跳跃",
+      "device": "Tobii Pro Fusion＋手柄或键鼠",
+      "interaction": "眼动与其他输入",
+      "description": "在儿童破碎的内心世界中探索，用视线改变和拆解日常物体，理解它们之间的联系。",
+      "features": [
+        "眼动改变环境",
+        "平台探索"
+      ],
+      "availability": "作者页面提供下载；未实机测试",
+      "notes": "作者目前只确认 Tobii Pro Fusion；可关闭眼动模式。CNAM-ENJMIN 四个月学生项目，非论文实验验证。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Game",
+      "genre_family": "Puzzle & board",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "glimpse-of-fear",
+      "title": "Glimpse of Fear",
+      "title_zh": "Glimpse of Fear",
+      "platform": "Windows PC",
+      "year": 2015,
+      "sources": [
+        {
+          "title": "Developer project page / 作者项目页",
+          "url": "https://beyonite.itch.io/glimpse-of-fear"
+        },
+        {
+          "title": "Tobii Gaming",
+          "url": "https://gaming.tobii.com/games/glimpse-of-fear/"
+        }
+      ],
+      "image_url": "assets/catalog/glimpse-of-fear.svg",
+      "image_source": "https://beyonite.itch.io/glimpse-of-fear",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Historical",
+        "Horror",
+        "Indie"
+      ],
+      "awards": [],
+      "evidence": "作者 itch 页与 Tobii 官方页分别记录交互；属于较早 EyeX 演示，现代兼容性未测试。",
+      "category": "独立小游戏",
+      "genre": "恐怖／冒险",
+      "device": "Tobii EyeX",
+      "interaction": "眼动与其他输入",
+      "description": "在恐怖洞穴中用视线控制手电筒，并体验注视投掷、物品交互和角色眼神响应。",
+      "features": [
+        "注视手电筒",
+        "注视投掷",
+        "周边视觉效果"
+      ],
+      "availability": "作者页面提供下载；未实机测试",
+      "notes": "作者 itch 页与 Tobii 官方页分别记录交互；属于较早 EyeX 演示，现代兼容性未测试。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Game",
+      "genre_family": "Horror",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "patin-grappin",
+      "title": "Patin Grappin",
+      "title_zh": "Patin Grappin",
+      "platform": "Windows PC",
+      "year": null,
+      "sources": [
+        {
+          "title": "Developer project page / 作者项目页",
+          "url": "https://parpin-gratin.itch.io/patin-grappin"
+        }
+      ],
+      "image_url": "https://img.itch.zone/aW1hZ2UvMjY4MjQ0LzEyOTM4OTAuanBn/347x500/k6FdsW.jpg",
+      "image_source": "https://parpin-gratin.itch.io/patin-grappin",
+      "image_credit": "Original developer / 原开发者",
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Indie",
+        "Multimodal",
+        "Racing",
+        "Student"
+      ],
+      "awards": [],
+      "evidence": "CNAM-ENJMIN 学生作品，作者明确要求 Tobii 4C；头动与眼动各有独立作用。",
+      "category": "独立小游戏",
+      "genre": "竞速／滑冰",
+      "device": "Tobii Eye Tracker 4C",
+      "interaction": "眼动与其他输入",
+      "description": "用视线选取抓钩落点、转动头部控制移动，在冰面上加速和飞跃。",
+      "features": [
+        "眼动抓钩",
+        "头动转向"
+      ],
+      "availability": "作者页面提供下载；未实机测试",
+      "notes": "CNAM-ENJMIN 学生作品，作者明确要求 Tobii 4C；头动与眼动各有独立作用。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Game",
+      "genre_family": "Driving & racing",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "rune",
+      "title": "Rune",
+      "title_zh": "Rune",
+      "platform": "Meta Quest Pro / Android APK",
+      "year": null,
+      "sources": [
+        {
+          "title": "Developer project page / 作者项目页",
+          "url": "https://momschale.itch.io/rune"
+        }
+      ],
+      "image_url": "assets/catalog/rune.svg",
+      "image_source": "https://momschale.itch.io/rune",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Indie",
+        "Multimodal",
+        "Prototype",
+        "VR"
+      ],
+      "awards": [],
+      "evidence": "作者明确要求 Quest Pro，说明空气法术使用 Eye Tracking；其他头显不保证支持。",
+      "category": "独立小游戏",
+      "genre": "VR／轨道魔法射击",
+      "device": "Meta Quest Pro",
+      "interaction": "眼动与其他输入",
+      "description": "绘制和组合符文施法；空气法术先用视线锁定目标，再以手势发射。",
+      "features": [
+        "眼动锁定",
+        "手势施法",
+        "符文组合"
+      ],
+      "availability": "作者页面提供下载；未实机测试",
+      "notes": "作者明确要求 Quest Pro，说明空气法术使用 Eye Tracking；其他头显不保证支持。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Game",
+      "genre_family": "Action & arcade",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "scp-eye-tracking-edition",
+      "title": "SCP Containment Breach – Eye Tracking Edition",
+      "title_zh": "SCP Containment Breach – Eye Tracking Edition",
+      "platform": "Windows PC",
+      "year": null,
+      "sources": [
+        {
+          "title": "Developer project page / 作者项目页",
+          "url": "https://nathanghaigh.itch.io/scp-containment-breach-eye-tracking-edition"
+        }
+      ],
+      "image_url": "https://img.itch.zone/aW1nLzI2ODExNDY4LnBuZw==/original/XwmNUy.png",
+      "image_source": "https://nathanghaigh.itch.io/scp-containment-breach-eye-tracking-edition",
+      "image_credit": "Original developer / 原开发者",
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Indie",
+        "Prototype",
+        "Student",
+        "Webcam tracking"
+      ],
+      "awards": [],
+      "evidence": "UWE Bristol 学生项目；需要 Beam Eye Tracker 与摄像头。是第三方短篇重制，不能等同原版 SCP 自带眼动支持。",
+      "category": "独立小游戏",
+      "genre": "恐怖／重制演示",
+      "device": "网络摄像头＋Beam Eye Tracker",
+      "interaction": "眼动与其他输入",
+      "description": "大学短篇重制原型，以眼动取代拾取、环境和物品栏等关键交互。",
+      "features": [
+        "眼动拾取",
+        "眼动物品栏"
+      ],
+      "availability": "作者页面提供下载；未实机测试",
+      "notes": "UWE Bristol 学生项目；需要 Beam Eye Tracker 与摄像头。是第三方短篇重制，不能等同原版 SCP 自带眼动支持。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Game",
+      "genre_family": "Horror",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "sobgob",
+      "title": "SobGob",
+      "title_zh": "SobGob",
+      "platform": "Windows PC",
+      "year": null,
+      "sources": [
+        {
+          "title": "Developer project page / 作者项目页",
+          "url": "https://blitzzart.itch.io/sobgob"
+        }
+      ],
+      "image_url": "https://img.itch.zone/aW1hZ2UvNDA1Mjc4LzIwMTE5NTkuanBn/347x500/Yrzv0S.jpg",
+      "image_source": "https://blitzzart.itch.io/sobgob",
+      "image_credit": "Original developer / 原开发者",
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Indie",
+        "Multiplayer",
+        "Prototype"
+      ],
+      "awards": [],
+      "evidence": "作者要求同网两台 PC 和两个眼动仪；是下载原型，不是单人作品。",
+      "category": "独立小游戏",
+      "genre": "双人对战／策略",
+      "device": "两台 PC＋两台 Tobii 眼动仪",
+      "interaction": "眼动核心玩法",
+      "description": "双方通过注视将球推向对手；同时看同一球会互相抵消，并可争夺影响视野的道具。",
+      "features": [
+        "局域网双人",
+        "竞争注视"
+      ],
+      "availability": "作者页面提供下载；未实机测试",
+      "notes": "作者要求同网两台 PC 和两个眼动仪；是下载原型，不是单人作品。",
+      "design_intent": [
+        "Entertainment",
+        "Social Interaction"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Game",
+      "genre_family": "Exploration & simulation",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "super-eye-tracking-battle",
+      "title": "Super Eye Tracking Battle Collection",
+      "title_zh": "Super Eye Tracking Battle Collection",
+      "platform": "Windows PC",
+      "year": 2018,
+      "sources": [
+        {
+          "title": "Developer project page / 作者项目页",
+          "url": "https://games-im-ashamed-of.itch.io/super-eye-tracking-battle-collection"
+        }
+      ],
+      "image_url": "https://img.itch.zone/aW1hZ2UvMjQxMTk4LzExNTAwOTYuanBn/original/R0oQWl.jpg",
+      "image_source": "https://games-im-ashamed-of.itch.io/super-eye-tracking-battle-collection",
+      "image_credit": "Original developer / 原开发者",
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Game jam",
+        "Indie",
+        "Input mapping",
+        "Local multiplayer"
+      ],
+      "awards": [],
+      "evidence": "Ceci n’est pas un jeu 2018 的 48 小时作品；需要眼动驱动鼠标，作者提及 AutoHotkey，并非原生眼动 API。合集只计一个条目。",
+      "category": "独立小游戏",
+      "genre": "合集／竞速／格斗",
+      "device": "Tobii 眼动仪＋鼠标映射（AutoHotkey）",
+      "interaction": "眼动核心玩法",
+      "description": "包含眼控驾驶、注视攻防格斗和双人视线对抗三个短小实验。",
+      "features": [
+        "眼控驾驶",
+        "注视攻防",
+        "双人对抗"
+      ],
+      "availability": "作者页面提供下载；未实机测试",
+      "notes": "Ceci n’est pas un jeu 2018 的 48 小时作品；需要眼动驱动鼠标，作者提及 AutoHotkey，并非原生眼动 API。合集只计一个条目。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Activity suite",
+      "genre_family": "Driving & racing",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "telekinesis-simulator",
+      "title": "Telekinesis Simulator",
+      "title_zh": "Telekinesis Simulator",
+      "platform": "Windows PC",
+      "year": 2016,
+      "sources": [
+        {
+          "title": "Developer project page / 作者项目页",
+          "url": "https://tio.itch.io/telekinesis-simulator"
+        }
+      ],
+      "image_url": "https://img.itch.zone/aW1hZ2UvODc2MjYvNDEyMTE2LmdpZg==/original/HspKwr.gif",
+      "image_source": "https://tio.itch.io/telekinesis-simulator",
+      "image_credit": "Original developer / 原开发者",
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Game jam",
+        "Historical",
+        "Indie",
+        "Multimodal"
+      ],
+      "awards": [],
+      "evidence": "Alt Ctrl Game Jam 2016 技术演示；明确依赖 EyeX 与 Leap Motion，不是仅靠眼睛完成。",
+      "category": "独立小游戏",
+      "genre": "模拟／物理沙盒",
+      "device": "Tobii EyeX＋Leap Motion",
+      "interaction": "眼动与其他输入",
+      "description": "注视选择物体，再用手掌移动、抓取和推动方块，体验隔空操控。",
+      "features": [
+        "眼动选择",
+        "手部操纵"
+      ],
+      "availability": "作者页面提供下载；未实机测试",
+      "notes": "Alt Ctrl Game Jam 2016 技术演示；明确依赖 EyeX 与 Leap Motion，不是仅靠眼睛完成。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Game",
+      "genre_family": "Exploration & simulation",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "the-candle",
+      "title": "The Candle",
+      "title_zh": "The Candle",
+      "platform": "Windows PC",
+      "year": 2020,
+      "sources": [
+        {
+          "title": "Developer project page / 作者项目页",
+          "url": "https://xieyubing123.itch.io/the-candle"
+        }
+      ],
+      "image_url": "https://img.itch.zone/aW1nLzM0MzIwOTYuanBn/original/DMRKcs.jpg",
+      "image_source": "https://xieyubing123.itch.io/the-candle",
+      "image_credit": "Original developer / 原开发者",
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "verified_at": "2026-10-16",
+      "tags": [
+        "Horror",
+        "Indie",
+        "Student"
+      ],
+      "awards": [],
+      "evidence": "作者明确要求 4C；部分操作需手柄或键盘。下载版本日期为 2020-05-12。",
+      "category": "独立小游戏",
+      "genre": "恐怖／第一人称探索",
+      "device": "Tobii Eye Tracker 4C＋手柄或键盘",
+      "interaction": "眼动与其他输入",
+      "description": "与会说话的蜡烛一起探索黑暗古宅，通过眼动互动发现秘密并尝试逃脱。",
+      "features": [
+        "眼动场景互动",
+        "探索解谜"
+      ],
+      "availability": "作者页面提供下载；未实机测试",
+      "notes": "作者明确要求 4C；部分操作需手柄或键盘。下载版本日期为 2020-05-12。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Game",
+      "genre_family": "Horror",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "overcooked-gaze-research",
+      "title": "Overcooked — collaborative gaze research environment",
+      "year": 2024,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Hulle et al. — Eyes on the Game, original paper",
+          "url": "https://arxiv.org/abs/2407.03298"
+        }
+      ],
+      "image_url": "assets/catalog/overcooked-gaze-research.svg",
+      "image_source": "https://arxiv.org/abs/2407.03298",
+      "image_credit": "Gaze Atlas contributors",
+      "tags": [
+        "Human-AI collaboration",
+        "Measurement",
+        "Research"
+      ],
+      "research_role": "measurement-only",
+      "inclusion_scope": "research-observation",
+      "awards": [],
+      "title_zh": "Overcooked：协作眼动研究环境",
+      "category": "研究观察与数据集",
+      "genre": "协作研究／烹饪",
+      "device": "实验眼动仪",
+      "platform": "Research environment",
+      "interaction": "仅观察测量",
+      "description": "研究记录协作烹饪任务中的眼动与行为，建立模型预测熟练程度、信任和意图。",
+      "features": [
+        "协作行为",
+        "意图推断"
+      ],
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "availability": "研究材料；下载可用性未验证",
+      "notes": "指论文中的 Overcooked 研究环境，不表示 Steam 商业版原生支持眼控。2024 为论文年份。",
+      "design_intent": [
+        "Assessment"
+      ],
+      "eye_role": "Measurement only",
+      "entry_type": "Research environment",
+      "genre_family": "Research environments",
+      "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "eyegrab",
+      "title": "EyeGrab",
+      "year": 2012,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Walber et al. — EuroHCIR 2012 proceedings",
+          "url": "https://people.cs.nott.ac.uk/pszmw/EuroHCIR2012-Proceedings.pdf"
+        }
+      ],
+      "image_url": "assets/catalog/eyegrab.svg",
+      "image_source": "https://people.cs.nott.ac.uk/pszmw/EuroHCIR2012-Proceedings.pdf",
+      "image_credit": "Gaze Atlas contributors",
+      "tags": [
+        "Data collection",
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "title_zh": "眼控图像分类",
+      "category": "研究原型",
+      "genre": "图像标注游戏",
+      "device": "桌面眼动仪",
+      "platform": "Research PC prototype",
+      "interaction": "注视控制与数据收集",
+      "description": "判断图片是否与给定标签相关，并以眼动操作游戏；收集注视数据帮助丰富图像上下文。",
+      "features": [
+        "注视分类",
+        "有目的游戏"
+      ],
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "availability": "研究材料；下载可用性未验证",
+      "notes": "论文收录在完整研讨会论文集中；未验证游戏软件下载。",
+      "design_intent": [
+        "Assessment"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Exploration & simulation",
+      "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "feyerball-mage",
+      "title": "Feyerball Mage",
+      "year": 2015,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Eduardo Velloso — Lancaster doctoral thesis, §6.3.5",
+          "url": "https://eprints.lancs.ac.uk/id/eprint/76717/1/2015vellosophd.pdf"
+        }
+      ],
+      "image_url": "assets/catalog/feyerball-mage.svg",
+      "image_source": "https://eprints.lancs.ac.uk/id/eprint/76717/1/2015vellosophd.pdf",
+      "image_credit": "Gaze Atlas contributors",
+      "tags": [
+        "Multimodal",
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "title_zh": "火球法师",
+      "category": "研究原型",
+      "genre": "第一人称探索",
+      "device": "眼动仪＋身体追踪",
+      "platform": "Research PC prototype",
+      "interaction": "眼动与身体动作",
+      "description": "用注视瞄准火球，以手势投掷并用身体动作移动。",
+      "features": [
+        "注视瞄准",
+        "身体动作"
+      ],
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "availability": "研究材料；下载可用性未验证",
+      "notes": "Arcade+ 平台的独立示例游戏。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Research prototype",
+      "genre_family": "Exploration & simulation",
+      "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
     },
     {
       "id": "gaze-voice",
@@ -521,7 +4095,650 @@
       "availability": "学位论文可查；未核实可玩版本",
       "notes": "图为本数据库绘制的机制示意，不是游戏截图。设备具体型号与复现条件需查阅论文。",
       "year": 2021,
-      "verified_at": "2026-10-15"
+      "verified_at": "2026-10-15",
+      "tags": [
+        "Research"
+      ],
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Research prototype",
+      "awards": [],
+      "genre_family": "Platformer & runner",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "half-life2-gaze-mod",
+      "title": "Half-Life 2 — gaze navigation research mod",
+      "year": 2009,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Nacke et al. — original COGAIN 2009 paper",
+          "url": "https://arxiv.org/abs/1004.0259"
+        }
+      ],
+      "image_url": "assets/catalog/half-life2-gaze-mod.svg",
+      "image_source": "https://arxiv.org/abs/1004.0259",
+      "image_credit": "Gaze Atlas contributors",
+      "tags": [
+        "Mod",
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "title_zh": "半条命 2：研究眼控模组",
+      "category": "研究原型",
+      "genre": "第一人称动作",
+      "device": "眼动仪",
+      "platform": "Research PC prototype",
+      "interaction": "研究模组眼控",
+      "description": "研究者修改 Half-Life 2，支持眼动导航，并在 DreamHack 活动中调查玩家的游戏体验。",
+      "features": [
+        "眼动导航",
+        "玩家体验评估"
+      ],
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "availability": "研究材料；下载可用性未验证",
+      "notes": "本条仅指实验模组；并非原版 Half-Life 2 的官方眼控支持。2009 是会议论文年份，实验在 2007 年开展。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Action & arcade",
+      "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "kryptoneyed",
+      "title": "KryptonEyed",
+      "year": 2020,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Argenis Ramirez Gomez — author project page",
+          "url": "https://www.argenisrg.com/portfolio-archive/kryptoneyed/"
+        }
+      ],
+      "image_url": "https://i0.wp.com/www.argenisrg.com/wp-content/uploads/2020/11/Shooter.png?fit=1914%2C1075&ssl=1",
+      "image_source": "https://www.argenisrg.com/portfolio-archive/kryptoneyed/",
+      "image_credit": "Argenis Ramirez Gomez — author project page",
+      "tags": [
+        "Experimental",
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "title_zh": "闭眼瞬移",
+      "category": "研究原型",
+      "genre": "空间瞬移挑战",
+      "device": "桌面眼动仪",
+      "platform": "Research PC prototype",
+      "interaction": "闭眼与睁眼输入",
+      "description": "闭眼后移动眼睛，再睁眼确定瞬移位置；三关原型探索“暂时不看”的眼动玩法。",
+      "features": [
+        "闭眼／睁眼",
+        "瞬移"
+      ],
+      "image_kind": "来源页面宣传图／演示图",
+      "image_license": "第三方版权，不包含在开放数据许可内",
+      "availability": "研究材料；下载可用性未验证",
+      "notes": "常规光学眼动仪并非持续测量眼睑后的视线；玩法利用闭眼前后状态与睁眼后的落点。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Research prototype",
+      "genre_family": "Exploration & simulation",
+      "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "limus-beholders",
+      "title": "Limus and the Eyes of the Beholders",
+      "year": 2015,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Lankes & Wagner — DiGRA 2015 original paper",
+          "url": "https://dl.digra.org/index.php/dl/article/download/722/722/719"
+        }
+      ],
+      "image_url": "assets/catalog/limus-beholders.svg",
+      "image_source": "https://dl.digra.org/index.php/dl/article/download/722/722/719",
+      "image_credit": "Gaze Atlas contributors",
+      "tags": [
+        "Multimodal",
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "title_zh": "利姆斯与凝视者之眼",
+      "category": "研究原型",
+      "genre": "二维平台跳跃",
+      "device": "眼动仪＋手柄",
+      "platform": "Research PC prototype",
+      "interaction": "注视冻结与手柄",
+      "description": "操纵 Limus 逃出地窖；注视追来的 Spikees 可短暂冻结它们，同时需处理跳跃与前进。",
+      "features": [
+        "注视冻结敌人",
+        "注意力两难"
+      ],
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "availability": "研究材料；下载可用性未验证",
+      "notes": "论文比较注视可视化形式；日期指本次收录的研究论文。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Research prototype",
+      "genre_family": "Platformer & runner",
+      "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "shed-some-fear",
+      "title": "Shed Some Fear",
+      "year": 2024,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Ulm University — CHI 2024 author preprint",
+          "url": "https://www.uni-ulm.de/fileadmin/website_uni_ulm/iui.inst.100/1-hci/hci-paper/2024/CHI_2024_Shed_Some_Fear_preprint.pdf"
+        }
+      ],
+      "image_url": "assets/catalog/shed-some-fear.svg",
+      "image_source": "https://www.uni-ulm.de/fileadmin/website_uni_ulm/iui.inst.100/1-hci/hci-paper/2024/CHI_2024_Shed_Some_Fear_preprint.pdf",
+      "image_credit": "Gaze Atlas contributors",
+      "tags": [
+        "Multimodal",
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "title_zh": "褪去恐惧",
+      "category": "研究原型",
+      "genre": "二维平台跳跃",
+      "device": "眼动仪＋键盘",
+      "platform": "Research PC prototype",
+      "interaction": "眼动与键盘",
+      "description": "键盘控制主角，视线控制蝙蝠伙伴；通过注视照明、移动物体和影响敌人。",
+      "features": [
+        "注视照明",
+        "移动／保持物体",
+        "注视攻击"
+      ],
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "availability": "研究材料；下载可用性未验证",
+      "notes": "研究比较享受度、感知能力与数字眼疲劳；不据此声称可治疗眼疲劳。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Research prototype",
+      "genre_family": "Horror",
+      "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "stargazing-arcade",
+      "title": "StarGazing (Arcade+)",
+      "year": 2015,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Eduardo Velloso — Lancaster doctoral thesis, §6.3.5",
+          "url": "https://eprints.lancs.ac.uk/id/eprint/76717/1/2015vellosophd.pdf"
+        }
+      ],
+      "image_url": "assets/catalog/stargazing-arcade.svg",
+      "image_source": "https://eprints.lancs.ac.uk/id/eprint/76717/1/2015vellosophd.pdf",
+      "image_credit": "Gaze Atlas contributors",
+      "tags": [
+        "Multimodal",
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "title_zh": "星空探照",
+      "category": "研究原型",
+      "genre": "太空街机",
+      "device": "眼动仪＋街机按键",
+      "platform": "Research PC prototype",
+      "interaction": "注视探照与按键射击",
+      "description": "通过注视控制探照灯发现黑暗中的小行星，再按键射击保护飞船。",
+      "features": [
+        "注视照明",
+        "按键射击"
+      ],
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "availability": "研究材料；下载可用性未验证",
+      "notes": "Arcade+ 平台示例；不是其他同名商业游戏。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Research prototype",
+      "genre_family": "Action & arcade",
+      "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "twileyed",
+      "title": "Twileyed",
+      "year": 2019,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Lancaster University — CHI PLAY 2019 paper",
+          "url": "https://eprints.lancs.ac.uk/id/eprint/136918/1/CHI_Play_2019_CameraReady.pdf"
+        }
+      ],
+      "image_url": "assets/catalog/twileyed.svg",
+      "image_source": "https://eprints.lancs.ac.uk/id/eprint/136918/1/CHI_Play_2019_CameraReady.pdf",
+      "image_credit": "Gaze Atlas contributors",
+      "tags": [
+        "Experimental",
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "title_zh": "双重视线游戏集",
+      "category": "研究原型",
+      "genre": "叙事小游戏集",
+      "device": "桌面眼动仪＋键盘",
+      "platform": "Research PC prototype",
+      "interaction": "眼动与键盘",
+      "description": "三款文学主题小游戏给注视选择、导航及瞄准加入矛盾规则，让观察与操作形成张力。",
+      "features": [
+        "选择／导航／瞄准",
+        "注意力冲突"
+      ],
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "availability": "研究材料；下载可用性未验证",
+      "notes": "",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Activity suite",
+      "genre_family": "Narrative & social",
+      "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "virus-hunt-arcade",
+      "title": "Virus Hunt (Arcade+)",
+      "year": 2015,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Eduardo Velloso — Lancaster doctoral thesis, §6.3.5",
+          "url": "https://eprints.lancs.ac.uk/id/eprint/76717/1/2015vellosophd.pdf"
+        }
+      ],
+      "image_url": "assets/catalog/virus-hunt-arcade.svg",
+      "image_source": "https://eprints.lancs.ac.uk/id/eprint/76717/1/2015vellosophd.pdf",
+      "image_credit": "Gaze Atlas contributors",
+      "tags": [
+        "Multimodal",
+        "Perception",
+        "Research"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "title_zh": "病毒追猎",
+      "category": "研究原型",
+      "genre": "触屏街机",
+      "device": "眼动仪＋触屏",
+      "platform": "Research PC prototype",
+      "interaction": "注视回避与触屏",
+      "description": "触碰病毒可消灭它，但直视会加剧感染；玩家必须依赖周边视觉。",
+      "features": [
+        "触屏",
+        "注视惩罚"
+      ],
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "availability": "研究材料；下载可用性未验证",
+      "notes": "Arcade+ 平台示例；不是其他同名手机游戏。",
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Research prototype",
+      "genre_family": "Action & arcade",
+      "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "geyeded",
+      "title": "gEYEded",
+      "title_zh": "探索游戏中的视线引导原型",
+      "category": "研究原型",
+      "genre": "探索",
+      "device": "Tobii EyeX",
+      "platform": "PC / Unity",
+      "interaction": "注视响应",
+      "description": "探索游戏原型，用于研究基于注视的玩家引导，关注引导的细微程度与挑战性。",
+      "features": [
+        "视线引导",
+        "注视响应"
+      ],
+      "sources": [
+        {
+          "title": "论文：gEYEded（2019）",
+          "url": "https://www.mdpi.com/2414-4088/3/3/61"
+        }
+      ],
+      "image_url": "assets/research-guide.svg",
+      "image_source": "https://www.mdpi.com/2414-4088/3/3/61",
+      "image_credit": "Gaze Atlas contributors",
+      "image_kind": "本数据库原创机制示意",
+      "image_license": "CC BY 4.0；不包含来源论文内容",
+      "availability": "论文可查；未核实可玩版本",
+      "notes": "图为本数据库绘制的机制示意，不是游戏截图。来源检索摘要可读，出版商全文页访问受限；设备与研究目的据摘要记录。",
+      "year": 2019,
+      "verified_at": "2026-10-15",
+      "tags": [
+        "Research"
+      ],
+      "design_intent": [
+        "Entertainment"
+      ],
+      "eye_role": "Gaze-responsive",
+      "entry_type": "Research prototype",
+      "awards": [],
+      "genre_family": "Exploration & simulation",
+      "evidence": "所链接的官方资料／原始研究记录了该眼动用途；未进行实机验证。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "资料核查；如有用户研究请查原文",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "catch-fruits-hvl",
+      "title": "Catch the Fruits (HVL research prototype)",
+      "year": 2022,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Ali et al. — Information 2022 original study",
+          "url": "https://www.mdpi.com/2078-2489/13/12/569"
+        }
+      ],
+      "image_url": "assets/catalog/catch-fruits-hvl.svg",
+      "image_source": "https://www.mdpi.com/2078-2489/13/12/569",
+      "image_credit": "Gaze Atlas contributors",
+      "tags": [
+        "Research",
+        "Training"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "title_zh": "接水果：视觉训练原型",
+      "category": "训练与严肃游戏",
+      "genre": "视觉训练",
+      "device": "桌面眼动仪",
+      "platform": "Research PC prototype",
+      "interaction": "注视接取",
+      "description": "用视线接住不断落下的水果，系统保存游戏表现与眼动轨迹供回放分析。",
+      "features": [
+        "视觉扫描",
+        "眼动记录与回放"
+      ],
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "availability": "研究材料；下载可用性未验证",
+      "notes": "5 人可用性研究；作者未声称这是已验证可立即使用的视觉治疗方案。",
+      "design_intent": [
+        "Education & Training",
+        "Rehabilitation"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Action & arcade",
+      "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "5 人可用性研究；不代表已验证的视觉治疗",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "mole-whack-ucsd",
+      "title": "Mole Whack (UCSD research)",
+      "year": 2018,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Chukoskie et al. — original Developmental Neurobiology study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5897171/"
+        },
+        {
+          "title": "UCSD — TDLC 2018 institutional report",
+          "url": "https://tdlc.ucsd.edu/tdlc2/highlights/TDLC_Highlights_2018.pdf"
+        }
+      ],
+      "image_url": "assets/catalog/mole-whack-ucsd.svg",
+      "image_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5897171/",
+      "image_credit": "Gaze Atlas contributors",
+      "tags": [
+        "Research",
+        "Training"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "title_zh": "眼控打地鼠：UCSD 研究",
+      "category": "训练与严肃游戏",
+      "genre": "注意力训练",
+      "device": "EyeTribe 眼动仪＋PC",
+      "platform": "Research PC prototype",
+      "interaction": "注视选择与抑制",
+      "description": "用固定注视击中指定地鼠，回避其他目标，训练快速转移注意力与抑制反应。",
+      "features": [
+        "注视命中",
+        "抑制干扰"
+      ],
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "availability": "研究材料；下载可用性未验证",
+      "notes": "来自同一项 ASD 家庭训练试点，8 人开始、6 人完成，缺少对照组；不能将单个小游戏视为已确证疗法。",
+      "design_intent": [
+        "Accessibility",
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Action & arcade",
+      "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
+      "target_users": "该论文中的自闭症青少年样本",
+      "evaluation": "同一项试点研究：8 人招募、6 人完成、无对照组；三款游戏不是三项试验",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "shroom-digger-ucsd",
+      "title": "Shroom Digger (UCSD research)",
+      "year": 2018,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Chukoskie et al. — original Developmental Neurobiology study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5897171/"
+        },
+        {
+          "title": "UCSD — TDLC 2018 institutional report",
+          "url": "https://tdlc.ucsd.edu/tdlc2/highlights/TDLC_Highlights_2018.pdf"
+        }
+      ],
+      "image_url": "assets/catalog/shroom-digger-ucsd.svg",
+      "image_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5897171/",
+      "image_credit": "Gaze Atlas contributors",
+      "tags": [
+        "Research",
+        "Training"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "title_zh": "蘑菇屋：UCSD 研究",
+      "category": "训练与严肃游戏",
+      "genre": "持续注意训练",
+      "device": "EyeTribe 眼动仪＋PC",
+      "platform": "Research PC prototype",
+      "interaction": "持续注视",
+      "description": "持续看着蘑菇屋使其变大并最终爆开；移开视线则缩小。",
+      "features": [
+        "持续注视",
+        "连续反馈"
+      ],
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "availability": "研究材料；下载可用性未验证",
+      "notes": "来自同一项 ASD 家庭训练试点，8 人开始、6 人完成，缺少对照组；不能将单个小游戏视为已确证疗法。",
+      "design_intent": [
+        "Accessibility",
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
+      "target_users": "该论文中的自闭症青少年样本",
+      "evaluation": "同一项试点研究：8 人招募、6 人完成、无对照组；三款游戏不是三项试验",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "space-race-ucsd",
+      "title": "Space Race (UCSD research)",
+      "year": 2018,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Chukoskie et al. — original Developmental Neurobiology study",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5897171/"
+        },
+        {
+          "title": "UCSD — TDLC 2018 institutional report",
+          "url": "https://tdlc.ucsd.edu/tdlc2/highlights/TDLC_Highlights_2018.pdf"
+        }
+      ],
+      "image_url": "assets/catalog/space-race-ucsd.svg",
+      "image_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5897171/",
+      "image_credit": "Gaze Atlas contributors",
+      "tags": [
+        "Research",
+        "Training"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "title_zh": "太空竞速：UCSD 研究",
+      "category": "训练与严肃游戏",
+      "genre": "注意力训练",
+      "device": "EyeTribe 眼动仪＋PC",
+      "platform": "Research PC prototype",
+      "interaction": "注视导航",
+      "description": "看向绿色门与星星引导飞船，速度提升后需要更快重新定向视线。",
+      "features": [
+        "注视驾驶",
+        "快速重定向"
+      ],
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "availability": "研究材料；下载可用性未验证",
+      "notes": "来自同一项 ASD 家庭训练试点，8 人开始、6 人完成，缺少对照组；不能将单个小游戏视为已确证疗法。",
+      "design_intent": [
+        "Accessibility",
+        "Education & Training"
+      ],
+      "eye_role": "Gaze control",
+      "entry_type": "Research prototype",
+      "genre_family": "Action & arcade",
+      "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
+      "target_users": "该论文中的自闭症青少年样本",
+      "evaluation": "同一项试点研究：8 人招募、6 人完成、无对照组；三款游戏不是三项试验",
+      "customizability": "见原项目；未核实开源许可"
+    },
+    {
+      "id": "adhd-vr-space-prototype",
+      "title": "VR Space Mission — ADHD attention prototype",
+      "year": 2021,
+      "verified_at": "2026-10-16",
+      "sources": [
+        {
+          "title": "Graf et al. — IEEE CoG 2021 original paper",
+          "url": "https://ieee-cog.org/2021/assets/papers/paper_269.pdf"
+        }
+      ],
+      "image_url": "assets/catalog/adhd-vr-space-prototype.svg",
+      "image_source": "https://ieee-cog.org/2021/assets/papers/paper_269.pdf",
+      "image_credit": "Gaze Atlas contributors",
+      "tags": [
+        "Research",
+        "Training",
+        "VR"
+      ],
+      "research_role": "gaze-input",
+      "inclusion_scope": "gaze-gameplay",
+      "awards": [],
+      "title_zh": "VR 太空任务：ADHD 注意训练原型",
+      "category": "训练与严肃游戏",
+      "genre": "VR 注意力训练",
+      "device": "HTC Vive Pro Eye＋手柄",
+      "platform": "PC VR",
+      "interaction": "注视瞄准与停留",
+      "description": "太空任务交替进行小行星射击与燃料收集：看向小行星并按键射击，持续注视收集燃料。",
+      "features": [
+        "注视瞄准＋确认",
+        "停留收集",
+        "干扰抑制"
+      ],
+      "image_kind": "原创档案示意图，非游戏截图",
+      "image_license": "CC BY 4.0",
+      "availability": "研究材料；下载可用性未验证",
+      "notes": "论文未给游戏专名；本标题为描述性目录标签。文中儿童评估仍属后续计划，不能宣称已经证明 ADHD 疗效。",
+      "design_intent": [
+        "Accessibility",
+        "Education & Training"
+      ],
+      "eye_role": "Multimodal",
+      "entry_type": "Research prototype",
+      "genre_family": "Learning & training",
+      "evidence": "依据所链接的一手研究论文或作者项目页；未实际试玩。",
+      "target_users": "见原始来源；未统一推断人群",
+      "evaluation": "论文将儿童评估列为未来工作，未证明 ADHD 干预效果",
+      "customizability": "见原项目；未核实开源许可"
     }
   ]
 }
