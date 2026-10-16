@@ -3,7 +3,7 @@
   "language": "en",
   "updated_at": "2026-10-16",
   "scope": "Brain Game Center-related cognitive and perceptual training: 7 games and 1 gaze research framework.",
-  "counting": "This topic has its own dataset; the main collection documents gaze games and research environments.",
+  "counting": "Seven training games and one research framework. The framework is also in the main collection under the same ID.",
   "license": "CC BY 4.0 for original descriptions and arrangement; source media retain original rights",
   "entries": [
     {
@@ -224,7 +224,11 @@
       "image_kind": "Original mechanism diagram",
       "image_credit": "Gaze Atlas contributors",
       "image_license": "CC BY 4.0",
-      "verified_at": "2026-10-16"
+      "verified_at": "2026-10-16",
+      "main_collection_id": "bgc-gaze-framework"
     }
+  ],
+  "shared_main_collection_ids": [
+    "bgc-gaze-framework"
   ]
 }

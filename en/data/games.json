@@ -2501,6 +2501,64 @@
       "population_group": ""
     },
     {
+      "id": "bgc-gaze-framework",
+      "description": "Eye position updates a simulated central scotoma in real time to study peripheral vision, compensatory eye movements, and perceptual learning. Tasks combine gaze-contingent displays with manual responses.",
+      "interaction": "Gaze-contingent display and manual response",
+      "sources": [
+        {
+          "title": "JoVE 2025 · DOI 10.3791/67596",
+          "url": "https://doi.org/10.3791/67596"
+        },
+        {
+          "title": "PubMed · Original paper",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40293961/"
+        },
+        {
+          "title": "Brain Game Center · Perceptual training projects",
+          "url": "https://bgc.provost.northeastern.edu/research/perceptual-training-projects/"
+        }
+      ],
+      "image_url": "assets/catalog/bgc-gaze-framework.svg",
+      "image_source": "https://doi.org/10.3791/67596",
+      "image_kind": "Original mechanism diagram",
+      "image_credit": "Gaze Atlas contributors",
+      "image_license": "CC BY 4.0",
+      "verified_at": "2026-10-16",
+      "title": "Gaze-contingent perceptual-learning framework",
+      "category": "Research prototypes",
+      "genre": "Perceptual-learning task suite",
+      "device": "EyeLink 1000 Plus or TRACKPixx3; manual response box",
+      "platform": "Laboratory desktop setup",
+      "features": [
+        "Gaze-contingent central scotoma",
+        "Peripheral-vision tasks",
+        "Manual response collection"
+      ],
+      "availability": "JoVE methods paper and institutional project materials.",
+      "notes": "2025 is the methods-paper publication year. A collaboration across UCR, Northeastern, and UAB. The Training games page presents the framework using the same record ID.",
+      "year": 2025,
+      "tags": [
+        "Research",
+        "Training"
+      ],
+      "design_intent": [
+        "Assessment",
+        "Education & Training",
+        "Rehabilitation"
+      ],
+      "eye_role": "Gaze-responsive",
+      "entry_type": "Research environment",
+      "awards": [],
+      "genre_family": "Learning & training",
+      "evidence": "2025 JoVE methods paper; collaboration across UCR, Northeastern, and UAB.",
+      "target_users": "Healthy participants in simulated central vision loss research.",
+      "evaluation": "Methods paper documenting task procedures and display-latency tests.",
+      "customizability": "Configurable scotoma, stimulus-display, and task parameters.",
+      "population_group": "",
+      "related_collection_url": "related-training.html",
+      "subtitle": "Gaze-contingent vision research"
+    },
+    {
       "id": "gazed-house",
       "title": "Gazed House",
       "platform": "Windows PC",

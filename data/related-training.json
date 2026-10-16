@@ -3,7 +3,7 @@
   "language": "zh",
   "updated_at": "2026-10-16",
   "scope": "Brain Game Center 相关认知与知觉训练，7 款游戏与 1 项眼动研究框架。",
-  "counting": "此专题有独立数据集；主目录记录眼动游戏与研究环境。",
+  "counting": "7 款训练游戏与 1 项研究框架；研究框架同时收录于主目录，并使用相同 ID。",
   "license": "CC BY 4.0 for original descriptions and arrangement; source media retain original rights",
   "entries": [
     {
@@ -224,7 +224,11 @@
       "image_kind": "原创机制示意",
       "image_credit": "Gaze Atlas contributors",
       "image_license": "CC BY 4.0",
-      "verified_at": "2026-10-16"
+      "verified_at": "2026-10-16",
+      "main_collection_id": "bgc-gaze-framework"
     }
+  ],
+  "shared_main_collection_ids": [
+    "bgc-gaze-framework"
   ]
 }

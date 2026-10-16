@@ -2,7 +2,7 @@
 
 An open, bilingual database of eye-tracking games and interactive research projects. Browse commercial titles, indie games, accessible gaze experiences, training activities, and academic prototypes, with images, descriptions, hardware details, and primary sources.
 
-**Updated October 16, 2026:** 121 records in the main collection, plus a related collection of seven Brain Game Center training games and one gaze research framework.
+**Updated October 16, 2026:** 122 records in the main collection. The Training games page presents seven Brain Game Center training games and the gaze research framework also included in the main collection.
 
 ## Explore
 
@@ -20,12 +20,12 @@ The website supports keyword search and filters for category, genre, design purp
 | Commercial games | 34 |
 | Indie & small games | 22 |
 | Accessible gaze games | 16 |
-| Research prototypes | 25 |
+| Research prototypes | 26 |
 | Training & serious games | 22 |
 | Research observation & datasets | 2 |
-| **Total** | **121** |
+| **Total** | **122** |
 
-Cross-cutting tags identify 24 records with Steam sources, 50 research-related records, 32 training records, seven VR records, and four documented award winners. Tags overlap across categories. Records represent individual games, prototypes, activity suites, and research environments.
+Cross-cutting tags identify 24 records with Steam sources, 51 research-related records, 33 training records, seven VR records, and four documented award winners. Tags overlap across categories. Records represent individual games, prototypes, activity suites, and research environments.
 
 The related training collection covers **Poly Rules!, Recollect, Recall, Remember Bee, Saving Memo, Sightseeing, and Listen**, alongside a **gaze-contingent perceptual-learning framework**. Its entries describe cognitive flexibility, memory, vision, hearing, and gaze-driven research displays.
 
@@ -33,7 +33,7 @@ The related training collection covers **Poly Rules!, Recollect, Recall, Remembe
 
 | Dataset | English | Chinese |
 | --- | --- | --- |
-| Main collection — 121 records | [JSON](en/data/games.json) · [CSV](en/data/games.csv) | [JSON](data/games.json) · [CSV](data/games.csv) |
+| Main collection — 122 records | [JSON](en/data/games.json) · [CSV](en/data/games.csv) | [JSON](data/games.json) · [CSV](data/games.csv) |
 | Related training — 8 records | [JSON](en/data/related-training.json) · [CSV](en/data/related-training.csv) | [JSON](data/related-training.json) · [CSV](data/related-training.csv) |
 | Review method and counts | [JSON](en/data/review-method.json) | [JSON](data/review-method.json) |
 

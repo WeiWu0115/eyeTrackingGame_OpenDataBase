@@ -2513,6 +2513,64 @@
       "population_group": ""
     },
     {
+      "id": "bgc-gaze-framework",
+      "description": "眼动位置实时更新模拟中央暗点，用于研究周边视觉、补偿性眼动与知觉学习。任务结合注视条件显示和按键响应。",
+      "interaction": "注视条件显示与按键响应",
+      "sources": [
+        {
+          "title": "JoVE 2025 · DOI 10.3791/67596",
+          "url": "https://doi.org/10.3791/67596"
+        },
+        {
+          "title": "PubMed · Original paper",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40293961/"
+        },
+        {
+          "title": "Brain Game Center · Perceptual training projects",
+          "url": "https://bgc.provost.northeastern.edu/research/perceptual-training-projects/"
+        }
+      ],
+      "image_url": "assets/catalog/bgc-gaze-framework.svg",
+      "image_source": "https://doi.org/10.3791/67596",
+      "image_kind": "原创机制示意",
+      "image_credit": "Gaze Atlas contributors",
+      "image_license": "CC BY 4.0",
+      "verified_at": "2026-10-16",
+      "title": "Gaze-contingent perceptual-learning framework",
+      "category": "研究原型",
+      "genre": "知觉学习任务套件",
+      "device": "EyeLink 1000 Plus 或 TRACKPixx3；按键响应盒",
+      "platform": "桌面实验环境",
+      "features": [
+        "凝视条件中央暗点",
+        "周边视觉任务",
+        "按键响应记录"
+      ],
+      "availability": "JoVE 方法论文与机构项目资料。",
+      "notes": "2025 为方法论文发表年份；UCR、Northeastern 与 UAB 合作研究。Training games 页面使用同一条目 ID 展示该框架。",
+      "year": 2025,
+      "tags": [
+        "Research",
+        "Training"
+      ],
+      "design_intent": [
+        "Assessment",
+        "Education & Training",
+        "Rehabilitation"
+      ],
+      "eye_role": "Gaze-responsive",
+      "entry_type": "Research environment",
+      "awards": [],
+      "genre_family": "Learning & training",
+      "evidence": "2025 年 JoVE 方法论文；UCR、Northeastern 与 UAB 合作。",
+      "target_users": "模拟中央视野缺损研究中的健康参与者。",
+      "evaluation": "方法论文，记录实验任务流程与显示延迟测试。",
+      "customizability": "框架支持调整暗点、刺激显示和任务参数。",
+      "population_group": "",
+      "related_collection_url": "related-training.html",
+      "title_zh": "凝视条件显示研究框架"
+    },
+    {
       "id": "gazed-house",
       "title": "Gazed House",
       "title_zh": "Gazed House",

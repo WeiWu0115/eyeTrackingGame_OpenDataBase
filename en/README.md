@@ -1,6 +1,6 @@
 # Gaze Atlas · Eye-Tracking Game Open Database
 
-121 records covering games, research prototypes, activity suites, and research environments, with images, descriptions, interaction details, and sources. Updated October 16, 2026.
+122 records covering games, research prototypes, activity suites, and research environments, with images, descriptions, interaction details, and sources. Updated October 16, 2026.
 
 ## Browse
 

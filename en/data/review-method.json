@@ -1,7 +1,7 @@
 {
   "updated_at": "2026-10-16",
   "review_type": "Source-led scoping review and design-space mapping",
-  "total_entries": 121,
+  "total_entries": 122,
   "related_training_games": 7,
   "related_research_frameworks": 1,
   "primary_category_counts": {
@@ -10,15 +10,15 @@
     "Training & serious games": 22,
     "Indie & small games": 22,
     "Accessible gaze games": 16,
-    "Research prototypes": 25
+    "Research prototypes": 26
   },
   "overlapping_tag_counts": {
     "Commercial": 35,
     "Steam": 24,
     "Dataset": 1,
     "Measurement": 3,
-    "Research": 50,
-    "Training": 32,
+    "Research": 51,
+    "Training": 33,
     "Awarded": 4,
     "Blink detection": 3,
     "Indie": 25,
@@ -63,7 +63,7 @@
     "Gaze control": 56,
     "Blink detection": 2,
     "Multimodal": 28,
-    "Gaze-responsive": 3
+    "Gaze-responsive": 4
   },
   "process": "Documentary review of primary project pages, original papers, institutional records and official awards",
   "classification": "Genre, design intent, gaze role, hardware, population and entry type",
@@ -77,5 +77,9 @@
     "Collection overview",
     "Original mechanism diagram"
   ],
-  "source_media_rights": "Retained by original rights holders"
+  "source_media_rights": "Retained by original rights holders",
+  "shared_main_and_related_ids": [
+    "bgc-gaze-framework"
+  ],
+  "unique_records_across_collections": 129
 }
