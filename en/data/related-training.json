@@ -219,11 +219,11 @@
           "url": "https://bgc.provost.northeastern.edu/research/perceptual-training-projects/"
         }
       ],
-      "image_url": "assets/catalog/bgc-gaze-framework.svg",
-      "image_source": "https://doi.org/10.3791/67596",
-      "image_kind": "Original mechanism diagram",
-      "image_credit": "Gaze Atlas contributors",
-      "image_license": "CC BY 4.0",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_kind": "Collection artwork",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
+      "image_license": "Artwork rights retained by its contributor.",
       "verified_at": "2026-10-16",
       "main_collection_id": "bgc-gaze-framework"
     }

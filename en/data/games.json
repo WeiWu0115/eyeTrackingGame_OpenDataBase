@@ -215,9 +215,9 @@
           "url": "https://arxiv.org/abs/1903.06754"
         }
       ],
-      "image_url": "assets/catalog/atari-head.svg",
-      "image_source": "https://arxiv.org/abs/1903.06754",
-      "image_credit": "Gaze Atlas contributors",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
       "tags": [
         "Dataset",
         "Measurement",
@@ -236,8 +236,8 @@
         "Paired gaze and actions",
         "Public research dataset"
       ],
-      "image_kind": "Original catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "availability": "Original study and project materials.",
       "notes": "The dataset pairs gaze with actions across 117 hours and 20 Atari games, cataloged as one research suite. 2019 is the paper year.",
       "subtitle": "Research dataset / arcade research",
@@ -373,11 +373,11 @@
           "url": "https://vinzzman.itch.io/brewtiful-vision"
         }
       ],
-      "image_url": "assets/catalog/brewtiful-vision.svg",
-      "image_source": "https://vinzzman.itch.io/brewtiful-vision",
-      "image_credit": "Gaze Atlas contributors",
-      "image_kind": "Original catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "verified_at": "2026-10-16",
       "tags": [
         "Indie",
@@ -525,9 +525,9 @@
           "url": "https://www.mdpi.com/2078-2489/13/12/569"
         }
       ],
-      "image_url": "assets/catalog/catch-fruits-hvl.svg",
-      "image_source": "https://www.mdpi.com/2078-2489/13/12/569",
-      "image_credit": "Gaze Atlas contributors",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
       "tags": [
         "Research",
         "Training"
@@ -545,8 +545,8 @@
         "Visual scanning",
         "Gaze recording and replay"
       ],
-      "image_kind": "Original catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "availability": "Original study and project materials.",
       "notes": "The paper reports a five-person usability evaluation.",
       "subtitle": "Vision-training arcade research",
@@ -630,11 +630,11 @@
           "url": "https://live.euronext.com/sites/default/files/company_press_releases/attachments_oslo/2023/03/13/584861_06-2023%20BYE%20PSVR2%20announcement.pdf"
         }
       ],
-      "image_url": "assets/catalog/close-your.svg",
-      "image_source": "https://today.usc.edu/usc-wins-top-awards-at-independent-games-festival/",
-      "image_credit": "Gaze Atlas contributors",
-      "image_kind": "Original catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "verified_at": "2026-10-16",
       "awards": [
         {
@@ -743,11 +743,11 @@
           "url": "https://volo.itch.io/coups-doeil"
         }
       ],
-      "image_url": "assets/catalog/coups-doeil.svg",
-      "image_source": "https://volo.itch.io/coups-doeil",
-      "image_credit": "Gaze Atlas contributors",
-      "image_kind": "Original catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "verified_at": "2026-10-16",
       "tags": [
         "Hands-free",
@@ -844,11 +844,11 @@
           "url": "https://sebablanco.itch.io/defeat-your-monsters"
         }
       ],
-      "image_url": "assets/catalog/defeat-inner-monsters.svg",
-      "image_source": "https://sebablanco.itch.io/defeat-your-monsters",
-      "image_credit": "Gaze Atlas contributors",
-      "image_kind": "Original catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "verified_at": "2026-10-16",
       "tags": [
         "Accessibility",
@@ -1509,11 +1509,11 @@
       "title": "Eye Can Fly",
       "year": null,
       "verified_at": "2026-10-16",
-      "image_url": "assets/catalog/eye-can-fly.svg",
-      "image_source": "https://support.inclusive.com/article/eye-can-fly",
-      "image_credit": "Gaze Atlas contributors",
-      "image_kind": "Original catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "sources": [
         {
           "title": "Official documentation",
@@ -1563,11 +1563,11 @@
           "url": "https://homepages.tuni.fi/oleg.spakov/publications/Spakov_ECEM_05.pdf"
         }
       ],
-      "image_url": "assets/catalog/eyechess-research.svg",
-      "image_source": "https://homepages.tuni.fi/oleg.spakov/publications/Spakov_ECEM_05.pdf",
-      "image_credit": "Gaze Atlas contributors",
-      "image_kind": "Original research catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "tags": [
         "Research"
       ],
@@ -1611,9 +1611,9 @@
           "url": "https://people.cs.nott.ac.uk/pszmw/EuroHCIR2012-Proceedings.pdf"
         }
       ],
-      "image_url": "assets/catalog/eyegrab.svg",
-      "image_source": "https://people.cs.nott.ac.uk/pszmw/EuroHCIR2012-Proceedings.pdf",
-      "image_credit": "Gaze Atlas contributors",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
       "tags": [
         "Data collection",
         "Research"
@@ -1631,8 +1631,8 @@
         "Gaze classification",
         "Game with a purpose"
       ],
-      "image_kind": "Original catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "availability": "Original study and project materials.",
       "notes": "The game-design paper appears in the workshop proceedings.",
       "subtitle": "Image-annotation game research",
@@ -1667,11 +1667,11 @@
           "url": "https://megmoscow.ru/wp-content/uploads/pubs/10.1109_access.2025.3568650.pdf"
         }
       ],
-      "image_url": "assets/catalog/eyelines.svg",
-      "image_source": "https://doi.org/10.3389/fnins.2016.00528",
-      "image_credit": "Gaze Atlas contributors",
-      "image_kind": "Original research catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "tags": [
         "Research"
       ],
@@ -2262,9 +2262,9 @@
           "url": "https://eprints.lancs.ac.uk/id/eprint/76717/1/2015vellosophd.pdf"
         }
       ],
-      "image_url": "assets/catalog/feyerball-mage.svg",
-      "image_source": "https://eprints.lancs.ac.uk/id/eprint/76717/1/2015vellosophd.pdf",
-      "image_credit": "Gaze Atlas contributors",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
       "tags": [
         "Multimodal",
         "Research"
@@ -2282,8 +2282,8 @@
         "Gaze aiming",
         "Body gestures"
       ],
-      "image_kind": "Original catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "availability": "Original study and project materials.",
       "notes": "A distinct example game on the Arcade+ platform.",
       "subtitle": "First-person exploration research",
@@ -2423,11 +2423,11 @@
           "url": "https://www.ki.uni-stuttgart.de/departments/ac/teaching/student-theses/gaze-voice-game/"
         }
       ],
-      "image_url": "assets/research-voice.svg",
-      "image_source": "https://www.ki.uni-stuttgart.de/departments/ac/teaching/student-theses/gaze-voice-game/",
-      "image_credit": "Gaze Atlas contributors",
-      "image_kind": "Original interaction concept illustration",
-      "image_license": "CC BY 4.0",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "availability": "Thesis and author research materials.",
       "notes": "The thesis documents gaze and voice configuration; the entry includes a mechanism illustration.",
       "year": 2021,
@@ -2464,11 +2464,11 @@
           "url": "https://projekter.aau.dk/projekter/files/334550950/MTA201041_Effects_of_Perceived_Speed_on_Performance_Between.pdf"
         }
       ],
-      "image_url": "assets/catalog/gaze-hero.svg",
-      "image_source": "https://projekter.aau.dk/effects-of-perceived-speed-on-performance-between-eye-gaze-and-mouse-input-in-a-rhythm-game-e75220a4.html",
-      "image_credit": "Gaze Atlas contributors",
-      "image_kind": "Original research catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "tags": [
         "Research"
       ],
@@ -2518,11 +2518,11 @@
           "url": "https://bgc.provost.northeastern.edu/research/perceptual-training-projects/"
         }
       ],
-      "image_url": "assets/catalog/bgc-gaze-framework.svg",
-      "image_source": "https://doi.org/10.3791/67596",
-      "image_kind": "Original mechanism diagram",
-      "image_credit": "Gaze Atlas contributors",
-      "image_license": "CC BY 4.0",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_kind": "Collection artwork",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
+      "image_license": "Artwork rights retained by its contributor.",
       "verified_at": "2026-10-16",
       "title": "Gaze-contingent perceptual-learning framework",
       "category": "Research prototypes",
@@ -2569,11 +2569,11 @@
           "url": "https://ebayyibei.itch.io/gazedhouse"
         }
       ],
-      "image_url": "assets/catalog/gazed-house.svg",
-      "image_source": "https://ebayyibei.itch.io/gazedhouse",
-      "image_credit": "Gaze Atlas contributors",
-      "image_kind": "Original catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "verified_at": "2026-10-16",
       "tags": [
         "Horror",
@@ -2610,11 +2610,11 @@
       "title": "GazePlay",
       "year": null,
       "verified_at": "2026-10-16",
-      "image_url": "assets/catalog/gazeplay.svg",
-      "image_source": "https://gazeplay.github.io/GazePlay/",
-      "image_credit": "Gaze Atlas contributors",
-      "image_kind": "Original catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "sources": [
         {
           "title": "Official documentation",
@@ -2674,9 +2674,9 @@
           "url": "https://backend.orbit.dtu.dk/ws/portalfiles/portal/4620969/tr09_08-rev.pdf"
         }
       ],
-      "image_url": "assets/catalog/gazetrain.svg",
-      "image_source": "https://www.lasselaursen.com/projects/gazetrain/",
-      "image_credit": "Gaze Atlas contributors",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
       "tags": [
         "Accessibility",
         "Research"
@@ -2694,8 +2694,8 @@
         "Gaze track placement",
         "Practice, resource and timed modes"
       ],
-      "image_kind": "Original catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "availability": "Original study and project materials.",
       "notes": "The author project page links the historical game and source.",
       "subtitle": "Railway puzzle research",
@@ -2827,11 +2827,11 @@
           "url": "https://www.mdpi.com/2414-4088/3/3/61"
         }
       ],
-      "image_url": "assets/research-guide.svg",
-      "image_source": "https://www.mdpi.com/2414-4088/3/3/61",
-      "image_credit": "Gaze Atlas contributors",
-      "image_kind": "Original interaction concept illustration",
-      "image_license": "CC BY 4.0",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "availability": "Original study and project materials.",
       "notes": "Hardware and research aims are documented from the paper abstract, with a mechanism illustration.",
       "year": 2019,
@@ -2914,11 +2914,11 @@
           "url": "https://gaming.tobii.com/games/glimpse-of-fear/"
         }
       ],
-      "image_url": "assets/catalog/glimpse-of-fear.svg",
-      "image_source": "https://beyonite.itch.io/glimpse-of-fear",
-      "image_credit": "Gaze Atlas contributors",
-      "image_kind": "Original catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "verified_at": "2026-10-16",
       "tags": [
         "Historical",
@@ -2962,9 +2962,9 @@
           "url": "https://arxiv.org/abs/1004.0259"
         }
       ],
-      "image_url": "assets/catalog/half-life2-gaze-mod.svg",
-      "image_source": "https://arxiv.org/abs/1004.0259",
-      "image_credit": "Gaze Atlas contributors",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
       "tags": [
         "Mod",
         "Research"
@@ -2982,8 +2982,8 @@
         "Gaze navigation",
         "Player experience evaluation"
       ],
-      "image_kind": "Original catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "availability": "Original study and project materials.",
       "notes": "An experimental Half-Life 2 mod, studied in 2007 and published in a 2009 conference paper.",
       "subtitle": "First-person action research",
@@ -3236,11 +3236,11 @@
           "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8482411/"
         }
       ],
-      "image_url": "assets/catalog/invirs.svg",
-      "image_source": "https://doi.org/10.1109/TNSRE.2021.3108351",
-      "image_credit": "Gaze Atlas contributors",
-      "image_kind": "Original research catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "tags": [
         "Research"
       ],
@@ -3289,11 +3289,11 @@
           "url": "https://doi.org/10.1145/1358628.1358820"
         }
       ],
-      "image_url": "assets/catalog/invisible-eni.svg",
-      "image_source": "https://research.aalto.fi/en/publications/invisible-eni-using-gaze-and-pupil-size-to-control-a-game/",
-      "image_credit": "Gaze Atlas contributors",
-      "image_kind": "Original research catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "tags": [
         "Research"
       ],
@@ -3448,11 +3448,11 @@
           "url": "https://doi.org/10.3390/bs14100871"
         }
       ],
-      "image_url": "assets/catalog/lego-puzzle-joint-attention.svg",
-      "image_source": "https://www.mdpi.com/2076-328X/14/10/871",
-      "image_credit": "Gaze Atlas contributors",
-      "image_kind": "Original research catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "tags": [
         "Research"
       ],
@@ -3560,9 +3560,9 @@
           "url": "https://dl.digra.org/index.php/dl/article/download/722/722/719"
         }
       ],
-      "image_url": "assets/catalog/limus-beholders.svg",
-      "image_source": "https://dl.digra.org/index.php/dl/article/download/722/722/719",
-      "image_credit": "Gaze Atlas contributors",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
       "tags": [
         "Multimodal",
         "Research"
@@ -3580,8 +3580,8 @@
         "Freeze enemies with gaze",
         "Attention dilemma"
       ],
-      "image_kind": "Original catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "availability": "Original study and project materials.",
       "notes": "The paper compares gaze visualization variants; the year refers to this study.",
       "subtitle": "2D platformer research",
@@ -3919,9 +3919,9 @@
           "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
         }
       ],
-      "image_url": "assets/catalog/mole-whack-ucsd.svg",
-      "image_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5897171/",
-      "image_credit": "Gaze Atlas contributors",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
       "tags": [
         "Research",
         "Training"
@@ -3939,8 +3939,8 @@
         "Fixation hits",
         "Ignore distractors"
       ],
-      "image_kind": "Original catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "availability": "Original study and project materials.",
       "notes": "A mini-game in the 2018 single-arm home-training pilot: 8 enrolled, 6 completed. Dr. Mole & Mr. Hide is cross-referenced for version comparison.",
       "subtitle": "Attention-training arcade research",
@@ -4079,9 +4079,9 @@
           "url": "https://arxiv.org/abs/2407.03298"
         }
       ],
-      "image_url": "assets/catalog/overcooked-gaze-research.svg",
-      "image_source": "https://arxiv.org/abs/2407.03298",
-      "image_credit": "Gaze Atlas contributors",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
       "tags": [
         "Human-AI collaboration",
         "Measurement",
@@ -4100,8 +4100,8 @@
         "Collaborative behavior",
         "Intent inference"
       ],
-      "image_kind": "Original catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "availability": "Original study and project materials.",
       "notes": "Uses an Overcooked experimental environment to study collaborative gaze. 2024 is the paper year.",
       "subtitle": "Cooperative research / cooking research",
@@ -4511,11 +4511,11 @@
           "url": "https://momschale.itch.io/rune"
         }
       ],
-      "image_url": "assets/catalog/rune.svg",
-      "image_source": "https://momschale.itch.io/rune",
-      "image_credit": "Gaze Atlas contributors",
-      "image_kind": "Original catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "verified_at": "2026-10-16",
       "tags": [
         "Indie",
@@ -4803,9 +4803,9 @@
           "url": "https://www.uni-ulm.de/fileadmin/website_uni_ulm/iui.inst.100/1-hci/hci-paper/2024/CHI_2024_Shed_Some_Fear_preprint.pdf"
         }
       ],
-      "image_url": "assets/catalog/shed-some-fear.svg",
-      "image_source": "https://www.uni-ulm.de/fileadmin/website_uni_ulm/iui.inst.100/1-hci/hci-paper/2024/CHI_2024_Shed_Some_Fear_preprint.pdf",
-      "image_credit": "Gaze Atlas contributors",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
       "tags": [
         "Multimodal",
         "Research"
@@ -4824,8 +4824,8 @@
         "Move or hold objects",
         "Gaze damage"
       ],
-      "image_kind": "Original catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "availability": "Original study and project materials.",
       "notes": "The study examines enjoyment, perceived competence, and digital eye strain.",
       "subtitle": "2D platformer research",
@@ -4913,11 +4913,11 @@
           "url": "https://research-portal.uu.nl/ws/portalfiles/portal/229945584/3613904.3641909.pdf"
         }
       ],
-      "image_url": "assets/catalog/shynosaurs.svg",
-      "image_source": "https://doi.org/10.1145/2658537.2662979",
-      "image_credit": "Gaze Atlas contributors",
-      "image_kind": "Original research catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "tags": [
         "Research"
       ],
@@ -5117,9 +5117,9 @@
           "url": "https://eprints.lancs.ac.uk/id/eprint/76717/1/2015vellosophd.pdf"
         }
       ],
-      "image_url": "assets/catalog/stargazing-arcade.svg",
-      "image_source": "https://eprints.lancs.ac.uk/id/eprint/76717/1/2015vellosophd.pdf",
-      "image_credit": "Gaze Atlas contributors",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
       "tags": [
         "Multimodal",
         "Research"
@@ -5137,8 +5137,8 @@
         "Gaze spotlight",
         "Button shooting"
       ],
-      "image_kind": "Original catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "availability": "Original study and project materials.",
       "notes": "A gaze-game example on the Arcade+ platform.",
       "subtitle": "Space arcade research",
@@ -5165,11 +5165,11 @@
           "url": "https://lionieloewenherz.itch.io/stonesight-find-your-balance"
         }
       ],
-      "image_url": "assets/catalog/stonesight.svg",
-      "image_source": "https://lionieloewenherz.itch.io/stonesight-find-your-balance",
-      "image_credit": "Gaze Atlas contributors",
-      "image_kind": "Original catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "verified_at": "2026-10-16",
       "tags": [
         "Hands-free",
@@ -5311,9 +5311,9 @@
           "url": "https://eprints.lancs.ac.uk/id/eprint/133629/1/SuperVision_CHI_CameraReady.pdf"
         }
       ],
-      "image_url": "assets/catalog/supervision.svg",
-      "image_source": "https://eprints.lancs.ac.uk/id/eprint/133629/1/SuperVision_CHI_CameraReady.pdf",
-      "image_credit": "Gaze Atlas contributors",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
       "tags": [
         "Perception",
         "Research"
@@ -5331,8 +5331,8 @@
         "Gaze aversion",
         "Peripheral vision"
       ],
-      "image_kind": "Original catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "availability": "Original study and project materials.",
       "notes": "The prototype studies peripheral vision and gaze-aversion challenges.",
       "subtitle": "Peripheral-vision challenges research",
@@ -5556,9 +5556,9 @@
           "url": "https://www.collaborative-ai.org/publications/vidal15_chi.pdf"
         }
       ],
-      "image_url": "assets/catalog/royal-corgi.svg",
-      "image_source": "https://www.collaborative-ai.org/publications/vidal15_chi.pdf",
-      "image_credit": "Gaze Atlas contributors",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
       "tags": [
         "Research",
         "Social gaze"
@@ -5576,8 +5576,8 @@
         "Gaze-reactive characters",
         "Social interaction"
       ],
-      "image_kind": "Original catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "availability": "Original study and project materials.",
       "notes": "Year refers to the full 2015 study; a demonstration version appeared in 2014.",
       "subtitle": "Social narrative research",
@@ -5825,11 +5825,11 @@
           "url": "https://doi.org/10.1007/978-3-319-91250-9_31"
         }
       ],
-      "image_url": "assets/catalog/trackmaze.svg",
-      "image_source": "https://www.yorku.ca/mack/hcii2018b.pdf",
-      "image_credit": "Gaze Atlas contributors",
-      "image_kind": "Original research catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "tags": [
         "Research"
       ],
@@ -5928,9 +5928,9 @@
           "url": "https://eprints.lancs.ac.uk/id/eprint/136918/1/CHI_Play_2019_CameraReady.pdf"
         }
       ],
-      "image_url": "assets/catalog/twileyed.svg",
-      "image_source": "https://eprints.lancs.ac.uk/id/eprint/136918/1/CHI_Play_2019_CameraReady.pdf",
-      "image_credit": "Gaze Atlas contributors",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
       "tags": [
         "Experimental",
         "Research"
@@ -5948,8 +5948,8 @@
         "Selection, navigation and aiming",
         "Attention dilemmas"
       ],
-      "image_kind": "Original catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "availability": "Original study and project materials.",
       "notes": "",
       "subtitle": "Narrative mini-game suite research",
@@ -6029,9 +6029,9 @@
           "url": "https://eprints.lancs.ac.uk/id/eprint/76717/1/2015vellosophd.pdf"
         }
       ],
-      "image_url": "assets/catalog/virus-hunt-arcade.svg",
-      "image_source": "https://eprints.lancs.ac.uk/id/eprint/76717/1/2015vellosophd.pdf",
-      "image_credit": "Gaze Atlas contributors",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
       "tags": [
         "Multimodal",
         "Perception",
@@ -6050,8 +6050,8 @@
         "Touch interaction",
         "Penalty for looking"
       ],
-      "image_kind": "Original catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "availability": "Original study and project materials.",
       "notes": "A gaze-game example on the Arcade+ platform.",
       "subtitle": "Touch arcade research",
@@ -6078,9 +6078,9 @@
           "url": "https://ieee-cog.org/2021/assets/papers/paper_269.pdf"
         }
       ],
-      "image_url": "assets/catalog/adhd-vr-space-prototype.svg",
-      "image_source": "https://ieee-cog.org/2021/assets/papers/paper_269.pdf",
-      "image_credit": "Gaze Atlas contributors",
+      "image_url": "../assets/donut-eye.png",
+      "image_source": "../assets/donut-eye.png",
+      "image_credit": "Gaze Atlas · supplied by the project maintainer",
       "tags": [
         "Research",
         "Training",
@@ -6100,8 +6100,8 @@
         "Dwell collection",
         "Distractor inhibition"
       ],
-      "image_kind": "Original catalog illustration",
-      "image_license": "CC BY 4.0",
+      "image_kind": "Collection artwork",
+      "image_license": "Artwork rights retained by its contributor.",
       "availability": "Original study and project materials.",
       "notes": "Uses a descriptive catalog title. The paper documents the prototype and proposes child evaluation.",
       "subtitle": "VR attention-training concept research",

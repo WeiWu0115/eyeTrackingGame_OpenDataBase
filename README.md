@@ -45,7 +45,7 @@ CSV files use UTF-8 with BOM for spreadsheet compatibility. Arrays and objects a
 
 Documentation draws on official game pages, developers, hardware makers, research teams, original papers, and award records. Research details identify the study design, sample, and publication context.
 
-Images are labeled as official screenshots, project media, collection overviews, app icons, or original mechanism diagrams. Each entry includes image provenance and rights information.
+Images are labeled as official screenshots, project media, collection overviews, app icons, or collection artwork. Each entry includes image provenance and rights information.
 
 ## Contribute
 
@@ -73,3 +73,5 @@ Open [the English edition](http://localhost:8765/en/) or [the Chinese edition](h
 Original descriptions, database arrangement, and original diagrams use [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Attribute **Gaze Atlas contributors**, retain source references, and identify modifications.
 
 Website code uses the [MIT License](LICENSE). Third-party images, trademarks, papers, and games retain their original rights and licensing terms.
+
+甜甜圈眼睛插画由项目维护者提供，用于首页与目录配图，插画权利由提供者保留。
