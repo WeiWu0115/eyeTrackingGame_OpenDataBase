@@ -25,13 +25,12 @@ For corrections, use the [correction form](https://github.com/sharkburger/eyeTra
 | Collection | Chinese | English | Record array |
 | --- | --- | --- | --- |
 | Main collection | `data/games.json` | `en/data/games.json` | `games` |
-| Related training | `data/related-training.json` | `en/data/related-training.json` | `entries` |
 
 Use an existing record as a starting point. Give it a unique, stable, lowercase, hyphenated `id`, matching in both languages. Distinguish editions in titles where relevant. Both language versions use the same canonical `tags`, `design_intent`, `eye_role`, `entry_type`, and `genre_family`; descriptions, categories, and interface-facing text are localized. Record a source-review date in `verified_at` as `YYYY-MM-DD`.
 
 Document what the source establishes: game controls, gaze behavior, hardware, edition, availability, and research context. Research records identify study design, sample, and publication type. Source URLs use HTTP or HTTPS and have descriptive titles.
 
-The main collection covers gaze control, gaze assistance, gaze-responsive interaction, blinking, multimodal input, and gaze measurement in game/research environments. The related training collection covers training and perceptual learning with documented eye tracking. A project that appears in both collections shares the same ID, with `main_collection_id` on its related-training record.
+The main collection covers gaze control, gaze assistance, gaze-responsive interaction, blinking, multimodal input, and gaze measurement in game/research environments.
 
 ### Images
 
@@ -51,7 +50,7 @@ python3 scripts/validate_catalog.py
 python3 -m unittest discover -s tests
 ```
 
-The sync command regenerates CSV exports, shared-record metadata, review statistics, and documented counts. Review its changes and include generated files in your pull request.
+The sync command regenerates CSV exports, review statistics, and documented counts. Review its changes and include generated files in your pull request.
 
 Validation checks unique IDs and titles, required fields, classifications, source URL structure, image files, bilingual alignment, CSV consistency, statistics, contributor credits, and internal links. Tests exercise accepted data and deliberately invalid fixtures. GitHub Actions runs validation, tests, and JavaScript syntax checks on pushes to `main` and pull requests. Maintainers also review the source content and image rights.
 

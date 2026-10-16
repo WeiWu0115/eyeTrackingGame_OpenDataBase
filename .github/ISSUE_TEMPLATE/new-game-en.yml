@@ -20,20 +20,6 @@
       }
     },
     {
-      "type": "dropdown",
-      "id": "collection",
-      "attributes": {
-        "label": "Collection",
-        "options": [
-          "Main collection: gaze games and research environments",
-          "Eye-tracked training and research"
-        ]
-      },
-      "validations": {
-        "required": true
-      }
-    },
-    {
       "type": "textarea",
       "id": "description",
       "attributes": {

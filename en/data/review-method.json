@@ -2,8 +2,6 @@
   "updated_at": "2026-10-16",
   "review_type": "Source-led scoping review and design-space mapping",
   "total_entries": 122,
-  "related_training_games": 0,
-  "related_research_frameworks": 1,
   "primary_category_counts": {
     "Commercial games": 34,
     "Research observation & datasets": 2,
@@ -69,7 +67,6 @@
   "classification": "Genre, design intent, gaze role, hardware, population and entry type",
   "counting": "One record per game or suite; related study games retain shared study-design information",
   "provenance": "Source institution recorded with original citations",
-  "related_collection": "related-training.json",
   "year_field": "Release, study or publication year as described in each record",
   "image_types": [
     "Official screenshot",
@@ -77,9 +74,5 @@
     "Collection overview",
     "Image placeholder"
   ],
-  "source_media_rights": "Retained by original rights holders",
-  "shared_main_and_related_ids": [
-    "bgc-gaze-framework"
-  ],
-  "unique_records_across_collections": 122
+  "source_media_rights": "Retained by original rights holders"
 }

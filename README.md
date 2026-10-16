@@ -2,14 +2,13 @@
 
 An open, bilingual database of eye-tracking games and interactive research projects. Browse commercial titles, indie games, accessible gaze experiences, training activities, and academic prototypes, with images, descriptions, hardware details, and primary sources.
 
-**Updated October 16, 2026:** 122 records in the main collection. The Training games page presents an eye-tracked perceptual-learning framework also included in the main collection.
+**Updated October 16, 2026:** 122 records in the main collection.
 
 ## Explore
 
 - [English website](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/en/)
 - [Chinese website](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/)
 - [Research review and classification](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/en/review.html)
-- [Cognitive and perceptual training collection](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/en/related-training.html)
 
 The website supports keyword search and filters for category, genre, design purpose, gaze role, hardware, interaction, and research population. Projects from UCSD PoNG and other institutions use the same classification; institutional provenance accompanies their sources.
 
@@ -27,19 +26,16 @@ The website supports keyword search and filters for category, genre, design purp
 
 Cross-cutting tags identify 24 records with Steam sources, 51 research-related records, 33 training records, seven VR records, and four documented award winners. Tags overlap across categories. Records represent individual games, prototypes, activity suites, and research environments.
 
-The related training collection covers **Poly Rules!, Recollect, Recall, Remember Bee, Saving Memo, Sightseeing, and Listen**, alongside a **gaze-contingent perceptual-learning framework**. Its entries describe cognitive flexibility, memory, vision, hearing, and gaze-driven research displays.
-
 ## Open data
 
 | Dataset | English | Chinese |
 | --- | --- | --- |
 | Main collection — 122 records | [JSON](en/data/games.json) · [CSV](en/data/games.csv) | [JSON](data/games.json) · [CSV](data/games.csv) |
-| Related training — 1 shared record | [JSON](en/data/related-training.json) · [CSV](en/data/related-training.csv) | [JSON](data/related-training.json) · [CSV](data/related-training.csv) |
 | Review method and counts | [JSON](en/data/review-method.json) | [JSON](data/review-method.json) |
 
 Records include stable IDs, titles, descriptions, categories, genres, design purposes, gaze roles, input methods, hardware, platforms, populations, evaluation details, edition context, image credits, and source links. Matching IDs connect the two language editions.
 
-CSV files use UTF-8 with BOM for spreadsheet compatibility. Arrays and objects are stored as JSON-encoded strings. The main JSON file contains a `games` array; the related training file contains an `entries` array.
+CSV files use UTF-8 with BOM for spreadsheet compatibility. Arrays and objects are stored as JSON-encoded strings. The main JSON file contains a `games` array.
 
 ## Sources and images
 
@@ -74,7 +70,7 @@ Original descriptions, database arrangement, and original diagrams use [CC BY 4.
 
 Website code uses the [MIT License](LICENSE). Third-party images, trademarks, papers, and games retain their original rights and licensing terms.
 
-甜甜圈眼睛插画由项目维护者提供，用于首页，插画权利由提供者保留。
+The donut-eye artwork is supplied by the project maintainer for the homepage; its rights remain with its contributor.
 
 ## Community contributions
 

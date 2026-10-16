@@ -22,13 +22,13 @@
 
 ## 数据约定
 
-主目录位于 `data/games.json` 和 `en/data/games.json`，记录数组为 `games`；相关训练位于 `data/related-training.json` 和 `en/data/related-training.json`，数组为 `entries`。
+主目录位于 `data/games.json` 和 `en/data/games.json`，记录数组为 `games`。
 
 可从已有条目开始编辑。`id` 使用稳定、唯一的小写英文与连字符，中英文保持一致。版本差异可在标题中说明。`tags`、`design_intent`、`eye_role`、`entry_type` 与 `genre_family` 使用两种语言共用的规范值；介绍、类别名称和展示文本分别本地化。`verified_at` 使用 `YYYY-MM-DD` 表示来源核查日期。
 
 记录来源明确描述的操作、眼动用途、设备、版本、获取方式和研究背景。研究条目附研究设计、样本与发表类型。来源使用带标题的 HTTP／HTTPS 链接。
 
-主目录涵盖眼控、辅助、注视响应、眨眼、多模态输入与游戏研究中的眼动测量；相关训练目录收录具有眼动记录的训练与知觉学习项目。共享项目在两个目录使用同一 ID，训练目录通过 `main_collection_id` 关联。
+主目录涵盖眼控、辅助、注视响应、眨眼、多模态输入与游戏研究中的眼动测量。
 
 ## 图片与署名
 
@@ -46,7 +46,7 @@ python3 scripts/validate_catalog.py
 python3 -m unittest discover -s tests
 ```
 
-同步脚本更新 CSV、共享条目、综述统计与记录数量。请检查并提交这些生成文件。
+同步脚本更新 CSV、综述统计与记录数量。请检查并提交这些生成文件。
 
 自动检查涵盖 ID 和标题唯一性、必填字段、分类、来源 URL 格式、图片文件、中英文对应、CSV 一致性、统计、贡献者记录和本地链接。GitHub Actions 会在主分支推送与 Pull Request 中运行这些检查、测试和 JavaScript 语法检查。维护者结合原始来源审核内容与图片权利。
 

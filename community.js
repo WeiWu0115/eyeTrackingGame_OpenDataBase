@@ -26,12 +26,8 @@
       const values = new FormData(form);
       const value = name => String(values.get(name) || '').trim();
       const title = value('game-title');
-      const collection = value('collection') === 'main'
-        ? translate('主目录：眼动游戏与研究环境', 'Main collection: gaze games and research environments')
-        : translate('眼动训练与研究', 'Eye-tracked training and research');
       const sections = [
         [translate('游戏或项目名称', 'Game or project title'), title],
-        [translate('收录方向', 'Collection'), collection],
         [translate('简单介绍', 'Short description'), value('description')],
         [translate('交互方式与操作', 'Interaction and controls'), value('interaction')],
         [translate('设备与平台', 'Hardware and platform'), value('hardware')],
@@ -79,7 +75,7 @@
       documentation: translate('文档', 'Documentation'),
       accessibility: translate('无障碍改进', 'Accessibility')
     };
-    fetch((english ? '../' : '') + 'data/contributors.json?v=20261016-gaze-scope')
+    fetch((english ? '../' : '') + 'data/contributors.json?v=20261016-unified')
       .then(response => { if (!response.ok) throw new Error('credits'); return response.json(); })
       .then(data => {
         const cards = data.contributors.filter(person => /^[A-Za-z0-9](?:[A-Za-z0-9-]{0,37}[A-Za-z0-9])?$/.test(person.github)).map(person => {

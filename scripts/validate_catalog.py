@@ -41,7 +41,7 @@ def validate(root):
     collections_by_language = {}
     for language, directory in [('zh',root),('en',root/'en')]:
         language_sets = {}
-        for stem, key in [('games','games'),('related-training','entries')]:
+        for stem, key in [('games','games')]:
             path = directory/'data'/f'{stem}.json'
             document = load(path)
             records = document.get(key, [])
@@ -91,7 +91,7 @@ def validate(root):
                         check(equal,f'{language}/{stem}/{record.get("id")}: CSV field out of sync: {field}')
             except (OSError,csv.Error) as exc: check(False,f'{language}/{stem}: CSV read failed: {exc}')
         collections_by_language[language]=language_sets
-    for stem in ['games','related-training']:
+    for stem in ['games']:
         zh=collections_by_language.get('zh',{}).get(stem,{})
         en=collections_by_language.get('en',{}).get(stem,{})
         check(set(zh)==set(en), f'{stem}: bilingual IDs differ')
@@ -101,7 +101,7 @@ def validate(root):
                 a,b=zh[i].get(field),en[i].get(field)
                 check((set(a)==set(b)) if isinstance(a,list) and isinstance(b,list) else a==b, f'{stem}/{i}: bilingual {field} differs')
     en=collections_by_language.get('en',{})
-    main=en.get('games',{});related=en.get('related-training',{});shared=set(main)&set(related)
+    main=en.get('games',{})
     counts=collections.Counter(g.get('category') for g in main.values())
     tags=collections.Counter(t for g in main.values() for t in g.get('tags',[]))
     roles=collections.Counter(g.get('eye_role') for g in main.values())
@@ -110,12 +110,6 @@ def validate(root):
         check(method.get('total_entries')==len(main),f'{language}: main total out of sync')
         for field,actual in [('primary_category_counts',counts),('overlapping_tag_counts',tags),('gaze_role_counts',roles)]:
             check(method.get(field)==dict(actual), f'{language}: {field} out of sync')
-        check(set(method.get('shared_main_and_related_ids',[]))==shared, f'{language}: shared-record metadata out of sync')
-        check(method.get('unique_records_across_collections')==len(set(main)|set(related)), f'{language}: unique-record count out of sync')
-        document=load(directory/'data/related-training.json')
-        check(set(document.get('shared_main_collection_ids',[]))==shared,f'{language}: related shared IDs out of sync')
-        for i in shared:
-            check(related[i].get('main_collection_id')==i,f'{i}: shared ID link missing')
     contributors=load(root/'data/contributors.json').get('contributors',[])
     handles=[x.get('github','') for x in contributors]
     check(len(handles)==len(set(h.lower() for h in handles)), 'contributors: duplicate GitHub handle')

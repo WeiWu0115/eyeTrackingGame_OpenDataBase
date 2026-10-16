@@ -7,11 +7,10 @@
 - [English collection](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/en/)
 - [Chinese collection](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/)
 - [Research review](review.html)
-- [Eye-tracked training and research](related-training.html): one gaze research framework shared with the main collection.
 
 ## Data
 
-Main collection: [JSON](data/games.json), [CSV](data/games.csv). Related training: [JSON](data/related-training.json), [CSV](data/related-training.csv). CSV uses UTF-8 with BOM; arrays and objects are JSON-encoded strings.
+Main collection: [JSON](data/games.json), [CSV](data/games.csv). CSV uses UTF-8 with BOM; arrays and objects are JSON-encoded strings.
 
 Fields include stable ID, title, category, genre, design purpose, gaze role, interaction, hardware, platform, population, evaluation, edition context, images, and sources. Matching IDs connect both languages. Institutional provenance accompanies citations, and shared categories organize browsing.
 

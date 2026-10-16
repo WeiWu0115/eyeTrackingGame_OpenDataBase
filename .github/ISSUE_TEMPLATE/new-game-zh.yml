@@ -20,20 +20,6 @@
       }
     },
     {
-      "type": "dropdown",
-      "id": "collection",
-      "attributes": {
-        "label": "收录方向",
-        "options": [
-          "主目录：眼动游戏与研究环境",
-          "眼动训练与研究"
-        ]
-      },
-      "validations": {
-        "required": true
-      }
-    },
-    {
       "type": "textarea",
       "id": "description",
       "attributes": {

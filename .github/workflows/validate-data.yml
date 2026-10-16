@@ -26,5 +26,4 @@ jobs:
       - name: Check JavaScript syntax
         run: |
           node --check app.js
-          node --check related-training.js
           node --check community.js
