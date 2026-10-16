@@ -12,3 +12,6 @@
 
 /* Donut-eye artwork */
 .hero-donut{background:none;display:flex;align-items:center;justify-content:center}.hero-donut:before,.hero-donut:after{display:none}.hero-donut img{display:block;width:100%;height:100%;object-fit:contain}.image-wrap.collection-art{background:#141f20}.image-wrap.collection-art img{object-fit:contain;padding:20px}.artwork-caption{position:absolute;bottom:10px;right:10px;background:#172322dd;color:var(--muted);padding:3px 7px;border-radius:3px;font-size:10px}@media(max-width:640px){.hero-donut{position:relative;right:auto;top:auto;width:min(78vw,330px);min-width:0;max-height:none;opacity:1;margin:25px auto 0}.image-wrap.collection-art img{padding:16px}}
+
+/* Neutral image placeholders */
+.image-wrap.image-placeholder{background:#252c2e}.image-wrap.image-placeholder img{object-fit:cover;padding:0}.image-wrap.image-placeholder:after{content:attr(data-placeholder);position:absolute;bottom:14px;left:0;right:0;text-align:center;font-size:11px;letter-spacing:.06em;color:#a2abad;pointer-events:none}.training-card .image-wrap.image-placeholder img{background:#252c2e}

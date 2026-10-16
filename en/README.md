@@ -17,7 +17,7 @@ Fields include stable ID, title, category, genre, design purpose, gaze role, int
 
 ## Documentation and images
 
-Sources include official game pages, developers, hardware makers, research teams, papers, and award records. Evaluation fields describe study design and samples. Each record explains its year and edition context. Image types and credits identify official screenshots, project media, collection overviews, and collection artwork.
+Sources include official game pages, developers, hardware makers, research teams, papers, and award records. Evaluation fields describe study design and samples. Each record explains its year and edition context. Image types and credits identify official screenshots, project media, collection overviews, and image placeholders.
 
 ## Licensing and contributions
 
@@ -29,4 +29,4 @@ Contribute through GitHub Issues or pull requests. Include primary sources, hard
 
 GitHub Pages publishes the main branch and root directory. Run `python3 -m http.server 8765` from the repository root and visit http://localhost:8765/en/ .
 
-The donut-eye artwork is supplied by the project maintainer for the homepage and collection imagery; its artwork rights remain with its contributor.
+The donut-eye artwork is supplied by the project maintainer for the homepage; its artwork rights remain with its contributor.
