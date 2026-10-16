@@ -31,7 +31,7 @@ Use an existing record as a starting point. Give it a unique, stable, lowercase,
 
 Document what the source establishes: game controls, gaze behavior, hardware, edition, availability, and research context. Research records identify study design, sample, and publication type. Source URLs use HTTP or HTTPS and have descriptive titles.
 
-The main collection covers gaze control, gaze assistance, gaze-responsive interaction, blinking, multimodal input, and gaze measurement in game/research environments. The related training collection covers cognitive and perceptual training. A project that appears in both collections shares the same ID, with `main_collection_id` on its related-training record.
+The main collection covers gaze control, gaze assistance, gaze-responsive interaction, blinking, multimodal input, and gaze measurement in game/research environments. The related training collection covers training and perceptual learning with documented eye tracking. A project that appears in both collections shares the same ID, with `main_collection_id` on its related-training record.
 
 ### Images
 

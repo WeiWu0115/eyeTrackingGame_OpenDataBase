@@ -7,7 +7,7 @@
 - [English collection](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/en/)
 - [Chinese collection](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/)
 - [Research review](review.html)
-- [Cognitive and perceptual training](related-training.html): seven games and one gaze research framework.
+- [Eye-tracked training and research](related-training.html): one gaze research framework shared with the main collection.
 
 ## Data
 

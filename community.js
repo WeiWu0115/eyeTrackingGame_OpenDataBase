@@ -28,7 +28,7 @@
       const title = value('game-title');
       const collection = value('collection') === 'main'
         ? translate('主目录：眼动游戏与研究环境', 'Main collection: gaze games and research environments')
-        : translate('相关认知与知觉训练', 'Related cognitive and perceptual training');
+        : translate('眼动训练与研究', 'Eye-tracked training and research');
       const sections = [
         [translate('游戏或项目名称', 'Game or project title'), title],
         [translate('收录方向', 'Collection'), collection],
@@ -79,7 +79,7 @@
       documentation: translate('文档', 'Documentation'),
       accessibility: translate('无障碍改进', 'Accessibility')
     };
-    fetch((english ? '../' : '') + 'data/contributors.json?v=20261016-community')
+    fetch((english ? '../' : '') + 'data/contributors.json?v=20261016-gaze-scope')
       .then(response => { if (!response.ok) throw new Error('credits'); return response.json(); })
       .then(data => {
         const cards = data.contributors.filter(person => /^[A-Za-z0-9](?:[A-Za-z0-9-]{0,37}[A-Za-z0-9])?$/.test(person.github)).map(person => {

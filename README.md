@@ -2,7 +2,7 @@
 
 An open, bilingual database of eye-tracking games and interactive research projects. Browse commercial titles, indie games, accessible gaze experiences, training activities, and academic prototypes, with images, descriptions, hardware details, and primary sources.
 
-**Updated October 16, 2026:** 122 records in the main collection. The Training games page presents seven Brain Game Center training games and the gaze research framework also included in the main collection.
+**Updated October 16, 2026:** 122 records in the main collection. The Training games page presents an eye-tracked perceptual-learning framework also included in the main collection.
 
 ## Explore
 
@@ -34,7 +34,7 @@ The related training collection covers **Poly Rules!, Recollect, Recall, Remembe
 | Dataset | English | Chinese |
 | --- | --- | --- |
 | Main collection — 122 records | [JSON](en/data/games.json) · [CSV](en/data/games.csv) | [JSON](data/games.json) · [CSV](data/games.csv) |
-| Related training — 8 records | [JSON](en/data/related-training.json) · [CSV](en/data/related-training.csv) | [JSON](data/related-training.json) · [CSV](data/related-training.csv) |
+| Related training — 1 shared record | [JSON](en/data/related-training.json) · [CSV](en/data/related-training.csv) | [JSON](data/related-training.json) · [CSV](data/related-training.csv) |
 | Review method and counts | [JSON](en/data/review-method.json) | [JSON](data/review-method.json) |
 
 Records include stable IDs, titles, descriptions, categories, genres, design purposes, gaze roles, input methods, hardware, platforms, populations, evaluation details, edition context, image credits, and source links. Matching IDs connect the two language editions.

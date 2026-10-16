@@ -2,7 +2,7 @@
   "updated_at": "2026-10-16",
   "review_type": "Source-led scoping review and design-space mapping",
   "total_entries": 122,
-  "related_training_games": 7,
+  "related_training_games": 0,
   "related_research_frameworks": 1,
   "primary_category_counts": {
     "Commercial games": 34,
@@ -81,5 +81,5 @@
   "shared_main_and_related_ids": [
     "bgc-gaze-framework"
   ],
-  "unique_records_across_collections": 129
+  "unique_records_across_collections": 122
 }
