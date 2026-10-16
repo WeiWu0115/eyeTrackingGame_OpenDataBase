@@ -75,7 +75,7 @@
       documentation: translate('文档', 'Documentation'),
       accessibility: translate('无障碍改进', 'Accessibility')
     };
-    fetch((english ? '../' : '') + 'data/contributors.json?v=20261016-unified')
+    fetch((english ? '../' : '') + 'data/contributors.json?v=20261016-source-images')
       .then(response => { if (!response.ok) throw new Error('credits'); return response.json(); })
       .then(data => {
         const cards = data.contributors.filter(person => /^[A-Za-z0-9](?:[A-Za-z0-9-]{0,37}[A-Za-z0-9])?$/.test(person.github)).map(person => {

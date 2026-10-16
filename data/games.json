@@ -215,9 +215,9 @@
           "url": "https://arxiv.org/abs/1903.06754"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
+      "image_url": "assets/source-images/atari-head.webp",
+      "image_source": "https://arxiv.org/pdf/1903.06754#page=10",
+      "image_credit": "Zhang et al. / original game rights holders",
       "tags": [
         "Dataset",
         "Measurement",
@@ -237,8 +237,8 @@
         "眼动与动作配对",
         "公开研究数据"
       ],
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_kind": "附录图 1 · Breakout 眼动示例",
+      "image_license": "图片版权归原作者与权利人所有。",
       "availability": "原始研究与项目资料。",
       "notes": "数据集包含 20 款 Atari 游戏的 117 小时游戏操作与眼动记录，按一个研究套件收录。2019 为论文年份。",
       "design_intent": [
@@ -251,7 +251,8 @@
       "target_users": "",
       "evaluation": "资料核查；如有用户研究请查原文",
       "customizability": "",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "balloon-pop-ucsd",
@@ -375,11 +376,11 @@
           "url": "https://vinzzman.itch.io/brewtiful-vision"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_url": "assets/source-images/brewtiful-vision.webp",
+      "image_source": "https://vinzzman.itch.io/brewtiful-vision",
+      "image_credit": "Original game developers",
+      "image_kind": "官方项目截图",
+      "image_license": "图片版权归原作者与权利人所有。",
       "verified_at": "2026-10-16",
       "tags": [
         "Indie",
@@ -409,7 +410,8 @@
       "target_users": "",
       "evaluation": "资料核查；如有用户研究请查原文",
       "customizability": "",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "bushi-duel",
@@ -527,9 +529,9 @@
           "url": "https://www.mdpi.com/2078-2489/13/12/569"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
+      "image_url": "assets/source-images/catch-fruits-hvl.webp",
+      "image_source": "https://www.mdpi.com/2078-2489/13/12/569",
+      "image_credit": "Ali et al. (2022)",
       "tags": [
         "Research",
         "Training"
@@ -548,8 +550,8 @@
         "视觉扫描",
         "眼动记录与回放"
       ],
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_kind": "论文图 3 · 游戏画面",
+      "image_license": "图片版权归原作者与权利人所有。",
       "availability": "原始研究与项目资料。",
       "notes": "研究报告了 5 人可用性评估。",
       "design_intent": [
@@ -563,7 +565,8 @@
       "target_users": "",
       "evaluation": "5 人可用性研究。",
       "customizability": "",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "chess",
@@ -747,11 +750,11 @@
           "url": "https://volo.itch.io/coups-doeil"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_url": "assets/source-images/coups-doeil.webp",
+      "image_source": "https://volo.itch.io/coups-doeil",
+      "image_credit": "Original game developers",
+      "image_kind": "官方项目截图",
+      "image_license": "图片版权归原作者与权利人所有。",
       "verified_at": "2026-10-16",
       "tags": [
         "Hands-free",
@@ -781,7 +784,8 @@
       "target_users": "",
       "evaluation": "资料核查；如有用户研究请查原文",
       "customizability": "",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "dcs",
@@ -848,11 +852,11 @@
           "url": "https://sebablanco.itch.io/defeat-your-monsters"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_url": "assets/source-images/defeat-inner-monsters.webp",
+      "image_source": "https://sebablanco.itch.io/defeat-your-monsters",
+      "image_credit": "Original game developers",
+      "image_kind": "官方项目截图",
+      "image_license": "图片版权归原作者与权利人所有。",
       "verified_at": "2026-10-16",
       "tags": [
         "Accessibility",
@@ -883,7 +887,8 @@
       "target_users": "",
       "evaluation": "资料核查；如有用户研究请查原文",
       "customizability": "",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "desiree-eyes-on-you",
@@ -1516,11 +1521,11 @@
       "title": "Eye Can Fly",
       "year": null,
       "verified_at": "2026-10-16",
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_url": "assets/source-images/eye-can-fly.webp",
+      "image_source": "https://support.inclusive.com/article/eye-can-fly",
+      "image_credit": "Inclusive Technology",
+      "image_kind": "官方项目配图",
+      "image_license": "图片版权归原作者与权利人所有。",
       "sources": [
         {
           "title": "官方资料 / Official documentation",
@@ -1557,7 +1562,8 @@
       "notes": "使用眼动鼠标控制；Options 与 Quit 按钮采用标准鼠标点击。",
       "genre_family": "Learning & training",
       "evidence": "资料依据：官方资料 / Official documentation.",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "eyechess-research",
@@ -1570,11 +1576,11 @@
           "url": "https://homepages.tuni.fi/oleg.spakov/publications/Spakov_ECEM_05.pdf"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_url": "assets/source-images/eyechess-research.webp",
+      "image_source": "https://homepages.tuni.fi/oleg.spakov/publications/Spakov_ECEM_05.pdf#page=4",
+      "image_credit": "Špakov & Miniotas (2005)",
+      "image_kind": "作者演示资料 · 游戏界面",
+      "image_license": "图片版权归原作者与权利人所有。",
       "tags": [
         "Research"
       ],
@@ -1606,7 +1612,8 @@
       "evaluation": "小规模选择方式试验及4人教学评估；停留选择较受偏好。",
       "customizability": "",
       "title_zh": "眼控国际象棋残局教学",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "eyegrab",
@@ -1619,9 +1626,9 @@
           "url": "https://people.cs.nott.ac.uk/pszmw/EuroHCIR2012-Proceedings.pdf"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
+      "image_url": "assets/source-images/eyegrab.webp",
+      "image_source": "https://people.cs.nott.ac.uk/pszmw/EuroHCIR2012-Proceedings.pdf#page=64",
+      "image_credit": "Walber, Neuhaus & Scherp (2012)",
       "tags": [
         "Data collection",
         "Research"
@@ -1640,8 +1647,8 @@
         "注视分类",
         "有目的游戏"
       ],
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_kind": "论文图 1 · 角色选择界面",
+      "image_license": "图片版权归原作者与权利人所有。",
       "availability": "原始研究与项目资料。",
       "notes": "游戏设计论文收录于研讨会论文集。",
       "design_intent": [
@@ -1654,7 +1661,8 @@
       "target_users": "",
       "evaluation": "资料核查；如有用户研究请查原文",
       "customizability": "",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "eyelines",
@@ -1675,11 +1683,11 @@
           "url": "https://megmoscow.ru/wp-content/uploads/pubs/10.1109_access.2025.3568650.pdf"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_url": "assets/source-images/eyelines.webp",
+      "image_source": "https://doi.org/10.3389/fnins.2016.00528",
+      "image_credit": "Shishkin et al. (2016)",
+      "image_kind": "论文图 2",
+      "image_license": "图片版权归原作者与权利人所有。",
       "tags": [
         "Research"
       ],
@@ -1710,7 +1718,8 @@
       "evaluation": "2016年EEG研究8人；2025年在线研究分析15人，在该环境中机器学习减少了误选择。",
       "customizability": "不同研究版本采用不同停留阈值及分类模式。",
       "title_zh": "眼控彩球连线",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "eyes-first-double-up",
@@ -2271,9 +2280,9 @@
           "url": "https://eprints.lancs.ac.uk/id/eprint/76717/1/2015vellosophd.pdf"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
+      "image_url": "assets/source-images/feyerball-mage.webp",
+      "image_source": "https://eprints.lancs.ac.uk/id/eprint/76717/1/2015vellosophd.pdf#page=141",
+      "image_credit": "Eduardo Velloso (2015)",
       "tags": [
         "Multimodal",
         "Research"
@@ -2292,8 +2301,8 @@
         "注视瞄准",
         "身体动作"
       ],
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_kind": "学位论文图 56 · Arcade+ 游戏总览，分图 A",
+      "image_license": "图片版权归原作者与权利人所有。",
       "availability": "原始研究与项目资料。",
       "notes": "Arcade+ 平台的独立示例游戏。",
       "design_intent": [
@@ -2306,7 +2315,8 @@
       "target_users": "",
       "evaluation": "资料核查；如有用户研究请查原文",
       "customizability": "",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "flower-power-ucsd",
@@ -2475,11 +2485,11 @@
           "url": "https://projekter.aau.dk/projekter/files/334550950/MTA201041_Effects_of_Perceived_Speed_on_Performance_Between.pdf"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_url": "assets/source-images/gaze-hero.webp",
+      "image_source": "https://projekter.aau.dk/projekter/files/334550950/MTA201041_Effects_of_Perceived_Speed_on_Performance_Between.pdf#page=4",
+      "image_credit": "Thomassen (2020)",
+      "image_kind": "学位论文图 1 · 游戏画面",
+      "image_license": "图片版权归原作者与权利人所有。",
       "tags": [
         "Research"
       ],
@@ -2510,7 +2520,8 @@
       "evaluation": "16 人、3 个速度等级；快速条件下鼠标表现更佳。",
       "customizability": "研究使用三个感知速度等级。",
       "title_zh": "注视节奏英雄",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "bgc-gaze-framework",
@@ -2582,11 +2593,11 @@
           "url": "https://ebayyibei.itch.io/gazedhouse"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_url": "assets/source-images/gazed-house.webp",
+      "image_source": "https://ebayyibei.itch.io/gazedhouse",
+      "image_credit": "Original game developers",
+      "image_kind": "官方项目截图",
+      "image_license": "图片版权归原作者与权利人所有。",
       "verified_at": "2026-10-16",
       "tags": [
         "Horror",
@@ -2615,18 +2626,19 @@
       "target_users": "",
       "evaluation": "资料核查；如有用户研究请查原文",
       "customizability": "",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "gazeplay",
       "title": "GazePlay",
       "year": null,
       "verified_at": "2026-10-16",
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_url": "assets/source-images/gazeplay.webp",
+      "image_source": "https://gazeplay.github.io/GazePlay/games/",
+      "image_credit": "GazePlay contributors",
+      "image_kind": "官方游戏截图 · Cream Pie",
+      "image_license": "图片版权归原作者与权利人所有。",
       "sources": [
         {
           "title": "官方资料 / Official documentation",
@@ -2669,7 +2681,8 @@
       "notes": "以游戏套件收录，设备配置见驱动与鼠标控制文档。",
       "genre_family": "Learning & training",
       "evidence": "资料依据：官方资料 / Official documentation.",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "gazetrain",
@@ -2686,9 +2699,9 @@
           "url": "https://backend.orbit.dtu.dk/ws/portalfiles/portal/4620969/tr09_08-rev.pdf"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
+      "image_url": "assets/source-images/gazetrain.webp",
+      "image_source": "https://www.lasselaursen.com/projects/gazetrain/",
+      "image_credit": "Lasse Laursen",
       "tags": [
         "Accessibility",
         "Research"
@@ -2707,8 +2720,8 @@
         "注视铺轨",
         "练习／资源／计时模式"
       ],
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_kind": "官方项目配图",
+      "image_license": "图片版权归原作者与权利人所有。",
       "availability": "原始研究与项目资料。",
       "notes": "作者项目页提供历史版本与源码。",
       "design_intent": [
@@ -2721,7 +2734,8 @@
       "target_users": "",
       "evaluation": "资料核查；如有用户研究请查原文",
       "customizability": "",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "gazey-golf",
@@ -2840,11 +2854,11 @@
           "url": "https://www.mdpi.com/2414-4088/3/3/61"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_url": "assets/source-images/geyeded.webp",
+      "image_source": "https://www.mdpi.com/2414-4088/3/3/61",
+      "image_credit": "Lankes, Haslinger & Wolff (2019)",
+      "image_kind": "论文图 1 · 游戏原型",
+      "image_license": "图片版权归原作者与权利人所有。",
       "availability": "原始研究与项目资料。",
       "notes": "设备与研究目标依据论文摘要记录，配机制示意图。",
       "year": 2019,
@@ -2863,7 +2877,8 @@
       "target_users": "",
       "evaluation": "资料核查；如有用户研究请查原文",
       "customizability": "",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "breakpoint",
@@ -2927,11 +2942,11 @@
           "url": "https://gaming.tobii.com/games/glimpse-of-fear/"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_url": "assets/source-images/glimpse-of-fear.webp",
+      "image_source": "https://beyonite.itch.io/glimpse-of-fear",
+      "image_credit": "Original game developers",
+      "image_kind": "官方项目截图",
+      "image_license": "图片版权归原作者与权利人所有。",
       "verified_at": "2026-10-16",
       "tags": [
         "Historical",
@@ -2961,7 +2976,8 @@
       "target_users": "",
       "evaluation": "资料核查；如有用户研究请查原文",
       "customizability": "",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "half-life2-gaze-mod",
@@ -2974,9 +2990,9 @@
           "url": "https://arxiv.org/abs/1004.0259"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
+      "image_url": "assets/source-images/half-life2-gaze-mod.webp",
+      "image_source": "https://arxiv.org/pdf/1004.0259#page=2",
+      "image_credit": "Nacke et al. (2009)",
       "tags": [
         "Mod",
         "Research"
@@ -2995,8 +3011,8 @@
         "眼动导航",
         "玩家体验评估"
       ],
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_kind": "论文图 1 · 眼动交互环境",
+      "image_license": "图片版权归原作者与权利人所有。",
       "availability": "原始研究与项目资料。",
       "notes": "Half-Life 2 研究改版；实验开展于 2007 年，会议论文发表于 2009 年。",
       "design_intent": [
@@ -3009,7 +3025,8 @@
       "target_users": "",
       "evaluation": "资料核查；如有用户研究请查原文",
       "customizability": "",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "helpkidzlearn-games",
@@ -3249,11 +3266,11 @@
           "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8482411/"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_url": "assets/source-images/invirs.webp",
+      "image_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8482411/",
+      "image_credit": "Amat et al. (2021)",
+      "image_kind": "论文图 1",
+      "image_license": "图片版权归原作者与权利人所有。",
       "tags": [
         "Research"
       ],
@@ -3286,7 +3303,8 @@
       "evaluation": "可行性试验：9名自闭症儿童及9名典型发展儿童，7至13岁，三次访问。",
       "customizability": "角色视线提示及辅助依据个人表现调整。",
       "title_zh": "InViRS共同注意游戏系统",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "invisible-eni",
@@ -3464,11 +3482,11 @@
           "url": "https://doi.org/10.3390/bs14100871"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_url": "assets/source-images/lego-puzzle-joint-attention.webp",
+      "image_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11505074/",
+      "image_credit": "Original study authors (2024)",
+      "image_kind": "论文图 1",
+      "image_license": "图片版权归原作者与权利人所有。",
       "tags": [
         "Research"
       ],
@@ -3500,7 +3518,8 @@
       "evaluation": "40名自闭症儿童及31名典型发展儿童；比较线索反应，属于任务研究而非长期治疗试验。",
       "customizability": "",
       "title_zh": "积木共同注意实验游戏",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "limbitless-journey",
@@ -3577,9 +3596,9 @@
           "url": "https://dl.digra.org/index.php/dl/article/download/722/722/719"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
+      "image_url": "assets/source-images/limus-beholders.webp",
+      "image_source": "https://dl.digra.org/index.php/dl/article/download/722/722/719",
+      "image_credit": "Lankes & Wagner (2015)",
       "tags": [
         "Multimodal",
         "Research"
@@ -3598,8 +3617,8 @@
         "注视冻结敌人",
         "注意力两难"
       ],
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_kind": "论文图 1 · 游戏原型",
+      "image_license": "图片版权归原作者与权利人所有。",
       "availability": "原始研究与项目资料。",
       "notes": "论文比较注视可视化形式；日期指本次收录的研究论文。",
       "design_intent": [
@@ -3612,7 +3631,8 @@
       "target_users": "",
       "evaluation": "资料核查；如有用户研究请查原文",
       "customizability": "",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "look-lab",
@@ -3936,9 +3956,9 @@
           "url": "https://pong-center.ucsd.edu/eye-tracking-games/"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
+      "image_url": "assets/source-images/mole-whack-ucsd.webp",
+      "image_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5897171/",
+      "image_credit": "Chukoskie et al. (2018)",
       "tags": [
         "Research",
         "Training"
@@ -3957,8 +3977,8 @@
         "注视命中",
         "抑制干扰"
       ],
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_kind": "论文图 1",
+      "image_license": "图片版权归原作者与权利人所有。",
       "availability": "原始研究与项目资料。",
       "notes": "2018 年单组家庭训练试点中的小游戏，8 人招募、6 人完成；关联目录版本 Dr. Mole & Mr. Hide 供版本对照。",
       "design_intent": [
@@ -3975,7 +3995,8 @@
       "related_entries": [
         "dr-mole-mr-hide-ucsd"
       ],
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "nevermind",
@@ -4096,9 +4117,9 @@
           "url": "https://arxiv.org/abs/2407.03298"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
+      "image_url": "assets/source-images/overcooked-gaze-research.webp",
+      "image_source": "https://arxiv.org/pdf/2407.03298#page=3",
+      "image_credit": "Hulle et al. (2024)",
       "tags": [
         "Human-AI collaboration",
         "Measurement",
@@ -4118,8 +4139,8 @@
         "协作行为",
         "意图推断"
       ],
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_kind": "论文图 2 · 研究游戏布局",
+      "image_license": "图片版权归原作者与权利人所有。",
       "availability": "原始研究与项目资料。",
       "notes": "采用 Overcooked 实验环境研究协作注视；2024 为论文年份。",
       "design_intent": [
@@ -4132,7 +4153,8 @@
       "target_users": "",
       "evaluation": "资料核查；如有用户研究请查原文",
       "customizability": "",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "patin-grappin",
@@ -4532,11 +4554,11 @@
           "url": "https://momschale.itch.io/rune"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_url": "assets/source-images/rune.webp",
+      "image_source": "https://momschale.itch.io/rune",
+      "image_credit": "Original game developers",
+      "image_kind": "官方项目截图",
+      "image_license": "图片版权归原作者与权利人所有。",
       "verified_at": "2026-10-16",
       "tags": [
         "Indie",
@@ -4567,7 +4589,8 @@
       "target_users": "",
       "evaluation": "资料核查；如有用户研究请查原文",
       "customizability": "",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "scp-eye-tracking-edition",
@@ -4825,9 +4848,9 @@
           "url": "https://www.uni-ulm.de/fileadmin/website_uni_ulm/iui.inst.100/1-hci/hci-paper/2024/CHI_2024_Shed_Some_Fear_preprint.pdf"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
+      "image_url": "assets/source-images/shed-some-fear.webp",
+      "image_source": "https://www.uni-ulm.de/fileadmin/website_uni_ulm/iui.inst.100/1-hci/hci-paper/2024/CHI_2024_Shed_Some_Fear_preprint.pdf#page=1",
+      "image_credit": "Colley et al. (2024)",
       "tags": [
         "Multimodal",
         "Research"
@@ -4847,8 +4870,8 @@
         "移动／保持物体",
         "注视攻击"
       ],
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_kind": "论文图 1 · 六个游戏关卡",
+      "image_license": "图片版权归原作者与权利人所有。",
       "availability": "原始研究与项目资料。",
       "notes": "研究指标包括享受度、感知能力和数字眼疲劳。",
       "design_intent": [
@@ -4861,7 +4884,8 @@
       "target_users": "",
       "evaluation": "资料核查；如有用户研究请查原文",
       "customizability": "",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "shroom-digger-ucsd",
@@ -5142,9 +5166,9 @@
           "url": "https://eprints.lancs.ac.uk/id/eprint/76717/1/2015vellosophd.pdf"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
+      "image_url": "assets/source-images/stargazing-arcade.webp",
+      "image_source": "https://eprints.lancs.ac.uk/id/eprint/76717/1/2015vellosophd.pdf#page=141",
+      "image_credit": "Eduardo Velloso (2015)",
       "tags": [
         "Multimodal",
         "Research"
@@ -5163,8 +5187,8 @@
         "注视照明",
         "按键射击"
       ],
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_kind": "学位论文图 56 · Arcade+ 游戏总览，分图 B",
+      "image_license": "图片版权归原作者与权利人所有。",
       "availability": "原始研究与项目资料。",
       "notes": "Arcade+ 平台上的眼控游戏示例。",
       "design_intent": [
@@ -5177,7 +5201,8 @@
       "target_users": "",
       "evaluation": "资料核查；如有用户研究请查原文",
       "customizability": "",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "stonesight",
@@ -5191,11 +5216,11 @@
           "url": "https://lionieloewenherz.itch.io/stonesight-find-your-balance"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_url": "assets/source-images/stonesight.webp",
+      "image_source": "https://lionieloewenherz.itch.io/stonesight-find-your-balance",
+      "image_credit": "Original game developers",
+      "image_kind": "官方项目截图",
+      "image_license": "图片版权归原作者与权利人所有。",
       "verified_at": "2026-10-16",
       "tags": [
         "Hands-free",
@@ -5225,7 +5250,8 @@
       "target_users": "",
       "evaluation": "资料核查；如有用户研究请查原文",
       "customizability": "",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "sudoku",
@@ -5336,9 +5362,9 @@
           "url": "https://eprints.lancs.ac.uk/id/eprint/133629/1/SuperVision_CHI_CameraReady.pdf"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
+      "image_url": "assets/source-images/supervision.webp",
+      "image_source": "https://eprints.lancs.ac.uk/id/eprint/133629/1/SuperVision_CHI_CameraReady.pdf#page=4",
+      "image_credit": "Ramirez Gomez & Gellersen (2019)",
       "tags": [
         "Perception",
         "Research"
@@ -5357,8 +5383,8 @@
         "注视回避",
         "周边视觉"
       ],
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_kind": "论文图 1 · 游戏场景",
+      "image_license": "图片版权归原作者与权利人所有。",
       "availability": "原始研究与项目资料。",
       "notes": "研究围绕周边视觉与注视回避设计游戏挑战。",
       "design_intent": [
@@ -5371,7 +5397,8 @@
       "target_users": "",
       "evaluation": "24 人设计评估。",
       "customizability": "",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "synapse",
@@ -5581,9 +5608,9 @@
           "url": "https://www.collaborative-ai.org/publications/vidal15_chi.pdf"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
+      "image_url": "assets/source-images/royal-corgi.webp",
+      "image_source": "https://www.collaborative-ai.org/publications/vidal15_chi.pdf#page=1",
+      "image_credit": "Vidal et al. (2015)",
       "tags": [
         "Research",
         "Social gaze"
@@ -5602,8 +5629,8 @@
         "角色响应注视",
         "社交互动"
       ],
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_kind": "论文图 1 · 对话交互",
+      "image_license": "图片版权归原作者与权利人所有。",
       "availability": "原始研究与项目资料。",
       "notes": "以 2015 年完整研究论文为年份；2014 年已有展示版本。",
       "design_intent": [
@@ -5617,7 +5644,8 @@
       "target_users": "",
       "evaluation": "资料核查；如有用户研究请查原文",
       "customizability": "",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "hunter",
@@ -5850,11 +5878,11 @@
           "url": "https://doi.org/10.1007/978-3-319-91250-9_31"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_url": "assets/source-images/trackmaze.webp",
+      "image_source": "https://doi.org/10.1007/978-3-319-91250-9_31",
+      "image_credit": "Abbaszadegan, Yaghoubi & MacKenzie (2018)",
+      "image_kind": "论文图 1",
+      "image_license": "图片版权归原作者与权利人所有。",
       "tags": [
         "Research"
       ],
@@ -5885,7 +5913,8 @@
       "evaluation": "12人研究；该设备及任务中，倾斜最快最准，眼动较慢且较疲劳。",
       "customizability": "每种输入方式均测试了两种增益。",
       "title_zh": "眼控滚球迷宫",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "trapped-a-zoid-ucsd",
@@ -5955,9 +5984,9 @@
           "url": "https://eprints.lancs.ac.uk/id/eprint/136918/1/CHI_Play_2019_CameraReady.pdf"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
+      "image_url": "assets/source-images/twileyed.webp",
+      "image_source": "https://eprints.lancs.ac.uk/id/eprint/136918/1/CHI_Play_2019_CameraReady.pdf#page=3",
+      "image_credit": "Ramirez Gomez & Gellersen (2019)",
       "tags": [
         "Experimental",
         "Research"
@@ -5976,8 +6005,8 @@
         "选择／导航／瞄准",
         "注意力冲突"
       ],
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_kind": "论文图 1 · 三个游戏场景",
+      "image_license": "图片版权归原作者与权利人所有。",
       "availability": "原始研究与项目资料。",
       "notes": "",
       "design_intent": [
@@ -5990,7 +6019,8 @@
       "target_users": "",
       "evaluation": "资料核查；如有用户研究请查原文",
       "customizability": "",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "vintage-vroomers-ucsd",
@@ -6057,9 +6087,9 @@
           "url": "https://eprints.lancs.ac.uk/id/eprint/76717/1/2015vellosophd.pdf"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
+      "image_url": "assets/source-images/virus-hunt-arcade.webp",
+      "image_source": "https://eprints.lancs.ac.uk/id/eprint/76717/1/2015vellosophd.pdf#page=141",
+      "image_credit": "Eduardo Velloso (2015)",
       "tags": [
         "Multimodal",
         "Perception",
@@ -6079,8 +6109,8 @@
         "触屏",
         "注视惩罚"
       ],
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_kind": "学位论文图 56 · Arcade+ 游戏总览，分图 C",
+      "image_license": "图片版权归原作者与权利人所有。",
       "availability": "原始研究与项目资料。",
       "notes": "Arcade+ 平台上的眼控游戏示例。",
       "design_intent": [
@@ -6093,7 +6123,8 @@
       "target_users": "",
       "evaluation": "资料核查；如有用户研究请查原文",
       "customizability": "",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "adhd-vr-space-prototype",
@@ -6106,9 +6137,9 @@
           "url": "https://ieee-cog.org/2021/assets/papers/paper_269.pdf"
         }
       ],
-      "image_url": "assets/image-placeholder.svg",
-      "image_source": "assets/image-placeholder.svg",
-      "image_credit": "Gaze Atlas",
+      "image_url": "assets/source-images/adhd-vr-space-prototype.webp",
+      "image_source": "https://ieee-cog.org/2021/assets/papers/paper_269.pdf#page=2",
+      "image_credit": "Graf et al. (2021)",
       "tags": [
         "Research",
         "Training",
@@ -6129,8 +6160,8 @@
         "停留收集",
         "干扰抑制"
       ],
-      "image_kind": "配图占位",
-      "image_license": "CC BY 4.0",
+      "image_kind": "论文图 1 · 快速与专注阶段",
+      "image_license": "图片版权归原作者与权利人所有。",
       "availability": "原始研究与项目资料。",
       "notes": "采用描述性目录标题；论文记录原型设计，并提出儿童评估计划。",
       "design_intent": [
@@ -6144,7 +6175,8 @@
       "target_users": "",
       "evaluation": "原型设计论文，附儿童评估计划。",
       "customizability": "",
-      "population_group": ""
+      "population_group": "",
+      "image_fit": "contain"
     },
     {
       "id": "overworld",
