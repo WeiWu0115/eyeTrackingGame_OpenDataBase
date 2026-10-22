@@ -55,3 +55,8 @@ python3 -m unittest discover -s tests
 ## 协作与授权
 
 围绕项目友善交流，贡献由维护者审核。原创描述与数据使用项目的 CC BY 4.0 条款，代码使用 MIT。第三方图片和论文保留原授权，并随来源记录。修改条目时保留证据链接和贡献者署名。
+
+
+## 研究论文
+
+可使用双语论文 Issue 表单，或编辑 `data/papers.json`。请提供稳定 ID、原文题目、作者、年份、发表出处、文献类型、主题、原创双语简介、原文链接、已核实 DOI、发现来源、核查日期与关联游戏 ID。会议与期刊版本各自保留条目并建立关联，贡献者记录在致谢名录中。运行 `python3 scripts/build_research.py` 生成双语页面与 CSV，再运行 `python3 scripts/validate_research.py` 检查。

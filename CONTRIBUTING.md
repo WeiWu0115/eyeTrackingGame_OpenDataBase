@@ -65,3 +65,8 @@ Open `http://localhost:8765/en/` or `http://localhost:8765/`.
 ## Review and licensing
 
 Keep discussions respectful and focused on the project. Contributions are reviewed by the maintainers. Share original descriptions and data contributions under the repository's CC BY 4.0 terms, and code under MIT. Record third-party media and paper rights with their sources. Credit contributors and retain evidence links when updating a record.
+
+
+## Research papers
+
+Use the bilingual paper issue forms, or edit `data/papers.json`. Include a stable ID, original title, authors, publication year, venue, publication type, topic, original bilingual summaries, primary URL, DOI when verified, discovery source, checked date, and related game IDs. Keep conference and journal versions distinct and link related records. Credit contributions in the contributor registry. Run `python3 scripts/build_research.py` to regenerate both pages and CSV, then `python3 scripts/validate_research.py`.

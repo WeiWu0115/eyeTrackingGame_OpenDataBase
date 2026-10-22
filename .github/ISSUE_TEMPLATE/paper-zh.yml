@@ -1,0 +1,47 @@
+name: "提交研究论文"
+description: "推荐眼动研究文献，扩充双语研究库。"
+title: "[Paper] "
+body:
+  - type: input
+    id: title
+    attributes:
+      label: "Paper title / 论文题目"
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: "DOI or original publication URL / DOI 或原文链接"
+    validations:
+      required: true
+  - type: input
+    id: citation
+    attributes:
+      label: "Authors, year and venue / 作者、年份与发表出处"
+    validations:
+      required: true
+  - type: dropdown
+    id: publication_type
+    attributes:
+      label: "Publication type / 文献类型"
+      options:
+        - Journal article / 期刊论文
+        - Conference material / 会议资料
+        - Preprint / 预印本
+        - Book or chapter / 书籍或章节
+        - Other / 其他
+  - type: textarea
+    id: summary
+    attributes:
+      label: "Research question and methods / 研究问题与方法"
+      description: "Write in English, Chinese, or both. / 可使用中文、英文或双语。"
+    validations:
+      required: true
+  - type: input
+    id: related_games
+    attributes:
+      label: "Related games or database IDs / 关联游戏或条目 ID"
+  - type: input
+    id: credit
+    attributes:
+      label: "GitHub handle for credit / 用于致谢的 GitHub 用户名"

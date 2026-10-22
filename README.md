@@ -2,7 +2,7 @@
 
 An open, bilingual database of eye-tracking games and interactive research projects. Browse commercial titles, indie games, accessible gaze experiences, training activities, and academic prototypes, with images, descriptions, hardware details, and primary sources.
 
-**Updated October 16, 2026:** 122 records in the main collection.
+**Updated October 22, 2026:** 122 game records and 57 research publication records.
 
 ## Explore
 
@@ -11,6 +11,14 @@ An open, bilingual database of eye-tracking games and interactive research proje
 - [Research review and classification](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/en/review.html)
 
 The website supports keyword search and filters for category, genre, design purpose, gaze role, hardware, interaction, and research population. Projects from UCSD PoNG and other institutions use the same classification; institutional provenance accompanies their sources.
+
+## Research library
+
+[English Research](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/en/research.html) · [中文研究论文](https://sharkburger.github.io/eyeTrackingGame_OpenDataBase/research.html)
+
+Browse 57 publication records by topic, year, and publication type. The initial collection includes 55 records discovered through HarmonEyes Science plus the PoNG pilot study and Atari-HEAD paper already cited by the game database. Each record includes an original title, authors, venue, bilingual research focus, source links, and a DOI where identified. Related games and publication versions are linked. Publication types distinguish articles, conference materials, chapters, edited volumes, editorials, abstracts, and preprints.
+
+Download [bilingual JSON](data/papers.json) or [CSV](data/papers.csv). Source-listing dates and metadata provenance are retained in the dataset. Original documents take precedence when correcting bibliographic details.
 
 ## Collection coverage
 
