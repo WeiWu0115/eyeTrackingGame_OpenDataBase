@@ -10,6 +10,8 @@ def validate(root=ROOT):
   if not ok:errors.append(message)
  check(len(ids)==len(set(ids)),'Duplicate research ID')
  check(len({p['url'] for p in papers})==len(papers),'Duplicate original publication URL')
+ dois=[p['doi'].lower() for p in papers if p['doi']]
+ check(len(dois)==len(set(dois)),'Duplicate publication DOI')
  games={g['id'] for g in json.loads((root/'data/games.json').read_text())['games']}
  for p in papers:
   for key in ['id','title','authors','venue','summary_en','summary_zh','publication_type','topic','url','discovery_source','checked_at','metadata_basis']:check(bool(p.get(key)),f'{p["id"]}: missing {key}')
